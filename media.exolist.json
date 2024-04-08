@@ -1524,5 +1524,15 @@
         "icono": "https://i.ibb.co/rs275XF/rosadeguada.jpg"
       }
     ]
+  },
+  {
+    "name": "\uD83C\uDFA5 PELICULAS",
+    "samples": [
+      {
+        "name": "BLUE BEETLE",
+        "uri": "https://cache003.peliscdn.online/newhls/ff2a97300310a75dd7b7b4083afe3008/EP.0.0.v1.1708606730.720.m3u8",
+        "icono": "https://pelisimg.online/cover/blue-beetle-1692423798.png"
+      }
+    ]
   }
 ]
