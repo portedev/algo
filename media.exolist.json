@@ -80,11 +80,44 @@
         "icono": "https://i.ibb.co/jVhwqC7/canal26.webp"
       },
       {
+        "name": "INFORMACION PERIODISTICA",
+        "uri": "https://cdn.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc/Investigacion_Periodistica.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5299f96f873aa0f0e47edc4e15784717&key=9d53176b0969492f2d93f1867be1dce1",
+        "icono": "https://i.ibb.co/BTyTvWS/ip.webp"
+      },
+      {
         "name": "CIUDAD MAGAZINE",
         "uri": "https://edge-live17-hr.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc_2A/Magazine.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4f1235069d34c22cb73d9b78bae15587&key=55e068ff6b152e34c66dc639b38e8692",
         "icono": "https://i.ibb.co/f4SZ0vJ/ciudad.webp"
+      },
+      {
+        "name": "NET TV",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc_2A/Net_TV.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=89d433166edd31d56df2a59df8ec6704&key=b2015faded0a456d10aa8db1b4cbac68",
+        "icono": "https://i.ibb.co/KK5nX8y/nettv.webp"
+      },
+      {
+        "name": "ARGENTINISIMA",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc_2A/Argentinisima.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a6243f46366445ebbf3117ec27365481&key=81667cdc3bcf19a6a66c0919fa00a20b",
+        "icono": "https://i.ibb.co/yRkMMDy/argentinisima.png"
+      },
+      {
+        "name": "CANAL RURAL",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Canal_Rural/SA_Live_dash_enc_2A/Canal_Rural.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b02c568163c14cfda4ddb958a0aab742&key=ef64a70ac85a663a3308be6476610aad",
+        "icono": "https://i.ibb.co/9h7W7zp/rural.webp"
+      },
+      {
+        "name": "CHACRA TV",
+        "uri": "https://s8.stweb.tv/chacra/live/playlist.m3u8",
+        "icono": "https://i.ibb.co/rxd7d7G/chacra-tv.png"
       },
       {
         "name": "BRAVO TV",
@@ -364,6 +397,13 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f362097815892a4b83950f1d106ff0b2&key=4349e42e81c31a8389f4a42fcd298928",
         "icono": "https://i.ibb.co/SJwqtWQ/deportv.webp"
+      },
+      {
+        "name": "AMERICA SPORTS",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_dash_enc_2A/America_Sports.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a0aa01337a2148bda1e21862295ae037&key=fee0f87a0527497351fc54ce36ad1de2",
+        "icono": "https://i.ibb.co/w7pMyQf/america-sports.png"
       },
       {
         "name": "GARAGE TV",
