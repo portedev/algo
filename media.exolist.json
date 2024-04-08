@@ -252,18 +252,30 @@
     "name": "⚽ PACK FUTBOL ARG",
     "samples": [
       {
-        "name": "ESPN PREMIUM",
-        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
+        "name": "ESPN PREMIUM OPC1",
+        "uri": "https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
+        "icono": "https://i.postimg.cc/02BdYRZz/ver-espn-premium-en-vivo.jpg"
+      },
+      {
+        "name": "ESPN PREMIUM OPC2",
+        "uri": "http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1528",
         "icono": "https://i.ibb.co/CKQ76HF/espnpr.webp"
       },
       {
-        "name": "TNT SPORTS",
+        "name": "TNT SPORTS OPC1",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
         "icono": "https://i.ibb.co/ssp3M69/tntsports.png"
+      },
+      {
+        "name": "TNT SPORTS OPC2",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
+        "icono": "https://i.postimg.cc/kMkS5BVf/TNT-SPORTS-ARGENTINA.png"
       },
       {
         "name": "TYC SPORTS INTERNACIONAL",
@@ -342,7 +354,7 @@
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/PX_Sports/SA_Live_dash_enc_2A/PX_Sports.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9393321daef1463fc7e2e060298db852&key=be6bc91e17816f67e62596bed463c5ad",
-        "icono": "https://i.ibb.co/YpHnN4p/espn2.webp"
+        "icono": "https://i.ibb.co/WKg5M4h/pxsports.png"
       },
       {
         "name": "DEPORTV",
