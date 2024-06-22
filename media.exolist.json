@@ -321,6 +321,13 @@
     "name": "\uD83C\uDFC6 DEPORTES",
     "samples": [
       {
+        "name": "EVENTOS 1",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5c86e237317c2231ac1bc130e995fad6&key=dcacf7b239ee03df3c69ca11dbcde4eb",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flow_logo_2021.svg/1024px-Flow_logo_2021.svg.png"
+      },
+      {
         "name": "ESPN",
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
         "drm_scheme": "clearkey",
