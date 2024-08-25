@@ -1006,43 +1006,33 @@
       {
         "name": "TL NOVELAS",
         "uri" : "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
-        "icono": "https://i.ibb.co/Zg3nQn7/tlnovelas.png"
+        "icono": "https://github.com/portedev/algo/releases/download/N0v3l4ss/Tln0v3l4s.png"
       },
       {
         "name": "CANAL DE LAS ESTRELLAS",
         "uri" : "https://cdn.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc_2A/Canal_de_las_estrellas.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=b37d85be9d2b4b619f945beff713fda3&key%5B%5D=917309c98f072b0bd484dd6560c6d166",
-        "icono": "https://i.ibb.co/3MydzyG/estrellas.png"
+        "icono": "https://github.com/portedev/algo/releases/download/N0v3l4ss/C4n4l.d3.l4s.Estr3ll4s.png"
       },
       {
         "name": "TNT NOVELAS",
         "uri" : "https://cdn.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc_2A/TBS.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=49a0179b034ae899cb67d8a5834181aa&key%5B%5D=486e2c6d69adea7e17f2960e8e366612",
-        "icono": "https://i.ibb.co/YZX2RGh/tntnovelas.png"
+        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/tnt.N0v3l4s.png"
       },
       {
         "name": "PASIONES",
         "uri" : "https://cdn.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc_2A/Pasiones.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=d41cf825e878f0d8e276218af7f5b7e1&key%5B%5D=13d1b73ab578ab8623be9347bcf8972a",
-        "icono": "https://i.ibb.co/HVxFKqP/pasiones.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/N0v3l4ss/P4s10n3s.png"
       },
       {
         "name": "TELEMUNDO",
         "uri": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8",
-        "icono": "http://imgfz.com/i/cuq0V9R.png"
-      },
-      {
-        "name": "LAS ESTRELLAS",
-        "uri": "https://channel01.akamaized.net/hls/live/2022749/event01/index_6.m3u8",
-        "icono": "https://i.ibb.co/3MydzyG/estrellas.png"
-      },
-      {
-        "name": "NOVELAS",
-        "uri": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
-        "icono": "https://i.ibb.co/W5ch0by/Tlnovelas-2011-logo-svg.png"
+        "icono": "https://github.com/portedev/algo/releases/download/N0v3l4ss/T3l3mund0.png"
       }
     ]
   },
@@ -1054,35 +1044,35 @@
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc_2A/MTV_Hits.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=61008dfc867544cd872de99b1f2b82cf&key=716449756316b91c54803aaa22a2fbf0",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/2560px-MTV_Logo_2010.svg.png"
+        "icono": "https://github.com/portedev/algo/releases/download/Muus1c44ss/mtv.H1ts.png"
       },
       {
         "name": "ESENCIALES VORTERIX",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc/Vorterix.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=eabe2c22350c26c7f0ad84b34932f08d&key=39fa06836ec0f81d8dd9b6e01a3070e3",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg"
+        "icono": "https://github.com/portedev/algo/releases/download/Muus1c44ss/v0rt3r1x.png"
       },
       {
-        "name": "EN ALTA",
+        "name": "Q MUSICA",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a354b0c82a3a720c4a6f52ed5a1190f4&key=45a76dcc84f058cfabc8b958d7303b28",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQuXpg2iXCKbblA1tSg8Grd0E4T-cfHFm9_Gat3S8&s"
+        "icono": "https://github.com/portedev/algo/releases/download/Muus1c44ss/qmus1c.png"
       },
       {
         "name": "CM MUSIC",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc_2A/CM.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=682f36b5736f4560951ca14b80d29524&key=3accb729067a39b3b8143f1b447b9d25",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQs2XoXN3loMr6UTK_y_DVpVtxWP9AxwAymBO2Hp9&s"
+        "icono": "https://github.com/portedev/algo/releases/download/Muus1c44ss/cm.png"
       },
       {
         "name": "HTV",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc_2A/HTV.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=daecef5fe32f4ce083c6a0c692755d6a&key=d4227f24389a9ba77293214b93eb0d7d",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png"
+        "icono": "https://github.com/portedev/algo/releases/download/Muus1c44ss/htv.png"
       }
     ]
   },
@@ -1090,111 +1080,11 @@
     "name": "⛪ CRISTIANOS",
     "samples": [
       {
-        "name": "GENESIS TV",
+        "name": "SIN CONTENIDO",
         "uri": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8"
       },
       {
-        "name": "MOVIE FE",
-        "uri": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8"
-      },
-      {
-        "name": "DIOS TE VE",
-        "uri": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8"
-      },
-      {
-        "name": "EBENEZER TV",
-        "uri": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8"
-      },
-      {
-        "name": "ENLACE",
-        "uri": "https://storage.googleapis.com/wvmedia/clear/vp9/tears/tears.mpd"
-      },
-      {
-        "name": "IGLESIA DEL CAMINO",
-        "uri": "https://storage.googleapis.com/wvmedia/clear/vp9/tears/tears_uhd.mpd"
-      },
-      {
-        "name": "ALCANCE TV",
-        "uri": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8"
-      },
-      {
-        "name": "AMIGOS TV CHIMULA",
-        "uri": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8"
-      },
-      {
-        "name": "ANDES TELEVISION",
-        "uri": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8"
-      },
-      {
-        "name": "ARBOL DE VIDA TV",
-        "uri": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8"
-      },
-      {
-        "name": "AVIVAMIENTO TV",
-        "uri": "https://storage.googleapis.com/wvmedia/clear/vp9/tears/tears.mpd"
-      },
-      {
-        "name": "CANAL 13 JUJUY TV",
-        "uri": "https://storage.googleapis.com/wvmedia/clear/vp9/tears/tears_uhd.mpd"
-      },
-      {
-        "name": "CANAL 65",
-        "uri": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8"
-      },
-      {
-        "name": "CANAL 98 JESUS TV",
-        "uri": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8"
-      },
-      {
-        "name": "CANAL IGLESIA LUZ Y VERDAD",
-        "uri": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8"
-      },
-      {
-        "name": "CRISTIANA TV",
-        "uri": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8"
-      },
-      {
-        "name": "ESPIRITU SANTO Y FUEGO TV",
-        "uri": "https://storage.googleapis.com/wvmedia/clear/vp9/tears/tears.mpd"
-      },
-      {
-        "name": "EXTREMA TV",
-        "uri": "https://storage.googleapis.com/wvmedia/clear/vp9/tears/tears_uhd.mpd"
-      },
-      {
-        "name": "GRACIA TV",
-        "uri": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8"
-      },
-      {
-        "name": "JOSUE TV",
-        "uri": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8"
-      },
-      {
-        "name": "JUBILO TV",
-        "uri": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8"
-      },
-      {
-        "name": "KSCE VIDA CRISTIANA",
-        "uri": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8"
-      },
-      {
-        "name": "PARAISO TV",
-        "uri": "https://storage.googleapis.com/wvmedia/clear/vp9/tears/tears.mpd"
-      },
-      {
-        "name": "TELE BENDICION",
-        "uri": "https://storage.googleapis.com/wvmedia/clear/vp9/tears/tears_uhd.mpd"
-      },
-      {
-        "name": "TELEVIDA",
-        "uri": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8"
-      },
-      {
-        "name": "TV LEON DE JUDA",
-        "uri": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8"
-      },
-      {
-        "name": "TV MANA ARGENTINA",
+        "name": "SIN CONTENIDO",
         "uri": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8"
       }
     ]
@@ -1207,70 +1097,70 @@
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_enc/Telemundo_HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=53d752e4649dadd808d913985f86ee77&key=d1fd24db1b61d634cabfc44538ce9b0e",
-        "icono": "http://imgfz.com/i/cuq0V9R.png"
+        "icono": "https://github.com/portedev/algo/releases/download/N0v3l4ss/T3l3mund0.png"
       },
       {
         "name": "BBC WORLD NEWS",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/BBC_World_News/SA_Live_dash_enc_2A/BBC_World_News.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=019f72f2091d4cbea59ff8c85b117f86&key=a4eac51195506752f9f63ad24def9c37",
-        "icono": "https://i.postimg.cc/t4fdPFvB/1200px-BBC-World-News-2022-Boxed-svg.png"
+        "icono": "https://github.com/portedev/algo/releases/download/Int3rn4c10n4ll/BBC.wn.png"
       },
       {
         "name": "BLOOMBERG",
         "uri": "https://cdn.cvattv.com.ar/live/c3eds/Bloomberg/SA_Live_dash_enc_2A/Bloomberg.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1e50891cdc64452aae20d049727f2f3f&key=551871ba1dc6a95597ec0cb82eb3b2a4",
-        "icono": "https://i.postimg.cc/5thZPYy3/Bloomberg-symbol.jpg"
+        "icono": "https://github.com/portedev/algo/releases/download/Int3rn4c10n4ll/Bl00mb3rg.png"
       },
       {
         "name": "RAI",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/RAI/SA_Live_dash_enc_2A/RAI.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d214547d7d9a4011a39a899ce6e70071&key=16c2ed0617cf1e123f3af6ea8875a82d",
-        "icono": "https://i.postimg.cc/QCFKXdcH/768px-Logo-of-RAI-2016-svg.png"
+        "icono": "https://github.com/portedev/algo/releases/download/Int3rn4c10n4ll/r41.png"
       },
       {
         "name": "TELESUR",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/Telesur/SA_Live_dash_enc_2A/Telesur.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5235d8ee29f14ce6b26ea5d828aee77a&key=6bf6bd339e3098babc2ab0b984cd2376",
-        "icono": "https://i.postimg.cc/qB1WSMm2/af33c8f76638e797-400x400ar.jpg"
+        "icono": "https://github.com/portedev/algo/releases/download/Int3rn4c10n4ll/Tel3sur.png"
       },
       {
         "name": "TV CHILE",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc_2A/Tv_Chile.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c5d0d76e24844235988f9265619e5fec&key=446b71a6deb806c6f129e25de999d07c",
-        "icono": "https://i.postimg.cc/bwZGkJ5g/tv-chile-2010-20168903-logowik-com.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/Int3rn4c10n4ll/tvch1l3.png"
       },
       {
         "name": "ANTENA 3",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_2A/Antena_3.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1e1ad422a6714482b66fa702c16e50c6&key=4fdf28a0ab91356ca55a75f4e9bf8c92",
-        "icono": "https://i.postimg.cc/D0sSHYqN/antena3-logo-nuevo.jpg"
+        "icono": "https://github.com/portedev/algo/releases/download/Int3rn4c10n4ll/ant3n43.png"
       },
       {
         "name": "TV5 MONDE",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/TV5_Monde/SA_Live_dash_enc_2A/TV5_Monde.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=62034ff5988b4787b17cdf6f751a3142&key=b3938f0af28b4c0c082b0d4210e389a0",
-        "icono": "https://i.postimg.cc/ryQyFTp9/image.png"
+        "icono": "https://github.com/portedev/algo/releases/download/Int3rn4c10n4ll/tv5.png"
       },
       {
         "name": "DW",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/DW/SA_Live_dash_enc/DW.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e21fc12c6ee185fbc90a052b05026be9&key=0f96fd52903707aac0b42853a043ffd0",
-        "icono": "https://i.postimg.cc/rmvHqgHW/1280px-Deutsche-Welle-symbol-2012-svg.png"
+        "icono": "https://github.com/portedev/algo/releases/download/Int3rn4c10n4ll/dw.png"
       },
       {
         "name": "EURONEWS",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/Euronews/SA_Live_dash_enc_2A/Euronews.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d86b0f56d32f45adb0a6b4e488c8f0c2&key=e4f180b0e61be3e80ab602df5e56ff3f",
-        "icono": "https://i.postimg.cc/LXTqp05Q/600px-Euronews-2016-alternative-logo.png"
+        "icono": "https://github.com/portedev/algo/releases/download/Int3rn4c10n4ll/eur0n3ws.png"
       }
     ]
   },
