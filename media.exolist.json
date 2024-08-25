@@ -888,6 +888,13 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4a742e478d14023e1993e011d9415f94&key=0df77ede9bc744376836d21afa137dda",
         "icono": "https://github.com/portedev/algo/releases/download/An1m4d0ss/D1sn3y.Ch.png"
       },
+       {
+        "name": "DISCOVERY KIDS",
+        "uri": "https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_Kids.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ffb2f0f63c23a3592d4653e938b9ca19&key=d3661ae881fc55fc7a15815cd439747b",
+        "icono": "https://github.com/portedev/algo/releases/download/An1m4d0ss/D1sc0very.K1ds.png"
+      },
       {
         "name": "NICKELODEON",
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nickelodeon.mpd",
@@ -903,11 +910,19 @@
         "icono": "https://github.com/portedev/algo/releases/download/An1m4d0ss/N1ckjr.png"
       },
       {
-        "name": "DISCOVERY KIDS",
-        "uri": "https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_Kids.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ffb2f0f63c23a3592d4653e938b9ca19&key=d3661ae881fc55fc7a15815cd439747b",
-        "icono": "https://github.com/portedev/algo/releases/download/An1m4d0ss/D1sc0very.K1ds.png"
+        "name": "NICK CLASICO",
+        "uri": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0/N1ck.Cl4s1c0.png"
+      },
+      {
+        "name": "NICK JR CLUB",
+        "uri": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0/N1ck.club.Jr.png"
+      },
+      {
+        "name": "NICKTEEN",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c16ba9e4-85a7-11eb-a861-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0/n1ck.T33n.png"
       },
       {
         "name": "PAKA PAKA",
@@ -1236,21 +1251,6 @@
         "name": "ALF",
         "uri": "https://gtechtecnologia.com/telelatino/play/128.m3u8",
         "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/alf.png"
-      },
-      {
-        "name": "NICK CLASICO",
-        "uri": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/nickclasico.png"
-      },
-      {
-        "name": "NICK JR CLUB",
-        "uri": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/nikcjrclub.png"
-      },
-      {
-        "name": "NICKTEEN",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c16ba9e4-85a7-11eb-a861-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/nickteen.png"
       },
       {
         "name": "MALCOM",
