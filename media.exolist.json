@@ -586,56 +586,56 @@
         "uri": "https://cdn.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=5317283f4110fac3fb3a0becd9f648bc&key%5B%5D=0754a03c926b1247216e01d9dbcfac28",
-        "icono": "https://i.ibb.co/Rbh0R8v/hbo.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/Hb0Pr3m/Hb0.png"
       },
       {
         "name": "HBO 2",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=c90cc57ad2c436e5a77db2f8d9db2d85&key%5B%5D=04f6c73984bdcffd013050608497935d",
-        "icono": "https://i.ibb.co/PcYZXkS/hbo2.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/Hb0Pr3m/Hb02.png"
       },
       {
         "name": "HBO XTREME",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_2A/HBO_Extreme.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=d504011bbef467c0de3a7534e302a6d4&key%5B%5D=334103e2abe16faa7f9ab2e3097c5a58",
-        "icono": "https://i.ibb.co/ZB13BDj/hboxtreme.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/Hb0Pr3m/Hb0.Xtr3m3.png"
       },
       {
         "name": "HBO FAMILY",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_2A/HBO_Family.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=535473132f68082160b489482ca35f8e&key%5B%5D=e90fd91fcd3fc809bed2b1c0d37f7297",
-        "icono": "https://i.ibb.co/Jzgdn3y/hbofam.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/Hb0Pr3m/Hb0.F4mily.png"
       },
       {
         "name": "HBO SIGNATURE",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc_2A/HBO_Signature.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=e866499fbc1149f49989672075aa3a68&key%5B%5D=d2dd5c95623c6343240981c2202fc311",
-        "icono": "https://i.ibb.co/wCcXDSs/hbosig.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/Hb0Pr3m/Hb0.S1gn4tur3.png"
       },
       {
         "name": "HBO MUNDI",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc_2A/HBO_Mundi.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=7821b2662148fe333d5191acbb8a5c1f&key%5B%5D=ae43f3e2545237ebda58b13813b5d328",
-        "icono": "https://i.ibb.co/WD3vvyN/hbomundi.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/Hb0Pr3m/Hb0.Mundi.png"
       },
       {
         "name": "HBO PLUS",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_2A/HBO_Plus.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=f0e7f7d458990edfab7b98b412564615&key%5B%5D=79205754b7f84a62661c2dbe9de5dd5d",
-        "icono": "https://i.ibb.co/qW18FHN/hboplus.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/Hb0Pr3m/Hb0.Plus.png"
       },
       {
         "name": "HBO POP",
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=f4e1ce5cef7e9a110fe968f8881b21fa&key%5B%5D=6bbe2062b150b11496cdd5fbdd9c89d6",
-        "icono": "https://i.ibb.co/42PmmJW/hbopop.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/Hb0Pr3m/Hb0.P0p.png"
       }
     ]
   },
@@ -643,39 +643,46 @@
     "name": "\uD83C\uDFA5 PACK UNIVERSAL",
     "samples": [
       {
+        "name": "UNIVERSAL CHANNEL",
+        "uri" : "https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc/Universal_Channel_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6cf9a13d6fd65a0f2e1cee3969aab9f5&key=ea61c3c1adee71b5c2e9744e41d4b75f",
+        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/Un1v.Tv.png"
+      },
+      {
         "name": "UNIVERSAL COMEDY",
         "uri": "http://cdn.cvattv.com.ar/live/c6eds/Universal_Comedy/SA_Live_dash_enc/Universal_Comedy.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=062c5d25105a3a935b67e36923c73f28&key=88c2d4cec420f18d2477152c66c7870d",
-        "icono": "https://i.ibb.co/JKcDB55/universalcomedy-copia.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/Un1v3rs4lP4ck/Un1v.C0m3dy.png"
       },
       {
         "name": "UNIVERSAL CINEMA",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_cenc/Universal_Cinema.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f6ae2e17173055e4ca69dc18963406ae&key=5a955c29eb88a0b4c9a2538cc4b3aea2",
-        "icono": "https://i.ibb.co/cbWFPr3/universalcinema.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/Un1v3rs4lP4ck/Un1v.C1nem4.png"
       },
       {
         "name": "UNIVERSAL CRIME",
         "uri": "http://cdn.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_enc/universal_Crime.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1efd7edf60e1514f775dd13d046ae708&key=c2ef1abbd945c62c11b1375eaaa50f0d",
-        "icono": "https://i.ibb.co/DCfnZ6t/universalcrime.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/Un1v3rs4lP4ck/Un1v.Cr1m3.png"
       },
       {
         "name": "UNIVERSAL PREMIERE",
         "uri": "http://cdn.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc/Universal_Premiere.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0eb20b51ad13b58ad417f11318e588b3&key=ad5d29a33d73d21187157802de8e6097",
-        "icono": "https://i.ibb.co/LRNbNzR/universalpremiere.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/Un1v3rs4lP4ck/Un1v.Pr3m13r3.png"
       },
       {
         "name": "UNIVERSAL REALITY",
         "uri": "http://cdn.cvattv.com.ar/live/c6eds/Universal_Reality/SA_Live_dash_enc/Universal_Reality.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cedd9c1a5c2ae43f80ee3197212016d6&key=bf47a3c39e164a97ea6adc4c8dd57435",
-        "icono": "https://i.ibb.co/b1bSCsZ/universalreality.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/Un1v3rs4lP4ck/Un1v.R3ality.png"
       }
     ]
   },
@@ -683,187 +690,170 @@
     "name": "\uD83C\uDFAC CINE Y SERIES",
     "samples": [
       {
-        "name": "GOLDEN",
-        "uri": "https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist_1024x576.m3u8",
-        "icono": "https://i.ibb.co/SQXYfcb/19d8ad2b2b4e8ec851d2bcbf42691efe.png"
-      },
-      {
-        "name": "GOLDEN PLUS",
-        "uri": "https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8",
-        "icono": "https://i.ibb.co/0QygQDg/goldenplus.jpg"
-      },
-      {
-        "name": "GOLDEN PREMIER EDGE",
-        "uri": "https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist_1024x576.m3u8",
-        "icono": "https://static.wikia.nocookie.net/doblaje/images/b/b9/Golden_Premier_LA_2020.png/revision/latest?cb=20210112175406&path-prefix=es"
+        "name": "GOLDEN PREMIER",
+        "uri": "https://gtechtecnologia.com/telelatino/play/75.m3u8",
+        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/G0ld3n.Pr3m13r.png"
       },
       {
         "name": "TCM",
         "uri" : "https://cdn.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc/TCM.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a5f44a5e30714cf3bcee7c7f15a08b4e&key=c3c141ae941ab9750339c3af45a65ce2",
-        "icono": "https://i.ibb.co/DDVXLYp/tcm.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/tcm.png"
       },
       {
         "name": "EUROPA EUROPA",
         "uri" : "https://cdn.cvattv.com.ar/live/c6eds/Europa_Europa/SA_Live_dash_enc/Europa_Europa.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b47f257df0314d09a7f8355c3abe1dc6&key=bdc9f1696a82ee7398dd3a7fa82300e2",
-        "icono": "https://i.ibb.co/55MWDF3/EUROPAEUROPALOGO2016.png"
+        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/Eur0p4.3ur0p4.png"
       },
       {
         "name": "CINECANAL",
         "uri" : "https://cdn.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc/CinecanalHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6003e92dd0d9f548329015c9e15dd578&key=213cf85cb5f9fe569757004a77e05948",
-        "icono": "https://i.ibb.co/7vBWBfK/cinecanal.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/C1n3C4n4l.png"
       },
       {
         "name": "TNT",
         "uri" : "https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc/TNT_HD_Arg.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=faad1722a575f4d9ec7b774db63c879c&key=cf0184830344ba36ad2ffef9dd2dd9d0",
-        "icono": "https://i.ibb.co/HxTvJQT/tnt.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/tnt.png"
       },
       {
         "name": "TNT SERIES",
         "uri" : "https://cdn.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc/TNTSeries.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5c14d6aeb19bf113edf91a7b544253cb&key=8d776d6f9c5c840ebe88d767dd731692",
-        "icono": "https://i.ibb.co/WVrRLcp/tntseries.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/tnt.s3r1es.png"
       },
       {
         "name": "CINEMAX",
         "uri" : "https://cdn.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc/Cinemax.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=977928a92b82ba3781741a6470f8f45b&key=51f4e62827c128f7210b79a11587661a",
-        "icono": "https://i.ibb.co/HGS9WCp/cinemax.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/C1n3m4x.png"
       },
       {
         "name": "FX",
         "uri" : "https://cdn.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9ab9c42c713e0fb5517dc77cc19d6755&key=d8c271b82387e609b6c19e5e79240aff",
-        "icono": "https://i.ibb.co/ZNng6y9/fx.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/Fx.png"
       },
       {
         "name": "VOLVER",
         "uri" : "https://cdn.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc/Volver.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=194e53184a424ce6989ad82c5f28fbc5&key=65d60c5cc4de031172be0a6a51edbdfe",
-        "icono": "https://i.ibb.co/K7PxZp7/volver.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/V0lv3r.png"
       },
       {
         "name": "SPACE",
         "uri" : "https://cdn.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0942e4ecd1bd3567e8f9447f45c20a12&key=efca6264f04cf7373de0c30ec79fe909",
-        "icono": "https://i.ibb.co/mGDWpdQ/space.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/Sp4c3.png"
       },
       {
         "name": "CINE AR",
         "uri" : "https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc/INCAA_Tv.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d44f40e49d2945c1a3701c0885ff0b00&key=6382b6279087402714b6824688c456df",
-        "icono": "https://i.ibb.co/0jsRXLv/cinear-1.png"
+        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/C1n3.4r.png"
       },
       {
         "name": "METRO",
         "uri" : "https://cdn.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_enc/Metro.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=719aa3a5e270c7f69eba374ed80d7986&key=97ac59118cf4cf242e2c31e87cd38e1e",
-        "icono": "https://i.postimg.cc/GmKgwSjr/ver-metro-en-vivo.jpg"
+        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/Metr0.png"
       },
       {
         "name": "STAR CHANNEL",
         "uri" : "https://cdn.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8023e85ef9d17561ee1b424179b1b15e&key=477ad189f1fcd2baec026068107f862f",
-        "icono": "https://i.ibb.co/NKZJ0Q6/star.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/St4r.Ch.png"
       },
       {
         "name": "SONY CHANNEL",
         "uri" : "https://cdn.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc/SonyHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=fd9619f9d7c2d5115a339941279e0b4b&key=bf55635e6591f905659fa27ab3ca2812",
-        "icono": "https://i.ibb.co/MB8f1jN/sony.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/S0ny.Ch.png"
       },
       {
         "name": "WARNER CHANNEL",
         "uri" : "https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc/WarnerHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=069bd3f0b6c279467e08549f17bf5bd0&key=5afa7e369a6de1093818a85af912a775",
-        "icono": "https://i.ibb.co/yRDsnFQ/warner.webp"
-      },
-      {
-        "name": "UNIVERSAL CHANNEL",
-        "uri" : "https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc/Universal_Channel_HD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6cf9a13d6fd65a0f2e1cee3969aab9f5&key=ea61c3c1adee71b5c2e9744e41d4b75f",
-        "icono": "https://i.ibb.co/1qksDfg/Universal-Channel-Brasil-svg.png"
+        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/Wb.png"
       },
       {
         "name": "AXN",
         "uri" : "https://cdn.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc/AXNHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=03e77b5bbf5135a85d587c5af2f2f730&key=1dd1ab1938a791d03f09eb88478b4880",
-        "icono": "https://i.ibb.co/5GYxWRr/axn.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/Axn.png"
       },
       {
         "name": "STUDIO UNIVERSAL",
         "uri" : "https://cdn.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc/Studio_Universal.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d9b541e3cd064d569843da42788d4263&key=bba5d26ad5051fb3f2cf7e3dd8a4a7d8",
-        "icono": "https://i.ibb.co/QjRTw3k/studio.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/Stud10.Univ.png"
       },
       {
         "name": "A&E",
         "uri" : "https://cdn.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc/AEHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=db12035627a4b3d7198b761f36b4a290&key=80ca761a875992ac0e50b0851d5563fe",
-        "icono": "https://i.ibb.co/7nbf44D/i-Vrvs-XOo-400x400.jpg"
+        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/a.e.png"
       },
       {
         "name": "TBS",
         "uri" : "https://cdn.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=49a0179b034ae899cb67d8a5834181aa&key=486e2c6d69adea7e17f2960e8e366612",
-        "icono": "https://i.ibb.co/dKMvJGY/tbs-tv1490.jpg"
+        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/tbs.png"
       },
       {
         "name": "AMC",
         "uri" : "https://chromecast.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1fa6a86fd80b6d1425dde74482b5dc9c&key=744c3636d57a651ab444cf9fe5f95b33",
-        "icono": "https://i.ibb.co/23r3LW8/amc.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/Amc.png"
       },
       {
         "name": "A3SERIES",
         "uri" : "https://cdn.cvattv.com.ar/live/c7eds/A3_Series/SA_Live_dash_enc/A3_Series.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5e34e08ae5ae440f01a03e505dd24a57&key=ed30cc7f5040a75d73f619320249272b",
-        "icono": "https://i.ibb.co/L6NV6Dy/720x540.jpg"
+        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/A3s3r13s.png"
       },
       {
         "name": "COMEDY CENTRAL",
         "uri" : "https://cdn.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc/ComedyCentral.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4013f784c5ef4318ad47024e61eb094e&key=bad433a547f97c7f65cda5e83b8dd416",
-        "icono": "https://i.ibb.co/G7RkmGT/ar-comedy-central-m.png"
+        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/C0m3dy.C3ntr4l.png"
       },
       {
         "name": "PARAMOUNT",
         "uri" : "https://cdn.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc/Paramount.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b85b710ecff3e38f31fc8e249b1c1cef&key=a1544c193dde6f8858c9358ee69a60a7",
-        "icono": "https://i.ibb.co/M2mgkh1/paramount.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/P4r4m0unt.png"
       },
       {
         "name": "A3CINE",
         "uri" : "https://cdn.cvattv.com.ar/live/c7eds/A3_Cine/SA_Live_dash_enc/A3_Cine.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d6ff881a6f07986a80d6ad6f041b57d4&key=b401c87c2ab11a1a488ee1c474b109ae",
-        "icono": "https://i.ibb.co/0Qy4pJz/a3cine.png"
+        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/A3C1n3.png"
       }
     ]
   },
