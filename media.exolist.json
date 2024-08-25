@@ -285,35 +285,18 @@
     "name": "⚽ PACK FUTBOL ARG",
     "samples": [
       {
-        "name": "ESPN PREMIUM OPC1",
+        "name": "ESPN PREMIUM",
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
         "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/3spnpr3m1um.png"
       },
       {
-        "name": "ESPN PREMIUM OPC2",
-        "uri": "http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/1528",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/3spnpr3m1um.png"
-      },
-      {
-        "name": "TNT SPORTS OPC1",
+        "name": "TNT SPORTS",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
         "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/tntsp0rts.png"
-      },
-      {
-        "name": "TNT SPORTS OPC2",
-        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/tntsp0rts.png"
-      },
-      {
-        "name": "TYC SPORTS INTERNACIONAL",
-        "uri": "http://168.227.22.18:1935/live/mobile-005/playlist.m3u8",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/tyc.png"
       }
     ]
   },
@@ -383,12 +366,12 @@
       },
       {
         "name": "DSPORTS OPC 2",
-        "uri": "http://38.43.151.206:8000/play/a04m/index.m3u8",
+        "uri": "http://aztkplay.pro:8080/Eladioroque/qjLHsCqFRI/73325",
         "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/dsp0rts.png"
       },
       {
         "name": "DSPORTS OPC 3",
-        "uri": "http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/116001",
+        "uri": "http://38.43.151.206:8000/play/a04m/index.m3u8",
         "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/dsp0rts.png"
       },
       {
@@ -424,14 +407,14 @@
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc_2A/Golf_Channel.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=38d6226b7cd2cfa86b4b9cdaa455e7d7&key=24f0ef2bf787647cc02df870417eed2b",
-        "icono": "https://i.postimg.cc/zB56CJPh/golf.png"
+        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/g0lf.png"
       },
       {
         "name": "NBA",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc_2A/NBA_TV.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d0c38de3c9844e4e9f975dffb3eff8ad&key=141ca0fdf6ebadfa7107576b8e09e117",
-        "icono": "https://i.postimg.cc/Gpn5RLRf/tnt-3377112.png"
+        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/nb4.png"
       },
       {
         "name": "TYC SPORT",
@@ -441,24 +424,54 @@
         "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/tyc.png"
       },
       {
+        "name": "TYC SPORT (PLAY 1)",
+        "uri": "https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8",
+        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/tycplay.png"
+      },
+      {
         "name": "TYC SPORT (PLAY 2)",
         "uri": "https://dj8bzwveg7go9.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_9.m3u8",
-        "icono": "https://i.postimg.cc/sg8CFdHQ/image.png"
+        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/tycplay.png"
       },
       {
         "name": "TYC SPORT (PLAY 3)",
         "uri": "https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8",
-        "icono": "https://i.postimg.cc/sg8CFdHQ/image.png"
+        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/tycplay.png"
       },
       {
         "name": "TYC SPORT (PLAY 4)",
         "uri": "https://dj8bzwveg7go9.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8",
-        "icono": "https://i.postimg.cc/sg8CFdHQ/image.png"
+        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/tycplay.png"
       },
       {
         "name": "TYC SPORT (PLAY 5)",
         "uri": "https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8",
-        "icono": "https://i.postimg.cc/sg8CFdHQ/image.png"
+        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/tycplay.png"
+      },
+      {
+        "name": "TYC SPORT (PLAY 6)",
+        "uri": "https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8",
+        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/tycplay.png"
+      },
+      {
+        "name": "TYC SPORT (PLAY 7)",
+        "uri": "https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8",
+        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/tycplay.png"
+      },
+      {
+        "name": "TYC SPORT (PLAY 8)",
+        "uri": "https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8",
+        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/tycplay.png"
+      },
+      {
+        "name": "TYC SPORT (PLAY 9)",
+        "uri": "https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8",
+        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/tycplay.png"
+      },
+      {
+        "name": "TYC SPORT (PLAY 10)",
+        "uri": "https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index.m3u8",
+        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/tycplay.png"
       }
     ]
   },
