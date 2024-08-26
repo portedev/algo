@@ -1198,23 +1198,93 @@
     "name": "\uD83D\uDCFA CANALES 24/7 INFANTILES",
     "samples": [
       {
-        "name": "LOS SIMPSONS",
-        "uri": "http://tv.fuxxionpro.online:8080/Mar12334GFGFSDrddklqkd123/paD7AGyaLj/37767",
+        "name": "LOS SIMPSONS OPC1",
+        "uri": "https://gtechtecnologia.com/telelatino/play/263.m3u8",
         "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/the.simpsons.png"
       },
       {
-        "name": "EL CHAVO DEL 8",
+        "name": "LOS SIMPSONS OPC2",
+        "uri": "http://newultra.xyz:8080/34tehu87se24ma97/m37me65wu93m/769",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/the.simpsons.png"
+      },
+      {
+        "name": "LOS SIMPSONS OPC3",
+        "uri": "http://newultra.xyz:8080/34tehu87se24ma97/m37me65wu93m/790",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/L0s.Simps0n.burns.png"
+      },
+      {
+        "name": "LOS SIMPSONS OPC4",
+        "uri": "http://fastream.xyz:8080/993300790tv/95ghr5/62400",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/L0s.Simps0n.Flanders.png"
+      },
+      {
+        "name": "LOS SIMPSONS OPC5",
+        "uri": "http://fastream.xyz:8080/993300790tv/95ghr5/62412",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/L0s.Simps0n.Homero.png"
+      },
+      {
+        "name": "LOS SIMPSONS OPC6",
+        "uri": "http://newultra.xyz:8080/34tehu87se24ma97/m37me65wu93m/791",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/L0s.Simps0n.Lisa.png"
+      },
+      {
+        "name": "LOS SIMPSONS OPC7",
+        "uri": "http://newultra.xyz:8080/34tehu87se24ma97/m37me65wu93m/793",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/L0s.Simps0n.Maguie.png"
+      },
+      {
+        "name": "LOS SIMPSONS OPC8",
+        "uri": "http://fastream.xyz:8080/efuxxrmayh/mqdsjpdtsh/62415",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/L0s.Simps0n.mama.Skinner.png"
+      },
+      {
+        "name": "LOS SIMPSONS OPC9",
+        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/34308",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/L0s.Simps0n.marchyhomero.png"
+      },
+      {
+        "name": "LOS SIMPSONS OPC10",
+        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/136246",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/L0s.Simps0n.Nelson.png"
+      },
+      {
+        "name": "EL CHAVO DEL 8 OPC1",
         "uri": "https://gtechtecnologia.com/telelatino/play/150.m3u8",
         "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/El.chavo.del.8.png"
       },
       {
-        "name": "EL CHAPULIN COLORADO ANIMADO",
-        "uri": "https://gtechtecnologia.com/telelatino/play/113.m3u8",
+        "name": "EL CHAVO DEL 8 OPC2",
+        "uri": "http://home-playtv.com:8080/SiaFlores21/BSMRA/216295",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/El.chavo.del.8.png"
+      },
+      {
+        "name": "EL CHAVO DEL 8 OPC3",
+        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/129315",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/el.chavo.del.8.hq.2.png"
+      },
+      {
+        "name": "EL CHAVO DEL 8 ANIMADO",
+        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/131452",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/ch4v0An1m4d0.png"
+      },
+      {
+        "name": "EL CHAPULIN COLORADO",
+        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/129323",
         "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/chapulin.png"
       },
       {
-        "name": "CHESPIRITO",
+        "name": "EL CHAPULIN COLORADO ANIMADO",
+        "uri": "https://gtechtecnologia.com/telelatino/play/113.m3u8",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/chapulin.animado.png"
+      },
+      {
+        "name": "CHESPIRITO OPC1",
         "uri": "https://gtechtecnologia.com/telelatino/play/355.m3u8",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/Ch3spirit0.png"
+      },
+      {
+        "name": "CHESPIRITO OPC2",
+        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/129322",
         "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/Ch3spirit0.png"
       },
       {
@@ -1228,18 +1298,33 @@
         "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/bob.esponja.png"
       },
       {
-        "name": "LOS PITUFOS",
+        "name": "LOS PITUFOS OPC1",
         "uri": "https://gtechtecnologia.com/telelatino/play/329.m3u8",
         "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/Pitufos.png"
       },
       {
-        "name": "CORRECAMINOS",
+        "name": "LOS PITUFOS OPC2",
+        "uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4368",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/Pitufos.png"
+      },
+      {
+        "name": "CORRECAMINOS OPC1",
         "uri": "https://gtechtecnologia.com/telelatino/play/357.m3u8",
         "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/C0y0t3C0rre.png"
       },
       {
-        "name": "FUTURAMA",
+        "name": "CORRECAMINOS OPC2",
+        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/138472",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/C0y0t3C0rre.png"
+      },
+      {
+        "name": "FUTURAMA OPC1",
         "uri": "https://gtechtecnologia.com/telelatino/play/166.m3u8",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/futurama.png"
+      },
+      {
+        "name": "FUTURAMA OPC2",
+        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/61833",
         "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/futurama.png"
       },
       {
@@ -1258,9 +1343,264 @@
         "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/Malcolm-in-the-Middle.png"
       },
       {
-        "name": "BEN 10",
+        "name": "BEN 10 OPC1",
         "uri": "http://51.159.104.29:8080/ben10/index.m3u8",
         "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/ben10.png"
+      },
+      {
+        "name": "BEN 10 OPC2",
+        "uri": "https://gtechtecnologia.com/telelatino/play/354.m3u8",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/ben10.png"
+      },
+      {
+        "name": "ANIMANIACS",
+        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/129354",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/animaniacs.png"
+      },
+      {
+        "name": "ARNOLD",
+        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/62380",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/arnold.png"
+      },
+      {
+        "name": "BARNEY",
+        "uri": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff29882-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=daaec956-b0c6-4701-a551-d3b7bab3a563&userId=&serverSideAds=true",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/B4n3y.png"
+      },
+      {
+        "name": "BRICKLEBERRY",
+        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/23134",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/Brickleberry.png"
+      },
+      {
+        "name": "CAILLOU",
+        "uri": "https://dhx-caillou-1-es.samsung.wurl.tv/playlist.m3u8",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/calli0u.png"
+      },
+      {
+        "name": "CHIQUITITAS",
+        "uri": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620e67a63b5e370007e06bb2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/chiquititas.png"
+      },
+      {
+        "name": "DINOSAURIOS",
+        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/129314",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/D1n0s4ur10.png"
+      },
+      {
+        "name": "DON GATO",
+        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/65854",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/dongato.png"
+      },
+      {
+        "name": "DRAGONES DE BERCK",
+        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/63372",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/Dragones.png"
+      },
+      {
+        "name": "EL ESPECTACULAR HOMBRE ARAÑA",
+        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/129362",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/sp1d3rEspectacular.png"
+      },
+      {
+        "name": "EL LABORATORIA DE DEXTER",
+        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/65925",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/dexter.png"
+      },
+      {
+        "name": "EL LAGARTO JUANCHO",
+        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/66820",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/lagarto.png"
+      },
+      {
+        "name": "PEQUEÑA LULU",
+        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/129343",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/P3qu3n4Lulu.png"
+      },
+      {
+        "name": "GASPARIN Y SUS AMIGOS",
+        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/138456",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/G4sp4r1n.png"
+      },
+      {
+        "name": "GUARDIANES DE LA GALAXIA ANIMADO",
+        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/70813",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/guardianes.png"
+      },
+      {
+        "name": "ICARLY",
+        "uri": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/icarly.png"
+      },
+      {
+        "name": "LA PANTERA ROSA",
+        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/129347",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/panterarosa.png"
+      },
+      {
+        "name": "LAS MEJORES ANIMACIONES",
+        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/129341",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/M3j0r3sAn1m4c10n3s.png"
+      },
+      {
+        "name": "LAS PISTAS DE BLUE",
+        "uri": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49450-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2dab1e46-b757-41f4-af9a-7a988974b383&userId=&serverSideAds=true",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/pistasdeblu.png"
+      },
+      {
+        "name": "LAS TORTUGAS NINJAS",
+        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/65934",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/tortugas.png"
+      },
+      {
+        "name": "LILO Y STICH",
+        "uri": "https://cloudvideo.servers10.com:8081/impactotv/index.m3u8",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/liloystitch.png"
+      },
+      {
+        "name": "LOS VENGADORES UNIDOS",
+        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/70815",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/vengadoresuni.png"
+      },
+      {
+        "name": "MAZINGER Z",
+        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/66397",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/mazinger.png"
+      },
+      {
+        "name": "METEORO",
+        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/66200",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/Meteoro.png"
+      },
+      {
+        "name": "MR BEAN",
+        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/3391",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/mrbean.png"
+      },
+      {
+        "name": "MR BEAN ANIMADO",
+        "uri": "http://51.159.104.29:8080/mrbean/index.m3u8",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/mr.b3an.Anim.png"
+      },
+      {
+        "name": "MI PEQUEÑO PONY",
+        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/61808",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/pony.png"
+      },
+      {
+        "name": "PADRE DE FAMILIA",
+        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/3406",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/family.guy.dual.png"
+      },
+      {
+        "name": "PARADISE PD",
+        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/46105",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/paradisepd.png"
+      },
+      {
+        "name": "PATO AVENTURAS",
+        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/53178",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/patoaventuras2.png"
+      },
+      {
+        "name": "PAW PATROL",
+        "uri": "http://abcnew.site:8880/movie/DAALM2523/ZASc5gv9pd/36391.mp4",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/paq.patrol.png"
+      },
+      {
+        "name": "PEPE LE PEW",
+        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/64878",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/pepe.png"
+      },
+      {
+        "name": "PEPPA PIG OPC1",
+        "uri": "http://51.159.104.29:8080/pepapig/index.m3u8",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/Peppa.Pig.png"
+      },
+      {
+        "name": "PEPPA PIG OPC2",
+        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/23293",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/Peppa.Pig.png"
+      },
+      {
+        "name": "PLAZA SESAMO",
+        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/62307",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/plazase.png"
+      },
+      {
+        "name": "PLIM PLIM OPC1",
+        "uri": "http://200.59.188.3:8000/play/a091",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/plimpl1m.png"
+      },
+      {
+        "name": "PLIM PLIM OPC2",
+        "uri": "http://38.41.8.1:8000/play/a0b2",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/plimpl1m.png"
+      },
+      {
+        "name": "POCOYO",
+        "uri": "http://fastream.xyz:8080/efuxxrmayh/mqdsjpdtsh/62437",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/pocoyo.png"
+      },
+      {
+        "name": "POPEYE EL MARINO",
+        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/66307",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/popeye.el.marino.png"
+      },
+      {
+        "name": "RICKY ZOOM",
+        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/61810",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/rickizzoom.png"
+      },
+      {
+        "name": "RINCON DE LUZ",
+        "uri": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63f6294449839300085c4bd2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/rincondeluz.png"
+      },
+      {
+        "name": "SCOOBY DOO OPC1",
+        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/23297",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/scooby.png"
+      },
+      {
+        "name": "SCOOBY DOO OPC2",
+        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/3385",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/scooby.png"
+      },
+      {
+        "name": "SONIC Y SU BANDA",
+        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/129385",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/sonic.png"
+      },
+      {
+        "name": "SOUTH PARK",
+        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/129318",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/South.Park.png"
+      },
+      {
+        "name": "SUPER MARIO BROSS 3",
+        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/23286",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/mario.png"
+      },
+      {
+        "name": "TIMON Y PUMBA",
+        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/70816",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/timon.y.pumba.png"
+      },
+      {
+        "name": "TOM Y JERRY",
+        "uri": "http://newultra.xyz:8080/34tehu87se24ma97/m37me65wu93m/774",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/Tom.y.Jerry.png"
+      },
+      {
+        "name": "X-MEN",
+        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/129386",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/x-men.1992.png"
+      },
+      {
+        "name": "ZIG Y SHARKO",
+        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/62332",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/zing.shark.png"
       },
       {
         "name": "RETRO CARTOONS",
@@ -1283,9 +1623,9 @@
     "name": "\uD83D\uDCFA CANALES 24/7",
     "samples": [
       {
-        "name": "SIN CONTENIDO",
-        "uri": "https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8",
-        "icono": "https://i.ibb.co/rs275XF/rosadeguada.jpg"
+        "name": "MARVEL PELICULAS",
+        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/138462",
+        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/M4rv3l.png"
       }
     ]
   },
