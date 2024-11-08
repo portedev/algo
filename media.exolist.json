@@ -1,5 +1,25 @@
 [
   {
+    "name": "🟢 RESPALDO",
+    "samples": [
+      {
+        "name": "TELEFE",
+        "uri": "https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild2.m3u8",
+        "icono": "https://github.com/portedev/algo/releases/download/f4rg/t3l3f3.png"
+      },
+     {
+        "name": "EL TRECE",
+        "uri": "http://181.209.114.13:8000/play/a06d/index.m3u8",
+        "icono": "https://github.com/portedev/algo/releases/download/f4rg/3l13.png"
+      },
+     {
+        "name": "AMERICA",
+        "uri": "http://181.209.114.13:8000/play/a055/index.m3u8",
+        "icono": "https://github.com/portedev/algo/releases/download/f4rg/am3r1c4.png"
+      }
+    ]
+  },
+  {
     "name": "\uD83C\uDDE6\uD83C\uDDF7 ARGENTINA",
     "samples": [
       {
@@ -7,16 +27,6 @@
         "uri": "http://edge-live16-sl.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3cec1b1ea9799dda5596e64f37e5ed20&key=c69f3afde2085dcaaaddbf55246a0323",
-        "icono": "https://github.com/portedev/algo/releases/download/f4rg/t3l3f3.png"
-      },
-      {
-        "name": "TELEFE OPCION 2",
-        "uri": "http://181.209.114.13:8000/play/a06c/index.m3u8",
-        "icono": "https://github.com/portedev/algo/releases/download/f4rg/t3l3f3.png"
-      },
-      {
-        "name": "TELEFE OPCION 3",
-        "uri": "https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild2.m3u8",
         "icono": "https://github.com/portedev/algo/releases/download/f4rg/t3l3f3.png"
       },
       {
