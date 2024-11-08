@@ -1,25 +1,5 @@
 [
   {
-    "name": "🟢 RESPALDO",
-    "samples": [
-      {
-        "name": "TELEFE",
-        "uri": "https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild2.m3u8",
-        "icono": "https://github.com/portedev/algo/releases/download/f4rg/t3l3f3.png"
-      },
-     {
-        "name": "EL TRECE",
-        "uri": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8",
-        "icono": "https://github.com/portedev/algo/releases/download/f4rg/3l13.png"
-      },
-     {
-        "name": "EL NUEVE",
-        "uri": "http://tvlatino.live:8080/EdiCH593/b7esdfrWupnr/96874",
-        "icono": "https://github.com/portedev/algo/releases/download/f4rg/el9.png"
-      }
-    ]
-  },
-  {
     "name": "\uD83C\uDDE6\uD83C\uDDF7 ARGENTINA",
     "samples": [
       {
