@@ -11,7 +11,12 @@
       },
       {
         "name": "TELEFE OPCION 2",
-        "uri": "https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8",
+        "uri": "http://181.209.114.13:8000/play/a06c/index.m3u8",
+        "icono": "https://github.com/portedev/algo/releases/download/f4rg/t3l3f3.png"
+      },
+      {
+        "name": "TELEFE OPCION 3",
+        "uri": "https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild2.m3u8",
         "icono": "https://github.com/portedev/algo/releases/download/f4rg/t3l3f3.png"
       },
       {
