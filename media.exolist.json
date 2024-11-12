@@ -206,19 +206,9 @@
         "icono": "https://i.ibb.co/1ZC4K4q/Canal-13-La-Rioja.png"
       },
       {
-        "name": "MULTIPLATAFORMA FENIX LA RIOJA",
-        "uri": "http://stmvideo1.livecastv.com/fenixlarioja/fenixlarioja/playlist.m3u8",
-        "icono": "https://static.tvar.io/imagenes/fenixtv.jpeg"
-      },
-      {
         "name": "CANAL U CORDOBA",
         "uri": "https://stream.arcast.live/canalu/canalu/playlist.m3u8",
         "icono": "https://yt3.googleusercontent.com/ytc/AOPolaS6nOtptS4HASXy1O9uP2_mXS6r0gfzchQMzWeO=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "name": "CANAL 9 LA RIOJA",
-        "uri": "https://inliveserver.com:1936/17012/17012/playlist.m3u8",
-        "icono": "https://static.tvar.io/imagenes/canal9larioja.png"
       },
       {
         "name": "CANAL 6 POSADAS",
@@ -231,11 +221,6 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=90422640d3e846159fa450f83870ed4a&key=abb3cd94aece1a462df25a8f21085cca",
         "icono": "https://i.ibb.co/60sFBfY/og-image.jpg"
-      },
-      {
-        "name": "CANAL 4 SAN JUAN",
-        "uri": "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8",
-        "icono": "https://static.tvar.io/imagenes/canal4sanjuan.png"
       },
       {
         "name": "RTV NEUQUEN",
@@ -251,11 +236,6 @@
         "name": "CANAL 34 SAN JUAN",
         "uri": "http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8",
         "icono": "https://static.tvar.io/imagenes/34sanjuan.png"
-      },
-      {
-        "name": "ALBARDON TV",
-        "uri": "https://vd01.streaminghd.net.ar:3451/stream/play.m3u8",
-        "icono": "https://static.tvar.io/imagenes/albardontv.png"
       },
       {
         "name": "CANAL 7 SGO DEL ESTERO",
