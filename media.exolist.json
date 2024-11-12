@@ -1244,12 +1244,155 @@
     "name": "⛪ CRISTIANOS",
     "samples": [
       {
-        "name": "SIN CONTENIDO",
-        "uri": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8"
+        "name": "CANAL LUZ",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c7eds/CANAL_LUZ/SA_Live_dash_enc/CANAL_LUZ.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f7523ea5a2da78c465d928be1d81e2a5&key=870ad69e98abd52b443bd8f0204b3bc4",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/5/50/Canal_Luz_actual.png"
       },
       {
-        "name": "SIN CONTENIDO",
-        "uri": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8"
+        "name": "EWTN",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/EWTN/SA_Live_dash_enc/EWTN.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=07df3c48652a431ab779d133f085b799&key=ee2fbeec1ecdffa5617383f684dfda0e",
+        "icono": "http://78.47.174.211/logos/ewtn.png"
+      }
+    ]
+  },
+  {
+    "name": "🔰 VARIEDADES",
+    "samples": [
+      {
+        "name": "El Canal del tiempo",
+        "uri": "http://linear-431.frequency.stream/dist/vix/431/hls/master/playlist.m3u8",
+        "icono": "https://i.ibb.co/1dQyMK7/El-Canal-del-tiempo.png"
+      },
+      {
+        "name": "SONY CANAL COMPETENCIAS",
+        "uri": "https://spt-competencias-1-us.samsung.wurl.tv:443/playlist.m3u8",
+        "icono": "https://image.xumo.com/v1/channels/channel/99991762/600x337.webp?type=channelTile"
+      },
+      {
+        "name": "GLEWEDTV",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/glewedtv-spanish/master.m3u8",
+        "icono": "https://i.ibb.co/tzNWyFx/glewed-tv.png"
+      },
+      {
+        "name": "ESTRELLA TV",
+        "uri": "https://estrellatv-plex.amagi.tv/playlist.m3u8",
+        "icono": "https://i.ibb.co/S3n3cqN/estrellatv.jpg"
+      },
+      {
+        "name": "ESTRELLA NEWS",
+        "uri": "https://dbrb49pjoymg4.cloudfront.net/10001/99991776/hls/playlist.m3u8?ads.xumo_channelId=99991776",
+        "icono": "https://image.xumo.com/v1/channels/channel/99991776/600x337.webp?type=channelTile"
+      },
+      {
+        "name": "ESTRELLA GAMES",
+        "uri": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-distrotv/playlist.m3u8",
+        "icono": "https://canvas-bridge.tubitv.com/up-vHl6hkyYFwUuzbN7XQKDetYg=/978x576/smart/img.adrise.tv/6331ce6b-99ed-4842-99b1-bbb0af054745.jpg"
+      },
+      {
+        "name": "WAPP ",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wapptv/master.m3u8",
+        "icono": "https://i.ibb.co/2qWg5L1/wapp.png"
+      },
+      {
+        "name": "AFV ESPAÑOL",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/afv-espanol/playlist.m3u8",
+        "icono": "https://i.ibb.co/BfQcHty/afv-espanol.jpg"
+      },
+      {
+        "name": "LO MEJOR DE TELEMUNDO ",
+        "uri": "https://d1rqgw5gocwo9i.cloudfront.net/10009/99991748/hls/master.m3u8?ads.xumo_channelId=99991748",
+        "icono": "https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png"
+      },
+      {
+        "name": "TELEMUNDO AL DÍA ",
+        "uri": "https://d1rqgw5gocwo9i.cloudfront.net/10009/99991747/hls/master.m3u8?ads.xumo_channelId=99991747",
+        "icono": "https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png"
+      },
+      {
+        "name": "TASTEMADE EN ESPAÑOL ",
+        "uri": "https://cdn-uw2-prod.tsv2.amagi.tv:443/linear/amg00047-tastemade-es16intl-canelatv/playlist.m3u8",
+        "icono": "https://image.xumo.com/v1/channels/channel/99991743/600x337.webp?type=channelTile"
+      },
+      {
+        "name": "E!",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_Live_dash_enc/E_Entertainment_Television.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5883553207f13e3dc8cecd1113d5ba68&key=45434d40636dfa0e5312b93218e02185",
+        "icono": "http://78.47.174.211/logos/e.png"
+      },
+      {
+        "name": "EURO CHANNEL",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/Eurochannel/SA_Live_dash_enc/Eurochannel.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6f0fc214d9844a7590f0884d55b44c42&key=b2fe1bb5f9c79035301c328c1e93b0ee",
+        "icono": "https://i.ibb.co/54nWzWt/euroch.png"
+      },
+      {
+        "name": "FOOD NETWORK",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc/Food_Network.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6ca0fbad21a0e908c0280dcc27e6ee0e&key=62670eedbafdf9360b4ecaed738e26cd",
+        "icono": "http://78.47.174.211/logos/foodnetwork.png"
+      },
+      {
+        "name": "HOLA TV",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c7eds/Hola_TV/SA_Live_dash_enc/Hola_TV.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5d759477f0ad1bdef2c6de09e7c275fd&key=82cc6eea185eecc934df95adfbbf9dbc",
+        "icono": "https://i.ibb.co/HKpkn0x/holatv.png"
+      },
+      {
+        "name": "KZO ENTERTAINMENT",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/KZO/SA_Live_dash_enc/KZO.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=695d07988114f7fec31f8f27a6d67c32&key=8e4fbb96cff6a31c88f81565b199a13a",
+        "icono": "https://i.ibb.co/GWyrYZY/kzo.png"
+      },
+      {
+        "name": "MAS CHIC",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/Mas_Chic/SA_Live_dash_enc/Mas_Chic.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dac8ff1688994efd898222acdd05cafc&key=22fdf97c7233667518258ed16ccb2545",
+        "icono": "http://78.47.174.211/logos/maschic.png"
+      },
+      {
+        "name": "METRO",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_enc/Metro.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=719aa3a5e270c7f69eba374ed80d7986&key=97ac59118cf4cf242e2c31e87cd38e1e",
+        "icono": "https://i.ibb.co/pw6FfGS/metro.png"
+      },
+      {
+        "name": "ORBE 21",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/Canal_21/SA_Live_dash_enc/Canal_21.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=29ccae9b98d74e76b35ac4e9a7fd1af1&key=cd6f0d4dca0fc30533e845fc8ea6a945",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Canal_Orbe_21_logo.svg/320px-Canal_Orbe_21_logo.svg.png"
+      },
+      {
+        "name": "SANTA MARIA",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c3eds/Senal_Maria/SA_Live_dash_enc/Senal_Maria.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d456fba3fccb4c06a0f4776fe412400b&key=ca5530ffe42a38759d3887c82d6a909a",
+        "icono": "https://i.ibb.co/b1fNV1N/santamaria.png"
+      },
+      {
+        "name": "TELEMAX",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/Telemax/SA_Live_dash_enc/Telemax.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e7ec364ad6854fedad797538cb58780d&key=57dfb3fca2ca35b37ff81c35595e9be8",
+        "icono": "https://i.ibb.co/51r6cfd/telemax.png"
+      },
+      {
+        "name": "WOBI",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/WOBI/SA_Live_dash_enc/WOBI.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f2e44a719947ebfe37de527a9d6df71e&key=029bddeb08909dd66a80276fc338d692",
+        "icono": "https://mma.prnewswire.com/media/1988502/2U_wobi.jpg"
       }
     ]
   },
