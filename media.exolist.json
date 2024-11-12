@@ -1129,6 +1129,53 @@
         "name": "TELEMUNDO",
         "uri": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8",
         "icono": "https://github.com/portedev/algo/releases/download/N0v3l4ss/T3l3mund0.png"
+      },
+      {
+        "name": "VIVE KANAL D DRAMA",
+        "uri": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8",
+        "icono": "https://images.pluto.tv/channels/639751f81a36b400072b8f5a/colorLogoPNG.png"
+      },
+      {
+        "name": "NOVELAS TURCAS",
+        "uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088",
+        "icono": "https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/channel-novelas-turcas-16x9.jpg"
+      },
+      {
+        "name": "NOVELAS INOLVIDABLES",
+        "uri": "https://ov.ottera.tv/channels/cnm_niv/master.m3u8",
+        "icono": "https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/channel-novelas-inolvidables-16x9_0.jpg"
+      },
+      {
+        "name": "CANELA TELENOVELAS",
+        "uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152",
+        "icono": "https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/image.jpg"
+      },
+      {
+        "name": "CANELA TV",
+        "uri": "https://dbrb49pjoymg4.cloudfront.net/10001/99991674/hls/playlist.m3u8?ads.xumo_channelId=99991674",
+        "icono": "https://i.ibb.co/27Wn9XB/canela-tv.jpg"
+      },
+      {
+        "name": "NOVELÍSIMA",
+        "uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380",
+        "icono": "https://i.ibb.co/GVvbx2s/NOVELISIMA.png"
+      },
+      {
+        "name": "SONY CANAL NOVELAS",
+        "uri": "https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8",
+        "icono": "https://i.ibb.co/sPM2qnw/sony-channel-novelas.png"
+      },
+      {
+        "name": "AZ CORAZÓN",
+        "uri": "https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/320px-TV_Azteca_Coraz%C3%B3n_logo.svg.png"
+      },
+      {
+        "name": "LIFETIME",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/Lifetime/SA_Live_dash_enc/Lifetime.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=eae51b1d67ff47adac7b6bd3a4b1120a&key=b4d6bb47193f33ffc12379cdc447455d",
+        "icono": "http://78.47.174.211/logos/lifetime.png"
       }
     ]
   },
