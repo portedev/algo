@@ -278,6 +278,100 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/kpqizi69fltwkik469ozu/KEY.Canal-Siete-Bah-a-Blanca.json?rlkey=fx4dkwg083c3iitmlc08rsjuw&dl=0",
         "icono": "https://static.tvar.io/imagenes/canal7bahia.png"
+      },
+      {
+        "name": "NEOX TV SALTA",
+        "uri": "https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8",
+        "icono": "http://www.radiosargentina.com.ar/png/VINEOXTV.png"
+      },
+{
+        "name": "EL 8 TUCUMAN",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc/Canal_8_Tucuman.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7760caa058b51b7cce151c0539fa4a8f&key=edd086c1011ed2c54cbe869d0e8d9289",
+        "icono": "https://www.elocho.tv/resources/logos/twitter-card-1200x600.jpg"
+      },
+{
+        "name": "TELEFE CORDOBA",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc/Canal_8_CBA.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/z21uds8janr6tb9jvvs8w/KEY.telefe.cordoba.json?rlkey=qynf51jetwjqjryw67tuyrpf5&dl=0",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png"
+      },
+      {
+        "name": "TELEFE SALTA",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c4eds/Telefe_Salta/SA_Live_dash_enc/Telefe_Salta.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6c7a5de392f874308e4dd8f2837f1115&key=9ccf9ec6922c403d67d0df7952547581",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/1/13/Telefe_Salta_%282018%29.png"
+      },
+{
+        "name": "CANAL 12 CORDOBA",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_12_CBA.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=90422640d3e846159fa450f83870ed4a&key=abb3cd94aece1a462df25a8f21085cca",
+        "icono": "https://i.ibb.co/60sFBfY/og-image.jpg"
+      },
+      {
+        "name": "CANAL 10 CORDOBA",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_Live_dash_enc/Canal10_CBA_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "http://167.114.129.223/web/keys/canal10cba.json",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png/240px-Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png"
+      },
+{
+        "name": "TELEFE SANTA FE",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/Canal_13_SFE/SA_Live_dash_enc/Canal_13_SFE.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/t7pxt5clheq2kgonc40jb/KEY.telefe.santa.fe.json?rlkey=qfm4iap0vn5m0h1zjh2mqfk1e&dl=0",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Telefe_Santa_Fe.png"
+      },
+      {
+        "name": "CANAL 10 TUCUMAN",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc/Ch10_Tucuman.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7a53740aa52d8b50ccb218aab5e9d50e&key=e772fa4a4997b50a0ff04e2ef286a864",
+        "icono": "https://www.laizquierdadiario.com/IMG/arton53465.jpg"
+      },
+      {
+        "name": "Canal 9 Litoral",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/Canal_9_Parana/SA_Live_dash_enc/Canal_9_Parana.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/jhfg3zst0pcudtz65nuj4/KEY.canqal.9.litoral.json?rlkey=tsl6f8mtd2ybk93idsa7soocu&dl=0",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/2/20/Canal_9_Litoral_logo_2021.png"
+      },
+      {
+        "name": "TELEFE ROSARIO",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c4eds/Canal_5_Rosario/SA_Live_dash_enc/Canal_5_Rosario.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/3e8oywvgpo6wj48y88owe/KEY.telefe.rosario.json?rlkey=5mdzysk3iis67bjgvf9hc4k9u&dl=0",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Telefe_Rosario.png"
+      },
+      {
+        "name": "CANAL 3 ROSARIO",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc/Canal_3_Rosario.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/b4p2pkcgrtb0clsx30hvc/KEYcanal.3.rosario.json?rlkey=2r74dkb51x4g4vh9xts5nhm5w&dl=0",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Eltres_RGB-grad_%28positivo%29.png/202px-Eltres_RGB-grad_%28positivo%29.png"
+      },
+      {
+        "name": "TELEFE NEUQUEN",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c4eds/Telefe_Neuquen/SA_Live_dash_enc/Telefe_Neuquen.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/q8llw64f79ma1snak176h/KEY.telefe.neuquen.json?rlkey=x44os1tsl3ews1potwi2infoe&dl=0",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Telefe_Neuqu%C3%A9n_%282018%29.png"
+      },
+{
+        "name": "13 Max Televisión",
+        "uri": "http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/chunklist_w247540946.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png"
+      },
+      {
+        "name": "TELEFE BAHIA BLANCA",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c3eds/Canal9_Bahia_Blanca/SA_Live_dash_enc/Canal9_Bahia_Blanca.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/rbgs7hsxairw06c2h75j0/KEY.TELEFE-BAHIA-BLANCA.json?rlkey=i713hwikxol6h3baync9e9dtd&dl=0",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Telefe_Bah%C3%ADa_Blanca.png"
       }
     ]
   },
