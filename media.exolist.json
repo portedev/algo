@@ -264,14 +264,14 @@
         "uri": "https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8",
         "icono": "http://www.radiosargentina.com.ar/png/VINEOXTV.png"
       },
-{
+      {
         "name": "EL 8 TUCUMAN",
         "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc/Canal_8_Tucuman.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7760caa058b51b7cce151c0539fa4a8f&key=edd086c1011ed2c54cbe869d0e8d9289",
         "icono": "https://www.elocho.tv/resources/logos/twitter-card-1200x600.jpg"
       },
-{
+      {
         "name": "TELEFE CORDOBA",
         "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc/Canal_8_CBA.mpd",
         "drm_scheme": "clearkey",
@@ -285,7 +285,7 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6c7a5de392f874308e4dd8f2837f1115&key=9ccf9ec6922c403d67d0df7952547581",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/1/13/Telefe_Salta_%282018%29.png"
       },
-{
+      {
         "name": "CANAL 12 CORDOBA",
         "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_12_CBA.mpd",
         "drm_scheme": "clearkey",
@@ -299,7 +299,7 @@
         "drm_license_uri": "http://167.114.129.223/web/keys/canal10cba.json",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png/240px-Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png"
       },
-{
+      {
         "name": "TELEFE SANTA FE",
         "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/Canal_13_SFE/SA_Live_dash_enc/Canal_13_SFE.mpd",
         "drm_scheme": "clearkey",
@@ -341,7 +341,7 @@
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/q8llw64f79ma1snak176h/KEY.telefe.neuquen.json?rlkey=x44os1tsl3ews1potwi2infoe&dl=0",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Telefe_Neuqu%C3%A9n_%282018%29.png"
       },
-{
+      {
         "name": "13 Max Televisión",
         "uri": "http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/chunklist_w247540946.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png"
