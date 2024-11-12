@@ -153,7 +153,7 @@
       {
         "name": "MULTIVISION CABLE",
         "uri": "https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8",
-        "icono": "https://static.tvar.io/imagenes/multivisioncable.jpg"
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTeXahKeeZUDnqJqGIhGP2kjSU5U0qCwpmGY_IpN596w&s"
       },
       {
         "name": "CANAL 7 SALTA",
@@ -1088,6 +1088,27 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=daecef5fe32f4ce083c6a0c692755d6a&key=d4227f24389a9ba77293214b93eb0d7d",
         "icono": "https://github.com/portedev/algo/releases/download/Muus1c44ss/htv.png"
+      },
+      {
+        "name": "FLOW MUSIC 1",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c7eds/Flow_Music_1/SA_Live_dash_enc/Flow_Music_1.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f34cd7709f093d23d4db009107d96862&key=d8a829138d970b45e867c9733a31b2f0",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flow_logo_2021.svg/1024px-Flow_logo_2021.svg.png"
+      },
+      {
+        "name": "FLOW MUSIC 2",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c7eds/Flow_Music_2/SA_Live_dash_enc/Flow_Music_2.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=596b599580b39ae2f3c413f7eae36902&key=2d7e3d5d31f68690fd877a111f84e8e3",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flow_logo_2021.svg/1024px-Flow_logo_2021.svg.png"
+      },
+      {
+        "name": "FLOW MUSIC XP",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc/Flow_Music_XP.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b2aae44a74144be8b2118e20d1412bab&key=8a7ae996d12d8d5d5637d1044f8e08b7",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flow_logo_2021.svg/1024px-Flow_logo_2021.svg.png"
       }
     ]
   },
