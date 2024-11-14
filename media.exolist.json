@@ -385,6 +385,20 @@
         "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/Fl0w.png"
       },
       {
+        "name": "TYC SPORT",
+        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
+        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/tyc.png"
+      },
+      {
+        "name": "TYC SPORTS INTERNACIONAL",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=58e1ebe75d944f6a98ea67b1c7c0a572&key=1c311b069dbce31ce8e62a6e7e2433eb",
+        "icono": "https://i.ibb.co/KhbbLzP/tycsports.png"
+      },
+      {
         "name": "ESPN",
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
         "drm_scheme": "clearkey",
@@ -489,13 +503,6 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d0c38de3c9844e4e9f975dffb3eff8ad&key=141ca0fdf6ebadfa7107576b8e09e117",
         "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/nb4.png"
-      },
-      {
-        "name": "TYC SPORT",
-        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/tyc.png"
       },
       {
         "name": "TYC SPORT (PLAY 1)",
@@ -942,6 +949,20 @@
     "name": "\uD83D\uDC6A INFANTILES",
     "samples": [
       {
+        "name": "ADULT SWIM",
+        "uri": "https://cdn.cvattv.com.ar/live/c3eds/Adult_Swim/SA_Live_dash_enc/Adult_Swim.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9be1432e1e594c8d0648a44d3d9f0c46&key=8e6c785b14d973c504074b1920f11b15",
+        "icono": "https://static.flow.com.ar/images/9537/CH_LOGO/60/40/0/0/21934865078382.png"
+      },
+      {
+        "name": "BABY TV",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c7eds/BabyTV/SA_Live_dash_enc/BabyTV.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9e09f0a3ecb932582e0f3bc6a6194c8d&key=6d2363b7ba7680ea3bf6dcbad1efa5bf",
+        "icono": "https://i.ibb.co/HPnbTg4/babytv.png"
+      },
+      {
         "name": "CARTOON NETWORK",
         "uri": "https://cdn.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_wl/CartoonNetwork.mpd",
         "drm_scheme": "clearkey",
@@ -968,6 +989,20 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4a742e478d14023e1993e011d9415f94&key=0df77ede9bc744376836d21afa137dda",
         "icono": "https://github.com/portedev/algo/releases/download/An1m4d0ss/D1sn3y.Ch.png"
+      },
+      {
+        "name": "Disney Junior",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc/DisneyJr.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bd29c4a538f28845ce33581111749428&key=46d9589f41a11c3637c07c604956deac",
+        "icono": "http://78.47.174.211/logos/disneyjunior.png"
+      },
+      {
+        "name": "DREAMWORKS",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc/Dreamworks.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7f30c43e47544412221fd64201d92f4b&key=f83d09d75a0946b1d71aa48c201b4d8b",
+        "icono": "https://i.ibb.co/pzxBWZj/Dream-Works-Channel.png"
       },
        {
         "name": "DISCOVERY KIDS",
@@ -1011,6 +1046,16 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=334001b2f2644df9bdf35e92d2b89f8f&key=475ec87d86ed0636dbb6d6d9d4a43bb7",
         "icono": "https://github.com/portedev/algo/releases/download/An1m4d0ss/Pak4p4k4.png"
+      },
+      {
+        "name": "KIDS TV",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master_es.m3u8",
+        "icono": "https://i.ibb.co/2SkMY7n/kids-tv.png"
+      },
+      {
+        "name": "TOONZ KIDS",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8",
+        "icono": "https://i.ibb.co/zxjmbLC/toonz-kids.png"
       }
     ]
   },
