@@ -560,18 +560,9 @@
     "name": "⚽ DEPORTES INTERNACIONALES",
     "samples": [
       {
-        "name": "VTV",
-        "uri": "https://chromecast.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc_2A/VTV_HD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b96960aa715a4e51b7e952e81c99ac8e&key=5bbffc680764dbd63d90b774b3aa0c0a",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/vtv.png"
-      },
-      {
-        "name": "VTV PLUS",
-        "uri": "https://edge-live17-sl.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=da8a49a594160cc0059f07b9f71cd39a&key=37ca91dd799b351a02445151c7f61070",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/vtvplus.png"
+        "name": "BEIN SPORTS EXTRA Ñ",
+        "uri": "https://dbrb49pjoymg4.cloudfront.net/10001/99991785/hls/playlist.m3u8?ads.xumo_channelId=99991785",
+        "icono": "https://i.ibb.co/gJ9z814/o-h-1-895-bein-sports-xtra-1.png"
       },
       {
         "name": "DAZN 1",
@@ -663,6 +654,342 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc8d44406ed6bf1898ad9f7a2d64f29e&key=fb85d059687ab0fc67805806204edbdf",
         "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/3spnExtr4.png"
+      },
+      {
+        "name": "VTV",
+        "uri": "https://chromecast.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc_2A/VTV_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b96960aa715a4e51b7e952e81c99ac8e&key=5bbffc680764dbd63d90b774b3aa0c0a",
+        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/vtv.png"
+      },
+      {
+        "name": "VTV PLUS",
+        "uri": "https://edge-live17-sl.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=da8a49a594160cc0059f07b9f71cd39a&key=37ca91dd799b351a02445151c7f61070",
+        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/vtvplus.png"
+      },
+      {
+        "name": "TENNIS CHANNEL",
+        "uri": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelspain-samsungspain/playlist.m3u8",
+        "icono": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2600001ME_20230809T053838SQUARE.png_20230809053839.png"
+      },
+      {
+        "name": "WORLD POKER TOUR",
+        "uri": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00218-wptenterprisesi-wptespanol-samsungspain/playlist.m3u8",
+        "icono": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2900001P9_20230926T032409SQUARE.png_20230926032410.png"
+      },
+      {
+        "name": "ACC DIGITAL NETWORK",
+        "uri": "https://dbrb49pjoymg4.cloudfront.net/10001/99991315/hls/playlist.m3u8?ads.xumo_channelId=99991315",
+        "icono": "https://image.xumo.com/v1/channels/channel/99991315/600x337.webp?type=channelTile"
+      },
+      {
+        "name": "BEK SPORTS",
+        "uri": "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil%3aBEKPRIMEW.smil/playlist.m3u8",
+        "icono": "https://i.ibb.co/VwMZgMZ/bek-sports.png"
+      },
+      {
+        "name": "DRAFTKINGS NETWORK",
+        "uri": "https://d2irko5f9gt1c5.cloudfront.net/10008/99951265/hls/playlist.m3u8?ads.xumo_channelId=99951265",
+        "icono": "https://image.xumo.com/v1/channels/channel/99951265/600x337.webp?type=channelTile"
+      },
+      {
+        "name": "GOLFPASS",
+        "uri": "https://d1fqmru92jnl1h.cloudfront.net/live/master.m3u8",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0020d88a6713159839743f655c5da7de&key=ba9f34226301f69a4f0f13f65a1f92ec",
+        "icono": "https://i.ibb.co/SxhPjMG/golfpass.png"
+      },
+      {
+        "name": "PGA TOUR",
+        "uri": "https://dbrb49pjoymg4.cloudfront.net/10001/99991281/hls/master.m3u8?ads.xumo_channelId=99991281",
+        "icono": "https://image.xumo.com/v1/channels/channel/99991281/600x337.webp?type=channelTile"
+      },
+      {
+        "name": "USGA TV",
+        "uri": "https://dbrb49pjoymg4.cloudfront.net/10001/99991389/hls/master.m3u8?ads.xumo_channelId=99991389",
+        "icono": "https://image.xumo.com/v1/channels/channel/99991389/600x337.webp?type=channelTile"
+      },
+      {
+        "name": "LA7D",
+        "uri": "https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/La7d_logo.svg/320px-La7d_logo.svg.png"
+      },
+      {
+        "name": "MATCH! FUTBOL 1",
+        "uri": "http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/mpegts",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dbce02ba047a663162cf01a13f72fada&key=01228427a01cd4f5b11d58fb2f0f70fe",
+        "icono": "https://i.ibb.co/6gCzRTY/match-futbol-1.png"
+      },
+      {
+        "name": "MATCH! FUTBOL 2",
+        "uri": "http://jyzyo7us.akciatv.ru/iptv/CXTWBLRBEL655G/211/index.m3u8",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4ee92db5fec64a759fe0e43f5401ea20&key=87cecedd78a51865acec7dcf0ecbb7f6",
+        "icono": "https://i.ibb.co/0cKqhM2/match-futbol-2.png"
+      },
+      {
+        "name": "ARENA  3  PREMIUM",
+        "uri": "http://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd?n=fIywBW0QQGm8IF3FrBnHh1:APA91bFQ2Ae7cZNm0rV3cd_fiV4OmX4dObMJbHr7ntUl0K33d0PIu4D4xuZ0CY3nzqLY6WHY12g6Sy4g1n-x9CTLjkHSffmyDI9IkR6Pt0k-wvwpa6dEaOx3K3Lb7L49M8wamqlwgi-v",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c18b6aa739be4c0b774605fcfb5d6b68&key=e41c3a6f7532b2e3a828d9580124c89d",
+        "icono": "https://i.ibb.co/xHy202f/tv-station-rs-arena-premium-3-2698.png"
+      },
+      {
+        "name": "ARENA  SPORT  1",
+        "uri": "http://webtvstream.bhtelecom.ba/hls6/arena1.mpd?n=fIywBW0QQGm8IF3FrBnHh1:APA91bFQ2Ae7cZNm0rV3cd_fiV4OmX4dObMJbHr7ntUl0K33d0PIu4D4xuZ0CY3nzqLY6WHY12g6Sy4g1n-x9CTLjkHSffmyDI9IkR6Pt0k-wvwpa6dEaOx3K3Lb7L49M8wamqlwgi-v",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c18b6aa739be4c0b774605fcfb5d6b68&key=e41c3a6f7532b2e3a828d9580124c89d",
+        "icono": "https://i.ibb.co/rf9M95s/arena-sport-1.png"
+      },
+      {
+        "name": "ARENA  SPORT  2",
+        "uri": "http://webtvstream.bhtelecom.ba/hls6/arena2.mpd?n=fIywBW0QQGm8IF3FrBnHh1:APA91bFQ2Ae7cZNm0rV3cd_fiV4OmX4dObMJbHr7ntUl0K33d0PIu4D4xuZ0CY3nzqLY6WHY12g6Sy4g1n-x9CTLjkHSffmyDI9IkR6Pt0k-wvwpa6dEaOx3K3Lb7L49M8wamqlwgi-v",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c18b6aa739be4c0b774605fcfb5d6b68&key=e41c3a6f7532b2e3a828d9580124c89d",
+        "icono": "https://i.ibb.co/ZhR22dX/arena-sport-2.png"
+      },
+      {
+        "name": "ARENA  SPORT  3",
+        "uri": "http://webtvstream.bhtelecom.ba/hls6/arena3.mpd?n=fIywBW0QQGm8IF3FrBnHh1:APA91bFQ2Ae7cZNm0rV3cd_fiV4OmX4dObMJbHr7ntUl0K33d0PIu4D4xuZ0CY3nzqLY6WHY12g6Sy4g1n-x9CTLjkHSffmyDI9IkR6Pt0k-wvwpa6dEaOx3K3Lb7L49M8wamqlwgi-v",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c18b6aa739be4c0b774605fcfb5d6b68&key=e41c3a6f7532b2e3a828d9580124c89d",
+        "icono": "https://i.ibb.co/4Fm3Yt4/arena-sport-3.png"
+      },
+      {
+        "name": "ARENA  SPORT  4",
+        "uri": "http://webtvstream.bhtelecom.ba/hls6/arena4.mpd?n=fIywBW0QQGm8IF3FrBnHh1:APA91bFQ2Ae7cZNm0rV3cd_fiV4OmX4dObMJbHr7ntUl0K33d0PIu4D4xuZ0CY3nzqLY6WHY12g6Sy4g1n-x9CTLjkHSffmyDI9IkR6Pt0k-wvwpa6dEaOx3K3Lb7L49M8wamqlwgi-v",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c18b6aa739be4c0b774605fcfb5d6b68&key=e41c3a6f7532b2e3a828d9580124c89d",
+        "icono": "https://i.ibb.co/B2yx1kj/arena-sport-4.png"
+      },
+      {
+        "name": "ARENA  SPORT  5",
+        "uri": "http://webtvstream.bhtelecom.ba/hls6/arena5.mpd?n=fIywBW0QQGm8IF3FrBnHh1:APA91bFQ2Ae7cZNm0rV3cd_fiV4OmX4dObMJbHr7ntUl0K33d0PIu4D4xuZ0CY3nzqLY6WHY12g6Sy4g1n-x9CTLjkHSffmyDI9IkR6Pt0k-wvwpa6dEaOx3K3Lb7L49M8wamqlwgi-v",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c18b6aa739be4c0b774605fcfb5d6b68&key=e41c3a6f7532b2e3a828d9580124c89d",
+        "icono": "https://i.ibb.co/4fFtdnG/arena-sport-5.png"
+      },
+      {
+        "name": "ARENA  SPORT  6",
+        "uri": "http://webtvstream.bhtelecom.ba/hls6/arena6.mpd?n=fIywBW0QQGm8IF3FrBnHh1:APA91bFQ2Ae7cZNm0rV3cd_fiV4OmX4dObMJbHr7ntUl0K33d0PIu4D4xuZ0CY3nzqLY6WHY12g6Sy4g1n-x9CTLjkHSffmyDI9IkR6Pt0k-wvwpa6dEaOx3K3Lb7L49M8wamqlwgi-v",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c18b6aa739be4c0b774605fcfb5d6b68&key=e41c3a6f7532b2e3a828d9580124c89d",
+        "icono": "https://i.ibb.co/StQZdMw/arena-sport-6.png"
+      },
+      {
+        "name": "ARENA SPORT PREMIER LEAGUE",
+        "uri": "http://webtvstream.bhtelecom.ba/hls6/premier_league.mpd?n=fIywBW0QQGm8IF3FrBnHh1:APA91bFQ2Ae7cZNm0rV3cd_fiV4OmX4dObMJbHr7ntUl0K33d0PIu4D4xuZ0CY3nzqLY6WHY12g6Sy4g1n-x9CTLjkHSffmyDI9IkR6Pt0k-wvwpa6dEaOx3K3Lb7L49M8wamqlwgi-v",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c18b6aa739be4c0b774605fcfb5d6b68&key=e41c3a6f7532b2e3a828d9580124c89d",
+        "icono": "https://objektiv.rs/wp-content/uploads/2022/06/arena-sport-premier-liga.jpg"
+      },
+      {
+        "name": "ARENA SPORT 1x2",
+        "uri": "http://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd?n=fIywBW0QQGm8IF3FrBnHh1:APA91bFQ2Ae7cZNm0rV3cd_fiV4OmX4dObMJbHr7ntUl0K33d0PIu4D4xuZ0CY3nzqLY6WHY12g6Sy4g1n-x9CTLjkHSffmyDI9IkR6Pt0k-wvwpa6dEaOx3K3Lb7L49M8wamqlwgi-v",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c18b6aa739be4c0b774605fcfb5d6b68&key=e41c3a6f7532b2e3a828d9580124c89d",
+        "icono": "https://i.ibb.co/FwGPKqB/arena-sport-1x2.png"
+      },
+      {
+        "name": "ARENA ESPORT",
+        "uri": "http://webtvstream.bhtelecom.ba/hls6/arena_esport.mpd?n=fIywBW0QQGm8IF3FrBnHh1:APA91bFQ2Ae7cZNm0rV3cd_fiV4OmX4dObMJbHr7ntUl0K33d0PIu4D4xuZ0CY3nzqLY6WHY12g6Sy4g1n-x9CTLjkHSffmyDI9IkR6Pt0k-wvwpa6dEaOx3K3Lb7L49M8wamqlwgi-v",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c18b6aa739be4c0b774605fcfb5d6b68&key=e41c3a6f7532b2e3a828d9580124c89d",
+        "icono": "https://i.ibb.co/x5CBgrg/arena-e-Sport.png"
+      },
+      {
+        "name": "ARENA FIGHT",
+        "uri": "http://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd?n=fIywBW0QQGm8IF3FrBnHh1:APA91bFQ2Ae7cZNm0rV3cd_fiV4OmX4dObMJbHr7ntUl0K33d0PIu4D4xuZ0CY3nzqLY6WHY12g6Sy4g1n-x9CTLjkHSffmyDI9IkR6Pt0k-wvwpa6dEaOx3K3Lb7L49M8wamqlwgi-v",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c18b6aa739be4c0b774605fcfb5d6b68&key=e41c3a6f7532b2e3a828d9580124c89d",
+        "icono": "https://i.ibb.co/F6N3Bh4/arena-fight.png"
+      },
+      {
+        "name": "STRONGMAN CHAMPIONS LEAGUE",
+        "uri": "https://d2irko5f9gt1c5.cloudfront.net/10008/99951180/hls/playlist.m3u8?ads.xumo_channelId=99951180",
+        "icono": "https://image.xumo.com/v1/channels/channel/99951180/600x337.webp?type=channelTile"
+      },
+      {
+        "name": "HARD KNOCKS",
+        "uri": "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8",
+        "icono": "https://i.ibb.co/MGq0gyX/hard-knocks.webp"
+      },
+      {
+        "name": "BOXING TV",
+        "uri": "https://d2irko5f9gt1c5.cloudfront.net/10008/99951154/hls/BOXINGTV_SCTE.m3u8?ads.xumo_channelId=99951154",
+        "icono": "https://image.xumo.com/v1/channels/channel/99951154/600x337.webp?type=channelTile"
+      },
+      {
+        "name": "MMA TV",
+        "uri": "https://daiconnect.com/live/hls/tvup/tvfy-mma/.m3u8",
+        "icono": "https://i.ibb.co/ZhxL3T3/mma-tv.png"
+      },
+      {
+        "name": "FIGHT BOX",
+        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:225_HD.smil/manifest.mpd",
+        "icono": "https://i.ibb.co/wNr5192/fight-box.png"
+      },
+      {
+        "name": "FIGHT NETWORK",
+        "uri": "https://dbrb49pjoymg4.cloudfront.net/10001/99951132/hls/master.m3u8?ads.xumo_channelId=99951132",
+        "icono": "https://image.xumo.com/v1/channels/channel/99951132/600x337.webp?type=channelTile"
+      },
+      {
+        "name": "FIGHT NETWORK 2",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fight-network/main.m3u8",
+        "icono": "https://image.xumo.com/v1/channels/channel/99951132/600x337.webp?type=channelTile"
+      },
+      {
+        "name": "PROFESSIONAL FIGHTERS LEAGUE",
+        "uri": "https://d2irko5f9gt1c5.cloudfront.net/10008/99951203/hls/playlist.m3u8?ads.xumo_channelId=99951203",
+        "icono": "https://image.xumo.com/v1/channels/channel/99951203/600x337.webp?type=channelTile"
+      },
+      {
+        "name": "FITE 24/7",
+        "uri": "https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-DistroTV/263.m3u8",
+        "icono": "https://i.ibb.co/pjHcQHK/FITE247.png"
+      },
+      {
+        "name": "SWERVE COMBAT ",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/swerve-combat/playlist.m3u8",
+        "icono": "https://i.ibb.co/2gDHQxW/swerve-combat.png"
+      },
+      {
+        "name": "MMA JUNKIE ",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8",
+        "icono": "https://i.ibb.co/D4T7phH/mma-junkie.jpg"
+      },
+      {
+        "name": "UFA",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8",
+        "icono": "https://i.ibb.co/CmdBHzB/ufa.png"
+      },
+      {
+        "name": "FIGHTING SPIRIT TV ",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fighting-spirit-tv/master.m3u8",
+        "icono": "https://i.ibb.co/sFvRTLs/fs.png"
+      },
+      {
+        "name": "CHANNEL FIGHT",
+        "uri": "https://d15wqvt0xm15k4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ChannelFight-DistroTV/266.m3u8",
+        "icono": "https://i.ibb.co/sVwQKzC/channel-fight.jpg"
+      },
+      {
+        "name": "EXTREME SPORTS CHANNEL",
+        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge/smil:153_HD.smil/manifest.mpd",
+        "icono": "https://i.ibb.co/s2CY3mx/extreme.png"
+      },
+      {
+        "name": "MOTORTREND FAST TV",
+        "uri": "https://dtqutq7lmcchv.cloudfront.net/10001/99951196/hls/playlist.m3u8?ads.xumo_channelId=99951196",
+        "icono": "https://image.xumo.com/v1/channels/channel/99951196/600x337.webp?type=channelTile"
+      },
+      {
+        "name": "MOTORVISION",
+        "uri": "https://dbrb49pjoymg4.cloudfront.net/10001/99991325/hls/mv.m3u8?ads.xumo_channelId=99991325",
+        "icono": "https://image.xumo.com/v1/channels/channel/99991325/600x337.webp?type=channelTile"
+      },
+      {
+        "name": "MOTOAMERICA",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motoamerica-tv/MOTOAMERICA_SCTE.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/MotoAmerica_Logo.png/1024px-MotoAmerica_Logo.png"
+      },
+      {
+        "name": "MOTORRACING",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8",
+        "icono": "https://i.ibb.co/6H9n53G/motorracing.png"
+      },
+      {
+        "name": "NITRO CIRCUS",
+        "uri": "https://dbrb49pjoymg4.cloudfront.net/10001/99991294/hls/master.m3u8?ads.xumo_channelId=99991294",
+        "icono": "https://image.xumo.com/v1/channels/channel/99991294/600x337.webp?type=channelTile"
+      },
+      {
+        "name": "LACROSSE TV",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/lax/LSN_SCTE.m3u8",
+        "icono": "https://i.ibb.co/GQV5W9w/lax-tv.png"
+      },
+      {
+        "name": "BILLIARD TV",
+        "uri": "https://dtqutq7lmcchv.cloudfront.net/10001/99991627/hls/BILLIARDTV_SCTE.m3u8?ads.xumo_channelId=99991627",
+        "icono": "https://image.xumo.com/v1/channels/channel/99991627/600x337.webp?type=channelTile"
+      },
+      {
+        "name": "SURF CHANNEL",
+        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:227_HD.smil/manifest.mpd",
+        "icono": "https://i.ibb.co/KhswtKR/Surf-Channel.png"
+      },
+      {
+        "name": "WORLD SURF LEAGUE",
+        "uri": "https://dbrb49pjoymg4.cloudfront.net/10001/99991249/hls/master.m3u8?ads.xumo_channelId=99991249",
+        "icono": "https://image.xumo.com/v1/channels/channel/99991249/600x337.webp?type=channelTile"
+      },
+      {
+        "name": "ESPORTS REVOLUTION",
+        "uri": "https://dtqutq7lmcchv.cloudfront.net/10001/99991356/hls/master.m3u8?ads.xumo_channelId=99991356",
+        "icono": "https://image.xumo.com/v1/channels/channel/99991356/600x337.webp?type=channelTile"
+      },
+      {
+        "name": "ORIGIN SPORTS",
+        "uri": "https://d2irko5f9gt1c5.cloudfront.net/10008/99991786/hls/playlist.m3u8?ads.xumo_channelId=99991786",
+        "icono": "https://image.xumo.com/v1/channels/channel/99991786/600x337.webp?type=channelTile"
+      },
+      {
+        "name": "ACL CORNHOLE TV",
+        "uri": "https://dbrb49pjoymg4.cloudfront.net/10001/99991697/hls/CORNHOLETV_SCTE.m3u8?ads.xumo_channelId=99991697",
+        "icono": "https://image.xumo.com/v1/channels/channel/99991697/600x337.webp?type=channelTile"
+      },
+      {
+        "name": "FANDUEL TV EXTRA",
+        "uri": "https://dbrb49pjoymg4.cloudfront.net/10001/99951266/hls/playlist.m3u8?ads.xumo_channelId=99951266",
+        "icono": "https://image.xumo.com/v1/channels/channel/99951266/600x337.webp?type=channelTile"
+      },
+      {
+        "name": "OUTSIDE TV+",
+        "uri": "https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/master.m3u8",
+        "icono": "https://i.ibb.co/FxNwNgk/outside-tv.png"
+      },
+      {
+        "name": "BEIN SPORTS 1",
+        "uri": "https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=69646b755f3130303030303030303030&key=e4a2359b05563399f1d9adfce641724a",
+        "icono": "https://i.ibb.co/RyGQTHX/bein-sports1.png"
+      },
+      {
+        "name": "BEIN SPORTS 3",
+        "uri": "https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=69646b755f3130303030303030303030&key=e4a2359b05563399f1d9adfce641724a",
+        "icono": "https://i.ibb.co/y6kcwYD/bein-sports3.png"
+      },
+      {
+        "name": "SHARJAH SPORTS",
+        "uri": "http://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8",
+        "icono": "https://i.goalzz.com/?i=logo_sport%2fsharjah_sport.jpg"
+      },
+      {
+        "name": "ABU DHABI SPORTS TV 1",
+        "uri": "https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/DASH/master.mpd",
+        "icono": "https://i.ibb.co/HBfTDzp/no-img.png"
+      },
+      {
+        "name": "ABU DHABI SPORTS TV 2",
+        "uri": "https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/DASH/master.mpd",
+        "icono": "https://i.ibb.co/HBfTDzp/no-img.png"
+      },
+      {
+        "name": "DUBAI SPORTS 2",
+        "uri": "http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8",
+        "icono": "https://www.tvpolsat.info/wp-content/uploads/2021/12/abudhabisporst.png"
+      },
+      {
+        "name": "DUBAI SPORTS 3",
+        "uri": "http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8",
+        "icono": "https://www.tvpolsat.info/wp-content/uploads/2021/12/abudhabisporst.png"
       }
     ]
   },
@@ -783,6 +1110,13 @@
         "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/G0ld3n.Pr3m13r.png"
       },
       {
+        "name": "DHE",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c7eds/DHE/SA_Live_dash_enc/DHE.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ff800156f81f70c687eccaadedc2ca15&key=937ba1301e27008b34d02b9d8a31a0db",
+        "icono": "https://i.ibb.co/wCQcFwJ/dhe.png"
+      },
+      {
         "name": "TCM",
         "uri" : "https://cdn.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc/TCM.mpd",
         "drm_scheme": "clearkey",
@@ -872,6 +1206,13 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=fd9619f9d7c2d5115a339941279e0b4b&key=bf55635e6591f905659fa27ab3ca2812",
         "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/S0ny.Ch.png"
+      },
+      {
+        "name": "SONY MOVIES",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c7eds/Sony_Movies/SA_Live_dash_enc/Sony_Movies.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=88b9c41e72acd5b589bbfb4776969781&key=43b9403f7a9e28fc2d7cbf10373b85aa",
+        "icono": "https://i.ibb.co/t4nrcdk/Sony-Movies-Logo-svg.png"
       },
       {
         "name": "WARNER CHANNEL",
@@ -1063,6 +1404,13 @@
     "name": "\uD83D\uDCD7 CULTURALES",
     "samples": [
       {
+        "name": "NATIONAL GEOGRAPHIC",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc/NatGeoHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4be0c61ceddc62294cc9e23b627af53d&key=852c1935d11c3c53d0a1ceff3bb3bf16",
+        "icono": "https://i.ibb.co/X3f0JTF/natgeologo.png"
+      },
+      {
         "name": "ANIMAL PLANET",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc_2A/AnimalPlanet.mpd",
         "drm_scheme": "clearkey",
@@ -1138,6 +1486,39 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=91c540d350f34f5386f3f1c77f74001f&key=54ee72810551da0cba0c45a8df651962",
         "icono": "https://github.com/portedev/algo/releases/download/Cultur4l3ss/F1lm4rts.png"
+      },
+      {
+        "name": "HGTV",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_Live_dash_enc/Home_and_Garden.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=43bc6a87ee4f21aa320ba00b980a6fd8&key=bd55130539a30faa1d90b3142eebe0b2",
+        "icono": "http://78.47.174.211/logos/hgtv.png"
+      },
+      {
+        "name": "SABER MÁS",
+        "uri": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/playlist.m3u8",
+        "icono": "https://i.ibb.co/cYjQX71/freetv-sabermas-1080x1080-02092024.jpg"
+      },
+      {
+        "name": "CANAL A",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Canal_a/SA_Live_dash_enc_2A/Canal_a.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=324ec73787744554ae1aef231a4f8f97&key=677a040674d1d0eccef327269b222bae",
+        "icono": "https://2.bp.blogspot.com/-Qt2mjUh2TJ0/W3HqV99lVtI/AAAAAAAAXZE/jbqehkicYhAtiKy6IotwRFuo9OT3InafgCLcBGAs/s1600/Logo_canal_a.png"
+      },
+      {
+        "name": "SUN CHANNEL",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc_2A/Sun_Channel.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=158177692aa3463eae5f4e1f72403e9c&key=1c6c026fba9cf7ecb576c7bedce0ead4",
+        "icono": "AGREGAR LOGO"
+      },
+      {
+        "name": "WOBI",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/WOBI/SA_Live_dash_enc_2A/WOBI.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f2e44a719947ebfe37de527a9d6df71e&key=029bddeb08909dd66a80276fc338d692",
+        "icono": "https://git.io/JOTY3"
       }
     ]
   },
@@ -1228,13 +1609,6 @@
     "name": "\uD83C\uDFB5 MUSICA",
     "samples": [
       {
-        "name": "MTV HITS",
-        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc_2A/MTV_Hits.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=61008dfc867544cd872de99b1f2b82cf&key=716449756316b91c54803aaa22a2fbf0",
-        "icono": "https://github.com/portedev/algo/releases/download/Muus1c44ss/mtv.H1ts.png"
-      },
-      {
         "name": "ESENCIALES VORTERIX",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc/Vorterix.mpd",
         "drm_scheme": "clearkey",
@@ -1282,6 +1656,200 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b2aae44a74144be8b2118e20d1412bab&key=8a7ae996d12d8d5d5637d1044f8e08b7",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flow_logo_2021.svg/1024px-Flow_logo_2021.svg.png"
+      },
+      {
+        "name": "MUSIC TOP",
+        "uri": "https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8",
+        "icono": "https://i.ibb.co/rfDTXwt/music-top.png"
+      },
+      {
+        "name": "MTV",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0c9eb3ead38a122ac460ad96a8ebfd2e&key=66bfbfa4449eb8bc1bcf7577d5bffaad",
+        "icono": "https://i.ibb.co/HqPNtN1/mtv.png"
+      },
+      {
+        "name": "MTV HITS",
+        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc_2A/MTV_Hits.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=61008dfc867544cd872de99b1f2b82cf&key=716449756316b91c54803aaa22a2fbf0",
+        "icono": "https://github.com/portedev/algo/releases/download/Muus1c44ss/mtv.H1ts.png"
+      },
+      {
+        "name": "MTV CLUB",
+        "uri": "http://webtvstream.bhtelecom.ba/hls19/club_mtv.mpd?n=fIywBW0QQGm8IF3FrBnHh1:APA91bFQ2Ae7cZNm0rV3cd_fiV4OmX4dObMJbHr7ntUl0K33d0PIu4D4xuZ0CY3nzqLY6WHY12g6Sy4g1n-x9CTLjkHSffmyDI9IkR6Pt0k-wvwpa6dEaOx3K3Lb7L49M8wamqlwgi-v",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c18b6aa739be4c0b774605fcfb5d6b68&key=e41c3a6f7532b2e3a828d9580124c89d",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Club_MTV_2021_logo.svg/505px-Club_MTV_2021_logo.svg.png"
+      },
+      {
+        "name": "MTV 80s",
+        "uri": "http://webtvstream.bhtelecom.ba/hls18/mtv_80s.mpd?n=fIywBW0QQGm8IF3FrBnHh1:APA91bFQ2Ae7cZNm0rV3cd_fiV4OmX4dObMJbHr7ntUl0K33d0PIu4D4xuZ0CY3nzqLY6WHY12g6Sy4g1n-x9CTLjkHSffmyDI9IkR6Pt0k-wvwpa6dEaOx3K3Lb7L49M8wamqlwgi-v",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c18b6aa739be4c0b774605fcfb5d6b68&key=e41c3a6f7532b2e3a828d9580124c89d",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png"
+      },
+      {
+        "name": "MTV 90s",
+        "uri": "http://webtvstream.bhtelecom.ba/hls16/mtv_90s.mpd?n=fIywBW0QQGm8IF3FrBnHh1:APA91bFQ2Ae7cZNm0rV3cd_fiV4OmX4dObMJbHr7ntUl0K33d0PIu4D4xuZ0CY3nzqLY6WHY12g6Sy4g1n-x9CTLjkHSffmyDI9IkR6Pt0k-wvwpa6dEaOx3K3Lb7L49M8wamqlwgi-v",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c18b6aa739be4c0b774605fcfb5d6b68&key=e41c3a6f7532b2e3a828d9580124c89d",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/681px-MTV_90s_2022.svg.png"
+      },
+      {
+        "name": "MTV 00s",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc/MTV00.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1f0c09ed9e5841cf867ba6eb3cdfd61d&key=802c89c6bae6a245aaafcf40c1986fc1",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png"
+      },
+      {
+        "name": "ALLEGRO",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c7eds/AllegroHD/SA_Live_dash_enc/AllegroHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e55e61b81b992d6c21466891d72157e9&key=566d341bf7209a88976e75c20ad7aca2",
+        "icono": "https://i.ibb.co/ts85rN6/allegro.png"
+      },
+      {
+        "name": "VIVALDI TV",
+        "uri": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-samsungspain/playlist.m3u8",
+        "icono": "https://www.thematv.com/images/channels/vivaldi.png"
+      },
+      {
+        "name": "STINGRAY CLASSICA",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/classica-cla008-montreal/distrotv/master.m3u8",
+        "icono": "https://i.ibb.co/nCkKKQ5/stingray-classica.jpg"
+      },
+      {
+        "name": "VEVO 2K",
+        "uri": "https://d2yhuqxy1ky6ij.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bel4aqksrgol2-ssai-prd/playlist.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vevo_2016_logo.png/320px-Vevo_2016_logo.png"
+      },
+      {
+        "name": "VEVO POP",
+        "uri": "https://dbrb49pjoymg4.cloudfront.net/10001/99991391/hls/playlist.m3u8?ads.xumo_channelId=99991391",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vevo_2016_logo.png/320px-Vevo_2016_logo.png"
+      },
+      {
+        "name": "VEVO POP LATINO",
+        "uri": "https://d3t95pdz2h4c90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3yjwupt2bfu30/playlist.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vevo_2016_logo.png/320px-Vevo_2016_logo.png"
+      },
+      {
+        "name": "VEVO LATINO",
+        "uri": "https://d1jg19cd16tz4s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nx7h5jeuhw79b-ssai-prd/playlist.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vevo_2016_logo.png/320px-Vevo_2016_logo.png"
+      },
+      {
+        "name": "TELERITMO",
+        "uri": "http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8",
+        "icono": "https://i.ibb.co/ySxjmnL/teleritmo.png"
+      },
+      {
+        "name": "MMC",
+        "uri": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmc-distro/playlist.m3u8",
+        "icono": "https://i.ibb.co/j6PX0j9/freetv-banda-1080x1080-02092024.jpg"
+      },
+      {
+        "name": "FLASH ",
+        "uri": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/playlist.m3u8",
+        "icono": "https://i.ibb.co/nzMrH36/freetv-hits-1080x1080-02092024.jpg"
+      },
+      {
+        "name": "LA BOCINA LATINA",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8",
+        "icono": "https://i.ibb.co/KW7fckh/la-bocina-latina.png"
+      },
+      {
+        "name": "MI GENTE 3.0",
+        "uri": "https://byecableiptvnew3.ddns.net:443/ENVIVOMIGENTE/index.m3u8",
+        "icono": "https://i.ibb.co/QMJ9YNS/mi-gente-3-0.png"
+      },
+      {
+        "name": "TOP TV",
+        "uri": "https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Top_TV_logo.svg/768px-Top_TV_logo.svg.png"
+      },
+      {
+        "name": "TRACE LATINA",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/TRACE_Latina_Logo.png/1024px-TRACE_Latina_Logo.png"
+      },
+      {
+        "name": "TRACE BRASIL",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Trace_Brasil_logo.PNG"
+      },
+      {
+        "name": "TRACE URBAN",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1024px-Trace_Urban_logo_2010.svg.png"
+      },
+      {
+        "name": "VEVO ´70s",
+        "uri": "https://d9a7gn34udfwh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x1td8h8f4kkdh/playlist.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vevo_2016_logo.png/320px-Vevo_2016_logo.png"
+      },
+      {
+        "name": "VEVO ´80s",
+        "uri": "https://d36tolctzl3cf9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ooxwuk06xi7af/playlist.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vevo_2016_logo.png/320px-Vevo_2016_logo.png"
+      },
+      {
+        "name": "VEVO ´90s",
+        "uri": "https://d36vl7sxn34m5q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m63zgwps7b87g/playlist.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vevo_2016_logo.png/320px-Vevo_2016_logo.png"
+      },
+      {
+        "name": "XITE 80s FLASHBACK",
+        "uri": "https://dw0oa71jud5ry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb320000647-prod/amg80rewind/playlist.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Xite_Logo_New.jpg/240px-Xite_Logo_New.jpg"
+      },
+      {
+        "name": "XITE 90s THROWBACK",
+        "uri": "https://d3fr64zqebnqn3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb3200007ak-prod/amg90rock/playlist.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Xite_Logo_New.jpg/240px-Xite_Logo_New.jpg"
+      },
+      {
+        "name": "XITE ROCK ON",
+        "uri": "https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Xite_Logo_New.jpg/240px-Xite_Logo_New.jpg"
+      },
+      {
+        "name": "NOW 70s",
+        "uri": "https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/NOW_70s.png/230px-NOW_70s.png"
+      },
+      {
+        "name": "NOW 80s",
+        "uri": "https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png"
+      },
+      {
+        "name": "NOW ROCK",
+        "uri": "https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/en/8/89/NOW_Rock_logo.png"
+      },
+      {
+        "name": "VEVO RETRO ROCK",
+        "uri": "https://d1uttzwuh34h7x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5wuvgw5l0sw7j/playlist.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vevo_2016_logo.png/320px-Vevo_2016_logo.png"
+      },
+      {
+        "name": "RETRO MUSIC TELEVISION",
+        "uri": "http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png"
+      },
+      {
+        "name": "STINGRAY DJAZZ",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/djazz-djaads-montreal/distrotv/master.m3u8",
+        "icono": "https://i.ibb.co/g6FnxXk/Stingray-Djazz.png"
+      },
+      {
+        "name": "QELLO CONCERTS BY STINGRAY ",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/qello-qello001-montreal/distrotv/master.m3u8",
+        "icono": "https://i.ibb.co/LQ4BkD1/Qello-Stingray.png"
       }
     ]
   },
@@ -1336,6 +1904,32 @@
         "name": "ESTRELLA GAMES",
         "uri": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-distrotv/playlist.m3u8",
         "icono": "https://canvas-bridge.tubitv.com/up-vHl6hkyYFwUuzbN7XQKDetYg=/978x576/smart/img.adrise.tv/6331ce6b-99ed-4842-99b1-bbb0af054745.jpg"
+      },
+      {
+        "name": "SUN CHANNEL",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc/Sun_Channel.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=158177692aa3463eae5f4e1f72403e9c&key=1c6c026fba9cf7ecb576c7bedce0ead4",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/240px-Sun_Channel_logo.svg.png"
+      },
+      {
+        "name": "GOURMET",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc/Gourmet.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=93d853ac4c8e24cf0295f6f97ee53bd3&key=fa5817fab4fb054ccea1abb9f3d767ed",
+        "icono": "http://78.47.174.211/logos/elgourmet.png"
+      },
+      {
+        "name": "CANAL COCINA 4K",
+        "uri": "https://cache1.zapitv.com/live/eds_c2/cocina_hd/dash_live_enc/cocina_hd.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d1622e41b898458f889c697b0de3d1f0&key=7ad1ffd9308b35d961a6dae3c596fa57",
+        "icono": "https://canalcocina.es/themes/theme2015/images/main-logo.gif?6541be6d39052"
+      },
+      {
+        "name": "TRAVELXP ES",
+        "uri": "https://36c99fb4c50649bf803389624beea453.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_TravelXP/playlist.m3u8",
+        "icono": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400001L4_20231101T032753SQUARE.png_20231101032754.png"
       },
       {
         "name": "WAPP ",
@@ -1513,6 +2107,513 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d86b0f56d32f45adb0a6b4e488c8f0c2&key=e4f180b0e61be3e80ab602df5e56ff3f",
         "icono": "https://github.com/portedev/algo/releases/download/Int3rn4c10n4ll/eur0n3ws.png"
+      },
+      {
+        "name": "TELEMUNDO PR",
+        "uri": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8",
+        "icono": "https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png"
+      },
+      {
+        "name": "TELEMUNDO TX",
+        "uri": "https://d1rqgw5gocwo9i.cloudfront.net/10009/88886036/hls/playlist.m3u8?ads.xumo_channelId=99951226",
+        "icono": "https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png"
+      },
+      {
+        "name": "TELEMUNDO FL",
+        "uri": "https://d1rqgw5gocwo9i.cloudfront.net/10009/88886036/hls/playlist.m3u8?ads.xumo_channelId=99951227",
+        "icono": "https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png"
+      },
+      {
+        "name": "TELEMUNDO NE",
+        "uri": "https://d1rqgw5gocwo9i.cloudfront.net/10009/88886036/hls/playlist.m3u8?ads.xumo_channelId=99951228",
+        "icono": "https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png"
+      },
+      {
+        "name": "TELEMUNDO CA",
+        "uri": "https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE",
+        "icono": "https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png"
+      },
+      {
+        "name": "AZTECA INTERNACIONAL",
+        "uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png"
+      },
+      {
+        "name": "AZTECA UNO",
+        "uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Azteca_Uno_2017.svg/640px-Azteca_Uno_2017.svg.png"
+      },
+      {
+        "name": "AL JAZEERA",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c7eds/Alljazzera/SA_Live_dash_enc/Alljazzera.mpd",
+        "drm_scheme": "clearkey",
+        "icono": "http://78.47.174.211/logos/aljazeera.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=137a1a70fa118b695118a3aad9485b13&key=7c35ca36d4452dfa03d88725a0d16105"
+      },
+      {
+        "name": "ANTENA 3 INT",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc/Antena_3.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1e1ad422a6714482b66fa702c16e50c6&key=4fdf28a0ab91356ca55a75f4e9bf8c92",
+        "icono": "https://i.ibb.co/m6dKvL5/antena3.png"
+      },
+      {
+        "name": "FRANCE 24",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/France_24/SA_Live_dash_enc/France_24.mpd",
+        "drm_scheme": "clearkey",
+        "icono": "http://78.47.174.211/logos/france24.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=72187f2651724db18505cdcad435841d&key=6f41e05476e34edf7bb9dc51f08f95df"
+      },
+      {
+        "name": "FRANCE 24 ESPAÑOL",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c3eds/France24_Flow/SA_Live_dash_enc/France24_Flow.mpd",
+        "drm_scheme": "clearkey",
+        "icono": "http://78.47.174.211/logos/france24.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c8a3d29db38c4a9fa9a838c3d4d681db&key=d3aa374c4c0de33f463b4387a18297a6"
+      },
+      {
+        "name": "CNN",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/CNN_Internacional/SA_Live_dash_enc/CNN_Internacional.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9f24708ad1184ee3a04b650941f9894b&key=e5bc7c5ff392119423dbf1c023a7b21c",
+        "icono": "http://78.47.174.211/logos/cnninternacional.png"
+      },
+      {
+        "name": "FOX NEWS",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/Fox_News/SA_Live_dash_enc/Fox_News.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3fe3f31a5e7b48a1b548e9364757ce66&key=32993fc281207fe915f6f1e990957868",
+        "icono": "http://78.47.174.211/logos/foxnews.png"
+      },
+      {
+        "name": "LIVENOW FROM FOX ",
+        "uri": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
+        "icono": "https://i.ibb.co/J2r5j55/LiveNOW.png"
+      },
+      {
+        "name": "ARIRANG TV",
+        "uri": "https://webtvstream.bhtelecom.ba/hls10/arirang_tv.mpd?n=fIywBW0QQGm8IF3FrBnHh1:APA91bFQ2Ae7cZNm0rV3cd_fiV4OmX4dObMJbHr7ntUl0K33d0PIu4D4xuZ0CY3nzqLY6WHY12g6Sy4g1n-x9CTLjkHSffmyDI9IkR6Pt0k-wvwpa6dEaOx3K3Lb7L49M8wamqlwgi-v",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c18b6aa739be4c0b774605fcfb5d6b68&key=e41c3a6f7532b2e3a828d9580124c89d",
+        "icono": "https://i.ibb.co/6w69CWc/arirang.png"
+      },
+      {
+        "name": "CGTN Español",
+        "uri": "https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png"
+      },
+      {
+        "name": "RT",
+        "uri": "http://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/250px-Russia-today-logo.svg.png"
+      },
+      {
+        "name": "DW ESPAÑOL",
+        "uri": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
+        "icono": "https://i.postimg.cc/rmvHqgHW/1280px-Deutsche-Welle-symbol-2012-svg.png"
+      },
+      {
+        "name": "CNNE",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc/CNN_en_Espanol.mpd",
+        "drm_scheme": "clearkey",
+        "icono": "http://78.47.174.211/logos/cnn.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0b20ed9da0e5457c9dfd3ae0b6092491&key=98997a7020c18cb28174a2490147830a"
+      },
+      {
+        "name": "TVE",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/TV_Espana/SA_Live_dash_enc/TV_Espana.mpd",
+        "drm_scheme": "clearkey",
+        "icono": "http://78.47.174.211/logos/tve.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=53e0a3741e2e4ff5843f165b53309088&key=45095caabd9a359cd7ea3910d865d643"
+      }
+    ]
+  },
+  {
+    "name": "🇪🇸 ESPAÑA",
+    "samples": [
+      {
+        "name": "CANAL LUZ",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c7eds/CANAL_LUZ/SA_Live_dash_enc/CANAL_LUZ.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f7523ea5a2da78c465d928be1d81e2a5&key=870ad69e98abd52b443bd8f0204b3bc4",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/5/50/Canal_Luz_actual.png"
+      },
+      {
+        "name": "EWTN",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/EWTN/SA_Live_dash_enc/EWTN.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=07df3c48652a431ab779d133f085b799&key=ee2fbeec1ecdffa5617383f684dfda0e",
+        "icono": "http://78.47.174.211/logos/ewtn.png"
+      }
+    ]
+  },
+  {
+    "name": "🇪🇸 ESPAÑA",
+    "samples": [
+      {
+        "name": "24H",
+        "uri": "https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8",
+        "icono": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100004J1_20230614T005926SQUARE.png_20230614005927.png"
+      },
+      {
+        "name": "TDP",
+        "uri": "https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://archive.org/download/tdp_20240104/tdp.json",
+        "icono": "http://78.47.174.211/logos/teledeporte.png"
+      },
+      {
+        "name": "ANTENA 3",
+        "uri": "https://cache1.zapitv.com/live/eds_c2/test/dash_live_enc/test.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8a9e74b80c7cefa177926fc90eb05988&key=54e2cb64384e73b37b19d8c50e9479a4",
+        "icono": "https://i.ibb.co/m6dKvL5/antena3.png"
+      },
+      {
+        "name": "CALLE 13",
+        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:96_HD.smil/manifest.mpd",
+        "icono": "https://i.ibb.co/rfrbY7V/Calle13.png"
+      },
+      {
+        "name": "TEN",
+        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:26_HD.smil/manifest.mpd",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/6/69/TenTV.png"
+      },
+      {
+        "name": "EL TORO TV",
+        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge/smil:266_HD.smil/manifest.mpd",
+        "icono": "https://i.ibb.co/kJ7yxZf/eltorotv.png"
+      },
+      {
+        "name": "CINE FEEL GOOD",
+        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge/smil:151_HD.smil/manifest.mpd",
+        "icono": "https://i.ibb.co/0MsDtN8/cine-feel-good.png"
+      },
+      {
+        "name": "DISNEY CHANNEL",
+        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.mpd",
+        "icono": "https://i.ibb.co/L88skJs/Disney-Channel.png"
+      },
+      {
+        "name": "BOING",
+        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.mpd",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Boing_2020.svg/479px-Boing_2020.svg.png"
+      },
+      {
+        "name": "SOL MÚSICA",
+        "uri": "https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/SolMusica.png/320px-SolMusica.png"
+      },
+      {
+        "name": "IBERALIA 100% PESCA",
+        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:36_HD.smil/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ae3343806fda8a7bc27d38ab605a702&key=9a6a18d6877a1cfb037417be8ec3d7e6",
+        "icono": "https://i.ibb.co/Fwzk9sH/iberalia-pesca.png"
+      },
+      {
+        "name": "IBERALIA 100% CAZA",
+        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:37_HD.smil/manifest.mpd",
+        "icono": "https://i.ibb.co/SVW6s2V/iberalia-caza.png"
+      },
+      {
+        "name": "ETB 1",
+        "uri": "https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8",
+        "icono": "http://78.47.174.211/logos/etb.png"
+      },
+      {
+        "name": "ETB 2",
+        "uri": "https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8",
+        "icono": "https://i.ibb.co/VM8LzVY/etb2.png"
+      },
+      {
+        "name": "ETB 3",
+        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:98_HD.smil/manifest.mpd",
+        "icono": "https://i.ibb.co/4Mq37P8/ETB-3.png"
+      },
+      {
+        "name": "ETB BASQUE",
+        "uri": "https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8",
+        "icono": "https://i.ibb.co/KDM3qSm/ETB-Basque.png"
+      },
+      {
+        "name": "DISTRITO TV",
+        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:119_HD.smil/manifest.mpd",
+        "icono": "https://i.ibb.co/SKT8TrJ/distrito-tv.png"
+      },
+      {
+        "name": "LA 7",
+        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:35_HD.smil/manifest.mpd",
+        "icono": "https://i.ibb.co/cYVGKfR/La-7.png"
+      },
+      {
+        "name": "DISTRITO TV",
+        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:119_HD.smil/manifest.mpd",
+        "icono": "https://i.ibb.co/SKT8TrJ/distrito-tv.png"
+      },
+      {
+        "name": "CMM",
+        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:31_HD.smil/manifest.mpd",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/552px-CMMedia.svg.png"
+      },
+      {
+        "name": "LA 7",
+        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:35_HD.smil/manifest.mpd",
+        "icono": "https://i.ibb.co/cYVGKfR/La-7.png"
+      },
+      {
+        "name": "REAL MADRID TV",
+        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:27_HD.smil/manifest.mpd",
+        "icono": "https://i.postimg.cc/cLHVRCXJ/Real-Madrid-TV-English.jpg"
+      }
+    ]
+  },
+  {
+    "name": "🇺🇾 URUGUAY",
+    "samples": [
+      {
+        "name": "CANAL 10",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8dd34782d754f8fcb1e8b38da9ffad0b&key=6fb97467c0f0ea13f86d41a70e029c51",
+        "icono": "https://i.ibb.co/G7f4Rbh/canal10uy-2.png"
+      },
+      {
+        "name": "CANAL 4",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc/Canal4_URU.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dabefaac89742589778fcfab78f08354&key=896dd914683b01c8044ffd34d7b6416b",
+        "icono": "https://i.ibb.co/X2X854s/canal4uy.png"
+      },
+      {
+        "name": "TELEDOCE",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc/Canal12URU.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dfde9d35d7438bfdf61da5dfac0557c1&key=acb13370c03a7254e2bb9cc9d2125017",
+        "icono": "https://i.ibb.co/HKkJ1zX/teledoce.png"
+      },
+      {
+        "name": "CANAL 5",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc/TV_Nacional_Uy.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c50518d7f59f4c0aa9a3079fe2b014fd&key=96038f76a2ba33866ea54eb4b260573f",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Canal_5_Uruguay.png"
+      },
+      {
+        "name": "TV CIUDAD",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc/Teve_Ciudad.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9b536cd1716647ee94c45fa4836d29d6&key=d691c88a95440666742d1d8183182347",
+        "icono": "https://i.ibb.co/dkq8Jgm/tvciudad.png"
+      },
+      {
+        "name": "UCL",
+        "uri": "https://livedelta.cdn.antel.net.uy:443/out/u/url_canalu.m3u8",
+        "icono": "https://i.ibb.co/w0PzFPC/ucl.png"
+      },
+      {
+        "name": "VTV",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc/VTV_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b96960aa715a4e51b7e952e81c99ac8e&key=5bbffc680764dbd63d90b774b3aa0c0a",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png"
+      },
+      {
+        "name": "VTV PLUS",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=da8a49a594160cc0059f07b9f71cd39a&key=37ca91dd799b351a02445151c7f61070",
+        "icono": "https://i.ibb.co/nwyBsP2/vtvplus.png"
+      }
+    ]
+  },
+  {
+    "name": "🇵🇾 PARAGUAY",
+    "samples": [
+      {
+        "name": "SNT",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9f61dcce871cc41aeb206d05028fc30a&key=9f6248194a3bf5e35b96b194e8624693",
+        "icono": "https://i.ibb.co/jvGLkCK/unnamed.jpg"
+      },
+      {
+        "name": "TELEFUTURO",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5d2731cf8a59b73438ef59d88cd882bf&key=3f412fa6368b7db4903588de695377e1",
+        "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg"
+      },
+      {
+        "name": "TRECE",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f",
+        "icono": "https://i.ibb.co/bNM6g8N/trecepy.png"
+      },
+      {
+        "name": "UNICANAL",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=63a3729cfd60f24f7e1266bee5eca02c&key%5B%5D=cb9ed028af40654e1aa43934ee58db58",
+        "icono": "https://i.ibb.co/MNv0hn2/Unicanal-en-vivo.jpg"
+      },
+      {
+        "name": "MEGA TV",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c7eds/Mega_TV/SA_Live_dash_enc/Mega_TV.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=80196dfcb7852e2b5e1165b3b17030e1&key=58face97c908502f17549eb62459bd80",
+        "icono": "https://i.ibb.co/hfFmYXz/WW.jpg"
+      },
+      {
+        "name": "TV CAMARA",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c4eds/TV_Camara/SA_Live_dash_enc/TV_Camara.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9357704ade444dc3b23be89865af2f58&key=3d03e0a79d8f7b7aa2897c3d24bd4b6a",
+        "icono": "https://i.ibb.co/TkT1Dbm/tvcamara.jpg"
+      },
+      {
+        "name": "PARAGUAY TV",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc/Paraguay_TV.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=68a5bd6c58e6c05bacfd18d3feec31f2&key=ae23f8357512df2dfabcb8104b078182",
+        "icono": "https://i.ibb.co/3zrDZgx/unnamed-1.jpg"
+      },
+      {
+        "name": "CANAL PRO",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c7eds/Canal_PRO/SA_Live_dash_enc/Canal_PRO.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=8df0f1a1e05e9c6a438e23a87c9d06ea&key%5B%5D=5df74d374a2a8a871463e7c438fa3ba7",
+        "icono": "https://i.ibb.co/vvw9QSR/Canal-PRO-en-vivo.jpg"
+      },
+      {
+        "name": "5 DIAS",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc/5_Dias_PY.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=746091c502edcf1e9d003535ce01f3e4&key%5B%5D=29081b5f92d1a37c88fbbd0ece55c839",
+        "icono": "https://i.ibb.co/k48NKrR/5diaspy.png"
+      },
+      {
+        "name": "SURTV",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=988ae4e8408981609ded9f8b23bbf79d&key=b867c66791bcad67ee142be1e21c2577",
+        "icono": "https://cdn.mitvstatic.com/channels/116c52f1-8f55-4325-af6d-ab11f98e81d5_m.jpg"
+      },
+      {
+        "name": "VENUS MEDIA",
+        "uri": "https://copaco.desdeparaguay.net:443/venusmedia/venusmedia/playlist.m3u8",
+        "icono": "https://i.ibb.co/jh9nXPP/venus-media.png"
+      },
+      {
+        "name": "ÑANDUTI TV",
+        "uri": "https://copaco.desdeparaguay.net:443/nandutitv/nandutitv_baja/playlist.m3u8",
+        "icono": "https://i.ibb.co/1zVZ9kX/anduti.png"
+      },
+      {
+        "name": "ABC",
+        "uri": "https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8",
+        "icono": "https://i.ibb.co/dGqjksf/descarga.png"
+      },
+      {
+        "name": "NPY",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8f66fe15735b2b1b3d5eb3646caa405e&key=404b93fd7b499b1061c9a714e1cdb2d0",
+        "icono": "https://i.ibb.co/sgRZXh9/NPY-Noticias-Paraguay.png"
+      },
+      {
+        "name": "PARAVISION",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=bd8e8c9b32ef027e8ff4ff0cfce855a4&key%5B%5D=2918e9893b570c3fa1f215b52a12cc91",
+        "icono": "https://i.ibb.co/FXnvNPk/paravision.png"
+      },
+      {
+        "name": "C9N",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=646700eeb14cadfa0543a20cf413d37e&key=4fc037c462023764624d8446442cbbca",
+        "icono": "https://i.ibb.co/JvKr2dZ/C9N-LOGO.jpg"
+      },
+      {
+        "name": "GEN TV",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=49eb924ba998ca7fbbaee30dcef1ecb4&key%5B%5D=6e131b04b2e87598fb588ac205673698",
+        "icono": "https://i.ibb.co/jyh9z2W/gentv.png"
+      },
+      {
+        "name": "FARRA PLAY ",
+        "uri": "http://159.203.148.226/live/farra_src.m3u8",
+        "icono": "https://i.ibb.co/99DzY4J/farra-play.png"
+      },
+      {
+        "name": "BRUNO MASI TV ",
+        "uri": "https://copaco.desdeparaguay.net:443/brunomasitv/brunomasitv/playlist.m3u8",
+        "icono": "https://i.ibb.co/pK5SNMT/bruno-masi-tv.png"
+      },
+      {
+        "name": "LA TELE",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=7c6a481adf6a080ec09637d3f25989cf&key%5B%5D=036e343d636b821ab81838de387b62cb",
+        "icono": "https://i.ibb.co/Zg861M4/latele.png"
+      },
+      {
+        "name": "4D MÁS NOTICIAS ",
+        "uri": "https://copaco.desdeparaguay.net:443/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
+        "icono": "https://i.ibb.co/Vw7gVWz/4d-noticias.png"
+      },
+      {
+        "name": "Unión Tv",
+        "uri": "https://copaco.desdeparaguay.net:443/800tv/800tv/playlist.m3u8",
+        "icono": "https://i.ibb.co/9hqVmzy/descarga.png"
+      }
+    ]
+  },
+  {
+    "name": "🇧🇴 BOLIVIA",
+    "samples": [
+      {
+        "name": "RedADvenir Bolivia",
+        "uri": "https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1976177922.m3u8",
+        "icono": "https://redadvenir.org/redadvenir/images/logo.png"
+      },
+      {
+        "name": "Bolivia Tv",
+        "uri": "https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w1684483949.m3u8",
+        "icono": "https://i.ibb.co/F8J82jc/321372934-480154454245461-8323754685387521389-n.jpg"
+      },
+      {
+        "name": "ATB Digital Cochabamba",
+        "uri": "http://186.121.206.197/live/daniel/index.m3u8",
+        "icono": "https://i.ibb.co/Kz6w87R/images-q-tbn-ANd9-Gc-Tdg-Z8-M1-TDPHl-SNydapbqj0-Wy-GE1u-Emw-OQh7-Ky-Ca-Uex-SR10r-IT9-GT37-OS560cx-PH.png"
+      }
+    ]
+  },
+  {
+    "name": "🇨🇴 COLOMBIA",
+    "samples": [
+      {
+        "name": "CANAL INSTITUCIONAL",
+        "uri": "https://streaming.rtvc.gov.co:443/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8",
+        "icono": "https://i.ibb.co/tcSmWSR/canalinst.png"
+      },
+      {
+        "name": "CALI TV",
+        "uri": "http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8",
+        "icono": "https://i.ibb.co/ccn573z/calitv.png"
+      },
+      {
+        "name": "CARACOL AHORA",
+        "uri": "https://mdstrm.com:443/live-stream-playlist/632391734be92a791e2750e6.m3u8",
+        "icono": "https://i.ibb.co/mt7F9GM/Caracol-Televisi-n.png"
+      },
+      {
+        "name": "RCN MÁS",
+        "uri": "https://rcntv-rcnmas-1-us.canelatv.wurl.tv/playlist.m3u8",
+        "icono": "https://i.ibb.co/fpc8vgQ/rcn-m-s.png"
       }
     ]
   },
@@ -1963,6 +3064,266 @@
         "name": "MARVEL PELICULAS",
         "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/138462",
         "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/M4rv3l.png"
+      },
+      {
+        "name": "Canela Horror",
+        "uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029",
+        "icono": "https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/square/366x206/bba9b402-channel-canela_horror-7x10.jpg"
+      },
+      {
+        "name": "HORRORFY ",
+        "uri": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/playlist.m3u8",
+        "icono": "https://i.ibb.co/YRw9FtR/freetv-horror-1080x1080-02092024.jpg"
+      },
+      {
+        "name": "RETRO CINEMA",
+        "uri": "http://srv5.zcast.com.br/retrocinema/retrocinema/playlist.m3u8",
+        "icono": "https://i.ibb.co/Qfcz0zX/cine-retro-genial.png"
+      },
+      {
+        "name": "AZ CINEMA",
+        "uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/640px-TV_Azteca_Cinema_logo.svg.png"
+      },
+      {
+        "name": "GRJNGO ",
+        "uri": "https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8",
+        "icono": "https://i.ibb.co/t2w7vtK/grjngo.png"
+      },
+      {
+        "name": "CINEMA+",
+        "uri": "https://byecableiptvnew3.ddns.net:443/ENVIVOCINEMA/index.m3u8",
+        "icono": "https://i.ibb.co/BzKsrjT/cinema.png"
+      },
+      {
+        "name": "FREETV ",
+        "uri": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/playlist.m3u8",
+        "icono": "https://i.ibb.co/wJrx9sp/freetv-live-1080x1080-02092024.jpg"
+      },
+      {
+        "name": "JUNTOS ",
+        "uri": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-distro/playlist.m3u8",
+        "icono": "https://i.ibb.co/RPvh6kh/freetv-familia-1080x1080-02092024.jpg"
+      },
+      {
+        "name": "CINE REAL ",
+        "uri": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereal-distro/playlist.m3u8",
+        "icono": "https://assets.cdn.olympusat.com/wp-content/uploads/2020/05/cinereal.png"
+      },
+      {
+        "name": "CINE SUREÑO ",
+        "uri": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-distro/playlist.m3u8",
+        "icono": "https://i.ibb.co/dk02QfH/Cine-Surreno.png"
+      },
+      {
+        "name": "ROMANCE CHANNEL ",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/manifest.m3u8",
+        "icono": "https://i.ibb.co/r2QS9D3/romance-channel-latam.png"
+      },
+      {
+        "name": "RAKUTEN FAMILY",
+        "icono": "https://yt3.googleusercontent.com/ADq9aOWry6U7Jy3wKni0wCVs8X8PHoOPZeLl9-Z1iPivdpF6ZrCTpZTY--VZ6zxsyvcSOA22=s900-c-k-c0x00ffffff-no-rj",
+        "uri": "https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8"
+      },
+      {
+        "name": "RAKUTEN MYTIMES",
+        "icono": "https://yt3.googleusercontent.com/ADq9aOWry6U7Jy3wKni0wCVs8X8PHoOPZeLl9-Z1iPivdpF6ZrCTpZTY--VZ6zxsyvcSOA22=s900-c-k-c0x00ffffff-no-rj",
+        "uri": "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "\uD83C\uDFA5 PLUTO TV",
+    "samples": [
+      {
+        "name": "Pluto TV True Crime",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/64a3f200f238ce0008d47247/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2ff20d24-6a9e-11ee-a821-4ea4c460a3db1",
+        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
+      },
+      {
+        "name": "Pluto TV Star Trek",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/619b7db4872c650008eb8b6a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2ff20d24-6a9e-11ee-a821-4ea4c460a3db1",
+        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
+      },
+      {
+        "name": "Doctor Who",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60d3574e97f10800078455de/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2ff20d24-6a9e-11ee-a821-4ea4c460a3db1",
+        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
+      },
+      {
+        "name": "Sensación de Vivir (90210)",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6245c2a5eec07b0007249fc8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2ff20d24-6a9e-11ee-a821-4ea4c460a3db1",
+        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
+      },
+      {
+        "name": "Melrose Place",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6245c03922d9d4000760d205/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2ff20d24-6a9e-11ee-a821-4ea4c460a3db1",
+        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
+      },
+      {
+        "name": "Pluto TV Telenovelas",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60b4c06717da110007ee1af6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
+      },
+      {
+        "name": "Pluto TV K-Drama",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6475bfec536e0c0008858e9f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
+      },
+      {
+        "name": "BBC Drama",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
+      },
+      {
+        "name": "Andrómeda",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1acc3e061597000768d4ea/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
+      },
+      {
+        "name": "Pluto TV Series Comedia",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f9853138d19af0007104a8d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
+      },
+      {
+        "name": "Pluto TV Series",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1ac8f49205650007bc15f1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
+      },
+      {
+        "name": "Pluto TV Cine Estelar",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
+      },
+      {
+        "name": "Pluto TV Cine Acción",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
+      },
+      {
+        "name": "Pluto TV Horror",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6267d4d1fb694f0007a6af0e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
+      },
+      {
+        "name": "Pluto TV Sci-Fi",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
+      },
+      {
+        "name": "Pluto TV Cine Comedia",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1ac8099c49f600076579b2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
+      },
+      {
+        "name": "Pluto TV Western",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6385e82900ab2e000768a058/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
+      },
+      {
+        "name": "Pluto TV Cine Romántico",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1ac9a2d3611d0007a844bb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
+      },
+      {
+        "name": "Pluto TV Thrillers",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1ac8a87cd38d000745d7cf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
+      },
+      {
+        "name": "Pluto TV Cine Drama",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
+      },
+      {
+        "name": "Pluto TV Cine de autor",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60cc807324d60a0007708dc8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
+      },
+      {
+        "name": "Runtime",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6086d3f420fc8500075f8dbf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
+      },
+      {
+        "name": "Runtime Acción",
+        "uri": "https://d10po0m73eydog.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9veh3t1iih14b/ra_es.m3u8",
+        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
+      },
+      {
+        "name": "Runtime Comedia",
+        "uri": "https://d1w4lf3ohil0ad.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fgcph1khrr3ct/rc_es.m3u8",
+        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
+      },
+      {
+        "name": "Runtime Romance",
+        "uri": "https://d3c5d9v98rks92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c7xudvnfq7skl/rr_es.m3u8",
+        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
+      },
+      {
+        "name": "Pluto TV Catástrofes",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/645a309c5a0cd5000873f609/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
+      },
+      {
+        "name": "Archivos Forenses",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f984f4a09e92d0007d74647/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
+      },
+      {
+        "name": "Los nuevos detectives",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1acba0d1f6340007db8843/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
+      },
+      {
+        "name": "Los archivos del FBI",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1acbed25948a0007ffbe65/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
+      },
+      {
+        "name": "Pluto TV Paranormal",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/612ce5214bb5790007ad3016/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
+      },
+      {
+        "name": "Pluto TV True Crime",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/64a3f200f238ce0008d47247/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
+      },
+      {
+        "name": "Cazador de Homicidas",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60ed5fb9c4716d0007d180c5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
+      },
+      {
+        "name": "El Detective Endeavour",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/619b9f16b8fee4000832d447/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
+      },
+      {
+        "name": "Asesinatos de Midsomer",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1aca8310a30e00074fab92/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
+      },
+      {
+        "name": "Poirot & Miss Marple",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6304f530440dc90007f514d3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
+      },
+      {
+        "name": "Comedia made in Spain",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1abce155a03d0007718834/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
+      },
+      {
+        "name": "Ana y los 7",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1acce7f17797000718f9be/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
+      },
+      {
+        "name": "Curro Jiménez",
+        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1acd36779de70007a680d1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
+        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
       }
     ]
   },
