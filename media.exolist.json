@@ -2229,25 +2229,6 @@
     ]
   },
   {
-    "name": "⛪ RELIGION",
-    "samples": [
-      {
-        "name": "CANAL LUZ",
-        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c7eds/CANAL_LUZ/SA_Live_dash_enc/CANAL_LUZ.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f7523ea5a2da78c465d928be1d81e2a5&key=870ad69e98abd52b443bd8f0204b3bc4",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/5/50/Canal_Luz_actual.png"
-      },
-      {
-        "name": "EWTN",
-        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/EWTN/SA_Live_dash_enc/EWTN.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=07df3c48652a431ab779d133f085b799&key=ee2fbeec1ecdffa5617383f684dfda0e",
-        "icono": "http://78.47.174.211/logos/ewtn.png"
-      }
-    ]
-  },
-  {
     "name": "🇪🇸 ESPAÑA",
     "samples": [
       {
