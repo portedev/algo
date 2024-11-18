@@ -579,6 +579,13 @@
     "name": "⚽ DEPORTES INTERNACIONALES",
     "samples": [
       {
+        "name": "TIGO EVENTOS 1",
+        "uri": "https://sam-py-edge05.tigo.com.py/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c",
+        "icono": "https://i.postimg.cc/mrD5C6S3/descarga.png"
+      },
+      {
         "name": "BEIN SPORTS EXTRA Ñ",
         "uri": "https://dbrb49pjoymg4.cloudfront.net/10001/99991785/hls/playlist.m3u8?ads.xumo_channelId=99991785",
         "icono": "https://i.ibb.co/gJ9z814/o-h-1-895-bein-sports-xtra-1.png"
