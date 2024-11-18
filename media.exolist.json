@@ -1194,6 +1194,13 @@
     "name": "\uD83C\uDFAC CINE Y SERIES",
     "samples": [
       {
+        "name": "GOLDEN",
+        "uri": "https://cdn.cvattv.com.ar/live/c6eds/Golden/SA_Live_dash_enc/Golden.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b7d085dbd4539afcc6a55445efb2b04e&key=0a55fbe044fed379d1632b589265b571",
+        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/G0ld3n.png"
+      },
+      {
         "name": "GOLDEN PREMIER",
         "uri": "https://gtechtecnologia.com/telelatino/play/75.m3u8",
         "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/G0ld3n.Pr3m13r.png"
