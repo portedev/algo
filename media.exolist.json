@@ -1400,13 +1400,6 @@
         "icono": "https://static.flow.com.ar/images/9537/CH_LOGO/60/40/0/0/21934865078382.png"
       },
       {
-        "name": "BITME",
-        "uri": "https://live4-ott.izzigo.tv/out/u/dash/BIT-ME-HD/default.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3e7b281c11f0ff1c3f7ed2d02d0879c1&key=d385b87ade4441d20c5caee2a8e41da7",
-        "icono": "https://github.com/portedev/algo/releases/download/An1m4d0ss/B1tM3E3.png"
-      },
-      {
         "name": "BABY TV",
         "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c7eds/BabyTV/SA_Live_dash_enc/BabyTV.mpd",
         "drm_scheme": "clearkey",
