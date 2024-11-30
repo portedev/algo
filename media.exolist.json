@@ -3,7 +3,7 @@
     "name": "🟢 CANALES RESPALDO",
     "samples": [
       {
-        "name": "TYC SPORTS",
+        "name": "TYC SPORTS OK",
         "uri": "https://ch02-04-11-tyc.vodgc.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index_11.m3u8",
         "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/tyc.png"
       },
@@ -19,21 +19,21 @@
     "samples": [
       {
         "name": "TELEFE",
-        "uri": "http://edge2-ccast-sl.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd",
+        "uri": "http://edge2-ccast-sl.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3cec1b1ea9799dda5596e64f37e5ed20&key=c69f3afde2085dcaaaddbf55246a0323",
         "icono": "https://github.com/portedev/algo/releases/download/f4rg/t3l3f3.png"
       },
       {
         "name": "EL TRECE",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_2A/ArtearHD.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5179017f49326d14af0a9ceec831aee6&key=09b4a463b029ebc28a288bed2da70a76",
         "icono": "https://github.com/portedev/algo/releases/download/f4rg/3l13.png"
       },
       {
         "name": "CANAL 9 ",
-        "uri": "http://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_2A/Canal9.mpd",
+        "uri": "http://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=24f4ff211136ae6512a1b552200db405&key=602122f8426c5c942b8c18d299cc6020",
         "icono": "https://github.com/portedev/algo/releases/download/f4rg/el9.png"
@@ -54,7 +54,7 @@
       },
       {
         "name": "C5N",
-        "uri": "http://edge2-ccast-sl.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_2A/C5N.mpd",
+        "uri": "http://edge2-ccast-sl.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=050df5c6e78c774e78c3e99eef8a1b29&key=0e4141d6ab21a36cbc4da777ab3096d4",
         "icono": "https://github.com/portedev/algo/releases/download/f4rg/c5n.png"
@@ -68,7 +68,7 @@
       },
       {
         "name": "LN+ LA NACION",
-        "uri": "http://edge2-ccast-sl.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_2A/La_Nacion.mpd",
+        "uri": "http://edge2-ccast-sl.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4eade7bbc39b25402acfa301bbad04a&key=a74d1df4235a74878327aa8d53ff283c",
         "icono": "https://github.com/portedev/algo/releases/download/f4rg/ln.png"
@@ -103,28 +103,28 @@
       },
       {
         "name": "CIUDAD MAGAZINE",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc_2A/Magazine.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc/Magazine.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4f1235069d34c22cb73d9b78bae15587&key=55e068ff6b152e34c66dc639b38e8692",
         "icono": "https://github.com/portedev/algo/releases/download/f4rg/m4g4z1n3.png"
       },
       {
         "name": "NET TV",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc_2A/Net_TV.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc/Net_TV.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=89d433166edd31d56df2a59df8ec6704&key=b2015faded0a456d10aa8db1b4cbac68",
         "icono": "https://github.com/portedev/algo/releases/download/f4rg/n3t.png"
       },
       {
         "name": "ARGENTINISIMA",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc_2A/Argentinisima.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a6243f46366445ebbf3117ec27365481&key=81667cdc3bcf19a6a66c0919fa00a20b",
         "icono": "https://github.com/portedev/algo/releases/download/f4rg/argsat.png"
       },
       {
         "name": "CANAL RURAL",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Canal_Rural/SA_Live_dash_enc_2A/Canal_Rural.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Canal_Rural/SA_Live_dash_enc/Canal_Rural.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b02c568163c14cfda4ddb958a0aab742&key=ef64a70ac85a663a3308be6476610aad",
         "icono": "https://github.com/portedev/algo/releases/download/f4rg/crural.png"
@@ -150,7 +150,7 @@
       },
       {
         "name": "ENCUENTRO TV",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc_2A/Encuentro.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc/Encuentro.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ac3ae78beb64478ab390b4ad70e3e0c9&key=c7d669761c3516d852a0edf9e07c9198",
         "icono": "https://github.com/portedev/algo/releases/download/f4rg/encu3ntr0.png"
@@ -232,7 +232,7 @@
       },
       {
         "name": "CANAL 12 CORDOBA",
-        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_2A/Canal_12_CBA.mpd",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_12_CBA.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=90422640d3e846159fa450f83870ed4a&key=abb3cd94aece1a462df25a8f21085cca",
         "icono": "https://i.ibb.co/60sFBfY/og-image.jpg"
@@ -269,7 +269,7 @@
       },
       {
         "name": "CANAL 7 BAHIA BLANCA",
-        "uri": "http://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Canal7_Bahia_Blanca/SA_Live_dash_enc_2A/Canal7_Bahia_Blanca.mpd",
+        "uri": "http://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Canal7_Bahia_Blanca/SA_Live_dash_enc/Canal7_Bahia_Blanca.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/kpqizi69fltwkik469ozu/KEY.Canal-Siete-Bah-a-Blanca.json?rlkey=fx4dkwg083c3iitmlc08rsjuw&dl=0",
         "icono": "https://static.tvar.io/imagenes/canal7bahia.png"
@@ -375,14 +375,14 @@
     "samples": [
       {
         "name": "ESPN PREMIUM",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
         "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/3spnpr3m1um.png"
       },
       {
         "name": "TNT SPORTS",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
         "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/tntsp0rts.png"
@@ -429,7 +429,7 @@
       },
       {
         "name": "ESPN 3",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4c9f97e2a36feab0e5077f2b44cbc4e&key=1743cd03dfe3736b2c95da91a783af38",
         "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/3spn3.png"
@@ -443,7 +443,7 @@
       },
       {
         "name": "FOX SPORTS 1",
-        "uri": " https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd",
+        "uri": " https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cbc2a0c7a38df0aa3333cd71841d3b0d&key=aac61b730e2ac1df23f1e872e7541c1b",
         "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/f0x1sur.png"
@@ -483,42 +483,42 @@
       },
       {
         "name": "PX SPORTS",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/PX_Sports/SA_Live_dash_enc_2A/PX_Sports.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/PX_Sports/SA_Live_dash_enc/PX_Sports.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9393321daef1463fc7e2e060298db852&key=be6bc91e17816f67e62596bed463c5ad",
         "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/pxsp0rts.png"
       },
       {
         "name": "DEPORTV",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc_2A/DeporTVHD.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc/DeporTVHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f362097815892a4b83950f1d106ff0b2&key=4349e42e81c31a8389f4a42fcd298928",
         "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/d3p0rtv.png"
       },
       {
         "name": "AMERICA SPORTS",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_dash_enc_2A/America_Sports.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_dash_enc/America_Sports.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a0aa01337a2148bda1e21862295ae037&key=fee0f87a0527497351fc54ce36ad1de2",
         "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/am3r1c4sp0rts.png"
       },
       {
         "name": "GARAGE TV",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/El_Garage/SA_Live_dash_enc_2A/El_Garage.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/El_Garage/SA_Live_dash_enc/El_Garage.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=03d1dfb8df034d8b81e57753df00a36d&key=08d83660db4a73bb1d61d60b09df5f4d",
         "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/g4r4g3.png"
       },
       {
         "name": "GOLF CHANNEL",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc_2A/Golf_Channel.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc/Golf_Channel.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=38d6226b7cd2cfa86b4b9cdaa455e7d7&key=24f0ef2bf787647cc02df870417eed2b",
         "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/g0lf.png"
       },
       {
         "name": "NBA",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc_2A/NBA_TV.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc/NBA_TV.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d0c38de3c9844e4e9f975dffb3eff8ad&key=141ca0fdf6ebadfa7107576b8e09e117",
         "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/nb4.png"
@@ -725,7 +725,7 @@
       },
       {
         "name": "VTV",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc_2A/VTV_HD.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc/VTV_HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b96960aa715a4e51b7e952e81c99ac8e&key=5bbffc680764dbd63d90b774b3aa0c0a",
         "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/vtv.png"
@@ -1108,35 +1108,35 @@
       },
       {
         "name": "HBO XTREME",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_2A/HBO_Extreme.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=d504011bbef467c0de3a7534e302a6d4&key%5B%5D=334103e2abe16faa7f9ab2e3097c5a58",
         "icono": "https://github.com/portedev/algo/releases/download/Hb0Pr3m/Hb0.Xtr3m3.png"
       },
       {
         "name": "HBO FAMILY",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_2A/HBO_Family.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc/HBO_Family.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=535473132f68082160b489482ca35f8e&key%5B%5D=e90fd91fcd3fc809bed2b1c0d37f7297",
         "icono": "https://github.com/portedev/algo/releases/download/Hb0Pr3m/Hb0.F4mily.png"
       },
       {
         "name": "HBO SIGNATURE",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc_2A/HBO_Signature.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc/HBO_Signature.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=e866499fbc1149f49989672075aa3a68&key%5B%5D=d2dd5c95623c6343240981c2202fc311",
         "icono": "https://github.com/portedev/algo/releases/download/Hb0Pr3m/Hb0.S1gn4tur3.png"
       },
       {
         "name": "HBO MUNDI",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc_2A/HBO_Mundi.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=7821b2662148fe333d5191acbb8a5c1f&key%5B%5D=ae43f3e2545237ebda58b13813b5d328",
         "icono": "https://github.com/portedev/algo/releases/download/Hb0Pr3m/Hb0.Mundi.png"
       },
       {
         "name": "HBO PLUS",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_2A/HBO_Plus.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Plus.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=f0e7f7d458990edfab7b98b412564615&key%5B%5D=79205754b7f84a62661c2dbe9de5dd5d",
         "icono": "https://github.com/portedev/algo/releases/download/Hb0Pr3m/Hb0.Plus.png"
@@ -1422,7 +1422,7 @@
       },
       {
         "name": "TOONCAST",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_2A/Tooncast.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc/Tooncast.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=10638a722eb54c64bfb0e7a77483686a&key=41a7d3d522e19215b7e8f611b6902d61",
         "icono": "https://github.com/portedev/algo/releases/download/An1m4d0ss/T00nc4st.png"
@@ -1457,7 +1457,7 @@
       },
       {
         "name": "NICKELODEON",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nickelodeon.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc/Nickelodeon.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=61c18cefecc2d067beaa9ff181305345&key=38d6f650cbf9a38fd9f35c01f98e647a",
         "icono": "https://github.com/portedev/algo/releases/download/An1m4d0ss/N1ck.png"
@@ -1486,7 +1486,7 @@
       },
       {
         "name": "PAKA PAKA",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc_2A/PAKA_PAKA.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc/PAKA_PAKA.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=334001b2f2644df9bdf35e92d2b89f8f&key=475ec87d86ed0636dbb6d6d9d4a43bb7",
         "icono": "https://github.com/portedev/algo/releases/download/An1m4d0ss/Pak4p4k4.png"
@@ -1515,7 +1515,7 @@
       },
       {
         "name": "ANIMAL PLANET",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc_2A/AnimalPlanet.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc/AnimalPlanet.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4146a8ecbb0540dc807c6389ee87e0bc&key=0c3cdc1b3e4617c57361265e9fa4c5bd",
         "icono": "https://github.com/portedev/algo/releases/download/Cultur4l3ss/An1m4l.Pl4net.png"
@@ -1604,21 +1604,21 @@
       },
       {
         "name": "CANAL A",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Canal_a/SA_Live_dash_enc_2A/Canal_a.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Canal_a/SA_Live_dash_enc/Canal_a.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=324ec73787744554ae1aef231a4f8f97&key=677a040674d1d0eccef327269b222bae",
         "icono": "https://2.bp.blogspot.com/-Qt2mjUh2TJ0/W3HqV99lVtI/AAAAAAAAXZE/jbqehkicYhAtiKy6IotwRFuo9OT3InafgCLcBGAs/s1600/Logo_canal_a.png"
       },
       {
         "name": "SUN CHANNEL",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc_2A/Sun_Channel.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc/Sun_Channel.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=158177692aa3463eae5f4e1f72403e9c&key=1c6c026fba9cf7ecb576c7bedce0ead4",
         "icono": "AGREGAR LOGO"
       },
       {
         "name": "WOBI",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/WOBI/SA_Live_dash_enc_2A/WOBI.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/WOBI/SA_Live_dash_enc/WOBI.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f2e44a719947ebfe37de527a9d6df71e&key=029bddeb08909dd66a80276fc338d692",
         "icono": "https://git.io/JOTY3"
@@ -1635,21 +1635,21 @@
       },
       {
         "name": "CANAL DE LAS ESTRELLAS",
-        "uri" : "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc_2A/Canal_de_las_estrellas.mpd",
+        "uri" : "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc/Canal_de_las_estrellas.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=b37d85be9d2b4b619f945beff713fda3&key%5B%5D=917309c98f072b0bd484dd6560c6d166",
         "icono": "https://github.com/portedev/algo/releases/download/N0v3l4ss/C4n4l.d3.l4s.Estr3ll4s.png"
       },
       {
         "name": "TNT NOVELAS",
-        "uri" : "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc_2A/TBS.mpd",
+        "uri" : "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=49a0179b034ae899cb67d8a5834181aa&key%5B%5D=486e2c6d69adea7e17f2960e8e366612",
         "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/tnt.N0v3l4s.png"
       },
       {
         "name": "PASIONES",
-        "uri" : "https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc_2A/Pasiones.mpd",
+        "uri" : "https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc/Pasiones.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=d41cf825e878f0d8e276218af7f5b7e1&key%5B%5D=13d1b73ab578ab8623be9347bcf8972a",
         "icono": "https://github.com/portedev/algo/releases/download/N0v3l4ss/P4s10n3s.png"
@@ -1727,14 +1727,14 @@
       },
       {
         "name": "CM MUSIC",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc_2A/CM.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc/CM.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=682f36b5736f4560951ca14b80d29524&key=3accb729067a39b3b8143f1b447b9d25",
         "icono": "https://github.com/portedev/algo/releases/download/Muus1c44ss/cm.png"
       },
       {
         "name": "HTV",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc_2A/HTV.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc/HTV.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=daecef5fe32f4ce083c6a0c692755d6a&key=d4227f24389a9ba77293214b93eb0d7d",
         "icono": "https://github.com/portedev/algo/releases/download/Muus1c44ss/htv.png"
@@ -1774,7 +1774,7 @@
       },
       {
         "name": "MTV HITS",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc_2A/MTV_Hits.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc/MTV_Hits.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=61008dfc867544cd872de99b1f2b82cf&key=716449756316b91c54803aaa22a2fbf0",
         "icono": "https://github.com/portedev/algo/releases/download/Muus1c44ss/mtv.H1ts.png"
@@ -2150,49 +2150,49 @@
       },
       {
         "name": "BBC WORLD NEWS",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/BBC_World_News/SA_Live_dash_enc_2A/BBC_World_News.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/BBC_World_News/SA_Live_dash_enc/BBC_World_News.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=019f72f2091d4cbea59ff8c85b117f86&key=a4eac51195506752f9f63ad24def9c37",
         "icono": "https://github.com/portedev/algo/releases/download/Int3rn4c10n4ll/BBC.wn.png"
       },
       {
         "name": "BLOOMBERG",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Bloomberg/SA_Live_dash_enc_2A/Bloomberg.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Bloomberg/SA_Live_dash_enc/Bloomberg.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1e50891cdc64452aae20d049727f2f3f&key=551871ba1dc6a95597ec0cb82eb3b2a4",
         "icono": "https://github.com/portedev/algo/releases/download/Int3rn4c10n4ll/Bl00mb3rg.png"
       },
       {
         "name": "RAI",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/RAI/SA_Live_dash_enc_2A/RAI.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/RAI/SA_Live_dash_enc/RAI.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d214547d7d9a4011a39a899ce6e70071&key=16c2ed0617cf1e123f3af6ea8875a82d",
         "icono": "https://github.com/portedev/algo/releases/download/Int3rn4c10n4ll/r41.png"
       },
       {
         "name": "TELESUR",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Telesur/SA_Live_dash_enc_2A/Telesur.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Telesur/SA_Live_dash_enc/Telesur.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5235d8ee29f14ce6b26ea5d828aee77a&key=6bf6bd339e3098babc2ab0b984cd2376",
         "icono": "https://github.com/portedev/algo/releases/download/Int3rn4c10n4ll/Tel3sur.png"
       },
       {
         "name": "TV CHILE",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc_2A/Tv_Chile.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc/Tv_Chile.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c5d0d76e24844235988f9265619e5fec&key=446b71a6deb806c6f129e25de999d07c",
         "icono": "https://github.com/portedev/algo/releases/download/Int3rn4c10n4ll/tvch1l3.png"
       },
       {
         "name": "ANTENA 3",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_2A/Antena_3.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc/Antena_3.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1e1ad422a6714482b66fa702c16e50c6&key=4fdf28a0ab91356ca55a75f4e9bf8c92",
         "icono": "https://github.com/portedev/algo/releases/download/Int3rn4c10n4ll/ant3n43.png"
       },
       {
         "name": "TV5 MONDE",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/TV5_Monde/SA_Live_dash_enc_2A/TV5_Monde.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/TV5_Monde/SA_Live_dash_enc/TV5_Monde.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=62034ff5988b4787b17cdf6f751a3142&key=b3938f0af28b4c0c082b0d4210e389a0",
         "icono": "https://github.com/portedev/algo/releases/download/Int3rn4c10n4ll/tv5.png"
@@ -2206,7 +2206,7 @@
       },
       {
         "name": "EURONEWS",
-        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Euronews/SA_Live_dash_enc_2A/Euronews.mpd",
+        "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Euronews/SA_Live_dash_enc/Euronews.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d86b0f56d32f45adb0a6b4e488c8f0c2&key=e4f180b0e61be3e80ab602df5e56ff3f",
         "icono": "https://github.com/portedev/algo/releases/download/Int3rn4c10n4ll/eur0n3ws.png"
