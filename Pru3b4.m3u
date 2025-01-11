@@ -6,9 +6,9 @@ group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="-" group-
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
-#EXTVLCOPT:http-origin=https://web.app.flow.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://static.flow.com.ar/images/262/CH_LOGO/60/40/0/0/23207383073458.png" group-title="CANALES FLOW" ,A24
+#KODIPROP:inputstream.adaptive.stream_headers=Authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjEsI mlhdCI6MTczMjA0ODc5NCwiZXhwIjoxNzMyMDUwNTk0LCJ0eXB lIjoiQUNDRVNTIn0.wbfsarjwBaB9mMtqiII-aGjS82jBtFtPFvzeGKbTBzU
 https://chromecast.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
