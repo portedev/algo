@@ -3,6 +3,11 @@
     "name": "🟢 CANALES RESPALDO",
     "samples": [
       {
+        "name": "BOCA VS JUVENTUDE",
+        "uri": "https://ch02-04-11-tyc.vodgc.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index_11.m3u8",
+        "icono": "https://www.pay-tv-portal.de/wp-content/uploads/2023/09/disney-plus-premium-logo.jpg"
+      },
+      {
         "name": "TYC SPORTS OK",
         "uri": "https://ch02-04-11-tyc.vodgc.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index_11.m3u8",
         "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/tyc.png"
