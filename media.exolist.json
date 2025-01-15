@@ -1,22 +1,12 @@
 [
   {
-    "name": "🟢 CANALES RESPALDO",
+    "name": "🟢 EVENTOS DEPORTIVOS",
     "samples": [
       {
         "name": "BOCA VS JUVENTUDE",
         "uri": "http://newultra.xyz:8080/johnnyoyarcetv/yg8p49413/248465",
         "icono": "https://www.pay-tv-portal.de/wp-content/uploads/2023/09/disney-plus-premium-logo.jpg"
-      },
-      {
-        "name": "TYC SPORTS OK",
-        "uri": "https://ch02-04-11-tyc.vodgc.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index_11.m3u8",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/tyc.png"
-      },
-      {
-        "name": "TELEFE",
-        "uri": "https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild2.m3u8",
-        "icono": "https://github.com/portedev/algo/releases/download/f4rg/t3l3f3.png"
-      }    
+      }  
     ]
   },
   {
