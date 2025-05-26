@@ -1,165 +1,150 @@
 [
   {
-    "name": "🟢 EVENTOS DEPORTIVOS",
-    "samples": [
-      {
-        "name": "SIN EVENTOS",
-        "uri": "http://newultra.xyz:8080/johnnyoyarcetv/yg8p49413/248465",
-        "icono": "https://www.pay-tv-portal.de/wp-content/uploads/2023/09/disney-plus-premium-logo.jpg"
-      }  
-    ]
-  },
-  {
     "name": "\uD83C\uDDE6\uD83C\uDDF7 ARGENTINA",
     "samples": [
+      {
+        "name": "AMERICA TV ",
+        "uri": "https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/america.webp"
+      },
       {
         "name": "TELEFE",
         "uri": "http://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3cec1b1ea9799dda5596e64f37e5ed20&key=c69f3afde2085dcaaaddbf55246a0323",
-        "icono": "https://github.com/portedev/algo/releases/download/f4rg/t3l3f3.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/Telefe.ar.png"
       },
       {
         "name": "EL TRECE",
         "uri": "https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5179017f49326d14af0a9ceec831aee6&key=09b4a463b029ebc28a288bed2da70a76",
-        "icono": "https://github.com/portedev/algo/releases/download/f4rg/3l13.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/eltrece.webp"
       },
       {
-        "name": "CANAL 9 ",
+        "name": "EL NUEVE",
         "uri": "http://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=24f4ff211136ae6512a1b552200db405&key=602122f8426c5c942b8c18d299cc6020",
-        "icono": "https://github.com/portedev/algo/releases/download/f4rg/el9.png"
-      },
-      {
-        "name": "AMERICA TV ",
-        "uri": "https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
-        "icono": "https://github.com/portedev/algo/releases/download/f4rg/am3r1c4.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/nueve.webp"
       },
       {
         "name": "TV PUBLICA",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc8c82ac2ec7e9799527c29db7354e81&key=cc4aae173dd2ef17ae26be3f7ae87662",
-        "icono": "https://github.com/portedev/algo/releases/download/f4rg/tvp02.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/tvpubli.png"
       },
       {
         "name": "C5N",
         "uri": "http://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=050df5c6e78c774e78c3e99eef8a1b29&key=0e4141d6ab21a36cbc4da777ab3096d4",
-        "icono": "https://github.com/portedev/algo/releases/download/f4rg/c5n.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/c5n.webp"
       },
       {
         "name": "TN NOTICIAS",
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_wl/TodoNoticias.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ceb1cd0622cd7e88fcdc99fe3a55de6&key=951637093d41c7388a1ef3f620cfea21",
-        "icono": "https://github.com/portedev/algo/releases/download/f4rg/tn.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/tnok.png"
       },
       {
         "name": "LN+ LA NACION",
         "uri": "http://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4eade7bbc39b25402acfa301bbad04a&key=a74d1df4235a74878327aa8d53ff283c",
-        "icono": "https://github.com/portedev/algo/releases/download/f4rg/ln.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/ln.webp"
       },
       {
         "name": "CRONICA TV",
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=745e7abcc90d41ab706b2ac2f4371da3&key=50acd9d19d1361cb4a8a13a867bdc352",
-        "icono": "https://github.com/portedev/algo/releases/download/f4rg/Cr0ni1c4.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/Cr0ni1c4.png"
       },
       {
         "name": "A24",
         "uri": "http://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3b1b027dd011af20fd9956c16dc084fb&key=45f75aacf06593c9b693fe427c67e5b8",
-        "icono": "https://github.com/portedev/algo/releases/download/f4rg/a24.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/a24.webp"
       },
       {
         "name": "CANAL 26",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e32aaa4b67430b3b51be1efce5a74ac5&key=ad60c5e1d378a97271bf8688f094d092",
-        "icono": "https://github.com/portedev/algo/releases/download/f4rg/c4n4l26.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/canal26.webp"
       },
       {
         "name": "INFORMACION PERIODISTICA",
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc/Investigacion_Periodistica.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5299f96f873aa0f0e47edc4e15784717&key=9d53176b0969492f2d93f1867be1dce1",
-        "icono": "https://github.com/portedev/algo/releases/download/f4rg/ip.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/ip.webp"
       },
       {
         "name": "CIUDAD MAGAZINE",
         "uri": "https://cdn.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc/Magazine.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4f1235069d34c22cb73d9b78bae15587&key=55e068ff6b152e34c66dc639b38e8692",
-        "icono": "https://github.com/portedev/algo/releases/download/f4rg/m4g4z1n3.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/m4g4z1n3.png"
       },
       {
         "name": "NET TV",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc/Net_TV.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=89d433166edd31d56df2a59df8ec6704&key=b2015faded0a456d10aa8db1b4cbac68",
-        "icono": "https://github.com/portedev/algo/releases/download/f4rg/n3t.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/nettv.webp"
       },
       {
         "name": "ARGENTINISIMA",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a6243f46366445ebbf3117ec27365481&key=81667cdc3bcf19a6a66c0919fa00a20b",
-        "icono": "https://github.com/portedev/algo/releases/download/f4rg/argsat.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/args4t.png"
       },
       {
         "name": "CANAL RURAL",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/Canal_Rural/SA_Live_dash_enc/Canal_Rural.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b02c568163c14cfda4ddb958a0aab742&key=ef64a70ac85a663a3308be6476610aad",
-        "icono": "https://github.com/portedev/algo/releases/download/f4rg/crural.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/rural.png"
       },
       {
         "name": "CHACRA TV",
         "uri": "https://s8.stweb.tv/chacra/live/playlist.m3u8",
-        "icono": "https://github.com/portedev/algo/releases/download/f4rg/chacra.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/chacr4.png"
       },
       {
         "name": "BRAVO TV",
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc/BravoTV.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ad7fbbec39cea4a5a63ac13d94da48d4&key=f71087b4dc211db079237c0fb783eb93",
-        "icono": "https://github.com/portedev/algo/releases/download/f4rg/bravo.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/brav0.png"
       },
       {
         "name": "VOLVER",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc/Volver.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=194e53184a424ce6989ad82c5f28fbc5&key=65d60c5cc4de031172be0a6a51edbdfe",
-        "icono": "https://github.com/portedev/algo/releases/download/f4rg/v0lv3r.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/v0lv3r.png"
       },
       {
-        "name": "ENCUENTRO TV",
+        "name": "ENCUENTRO",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc/Encuentro.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ac3ae78beb64478ab390b4ad70e3e0c9&key=c7d669761c3516d852a0edf9e07c9198",
-        "icono": "https://github.com/portedev/algo/releases/download/f4rg/encu3ntr0.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/encu3ntr0.png"
       }
     ]
   },
   {
     "name": "\uD83C\uDDE6\uD83C\uDDF7 INTERIOR ARGENTINA",
     "samples": [
-      {
-        "name": "EL PRINGLENSE",
-        "uri": "https://videostream.shockmedia.com.ar:19360/elpringlense/elpringlense.m3u8",
-        "icono": "https://i.ibb.co/VtK5R3B/Whats-App-Image-2023-08-09-at-8-41-47-PM.jpg"
-      },
       {
         "name": "MULTIVISION CABLE",
         "uri": "https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8",
@@ -373,14 +358,14 @@
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/3spnpr3m1um.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/espnpr3m1um.png"
       },
       {
         "name": "TNT SPORTS",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/tntsp0rts.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/tntsparg.png"
       }
     ]
   },
@@ -391,163 +376,163 @@
         "name": "FLOW EVENTOS",
         "uri": "https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_url": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5c86e237317c2231ac1bc130e995fad6&key=dcacf7b239ee03df3c69ca11dbcde4eb",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/Fl0w.png"
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5c86e237317c2231ac1bc130e995fad6&key=dcacf7b239ee03df3c69ca11dbcde4eb",
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/Fl0w.png"
       },
       {
-        "name": "TYC SPORT",
+        "name": "TYC SPORTS",
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/tyc.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/tycinter.png"
       },
       {
         "name": "TYC SPORTS INTERNACIONAL",
         "uri": "https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=58e1ebe75d944f6a98ea67b1c7c0a572&key=1c311b069dbce31ce8e62a6e7e2433eb",
-        "icono": "https://i.ibb.co/KhbbLzP/tycsports.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/tycinter2.png"
       },
       {
         "name": "ESPN",
         "uri": "https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e884b711ab111beb8a7ba1e7bcbdc9bf&key=cb89ee3961599e3e648a5aad60895f34",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/3spn.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/3spn.png"
       },
       {
         "name": "ESPN 2",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=65a5bfa3c7a72dde60be9b0c7406c8fc&key%5B%5D=0b40ae9f78a7bac3b57ecbf72d3c081e",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/3spn2.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/3spn2.png"
       },
       {
         "name": "ESPN 3",
         "uri": "https://cdn.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4c9f97e2a36feab0e5077f2b44cbc4e&key=1743cd03dfe3736b2c95da91a783af38",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/3spn3.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/3spn3.png"
       },
       {
         "name": "ESPN 4",
         "uri": "https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc8d44406ed6bf1898ad9f7a2d64f29e&key=fb85d059687ab0fc67805806204edbdf",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/3spn4.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/3spn4.png"
       },
       {
         "name": "FOX SPORTS 1",
         "uri": " https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cbc2a0c7a38df0aa3333cd71841d3b0d&key=aac61b730e2ac1df23f1e872e7541c1b",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/f0x1sur.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/f0x1sur.png"
       },
       {
         "name": "FOX SPORTS 2",
         "uri": "https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c98ddffc470fe449ae1a8d6492116976&key=5086d370e840010232cf4532b16e197f",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/f0x2sur.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/foxsports2.png"
       },
       {
         "name": "FOX SPORTS 3",
         "uri": "https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=55b47390cf9e4997dae6dac85e057875&key=fa39e855543c5d70f30600d59e5e4c1b",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/f0x3sur.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/foxsports3.png"
       },
       {
         "name": "PX SPORTS",
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/PX_Sports/SA_Live_dash_enc/PX_Sports.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9393321daef1463fc7e2e060298db852&key=be6bc91e17816f67e62596bed463c5ad",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/pxsp0rts.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/pxsportsok.png"
       },
       {
         "name": "DEPORTV",
         "uri": "https://cdn.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc/DeporTVHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f362097815892a4b83950f1d106ff0b2&key=4349e42e81c31a8389f4a42fcd298928",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/d3p0rtv.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/d3p0rtv.png"
       },
       {
         "name": "AMERICA SPORTS",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_dash_enc/America_Sports.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a0aa01337a2148bda1e21862295ae037&key=fee0f87a0527497351fc54ce36ad1de2",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/am3r1c4sp0rts.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/am3r1c4sp0rts.png"
       },
       {
         "name": "GARAGE TV",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/El_Garage/SA_Live_dash_enc/El_Garage.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=03d1dfb8df034d8b81e57753df00a36d&key=08d83660db4a73bb1d61d60b09df5f4d",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/g4r4g3.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/g4r4g3.png"
       },
       {
         "name": "GOLF CHANNEL",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc/Golf_Channel.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=38d6226b7cd2cfa86b4b9cdaa455e7d7&key=24f0ef2bf787647cc02df870417eed2b",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/g0lf.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/g0lf.png"
       },
       {
         "name": "NBA",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc/NBA_TV.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d0c38de3c9844e4e9f975dffb3eff8ad&key=141ca0fdf6ebadfa7107576b8e09e117",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/nb4.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/nb4.png"
       },
       {
         "name": "TYC SPORT (PLAY 1)",
         "uri": "https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/tycplay.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/tycplayok.png"
       },
       {
         "name": "TYC SPORT (PLAY 2)",
         "uri": "https://dj8bzwveg7go9.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_9.m3u8",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/tycplay.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/tycplayok.png"
       },
       {
         "name": "TYC SPORT (PLAY 3)",
         "uri": "https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/tycplay.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/tycplayok.png"
       },
       {
         "name": "TYC SPORT (PLAY 4)",
         "uri": "https://dj8bzwveg7go9.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/tycplay.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/tycplayok.png"
       },
       {
         "name": "TYC SPORT (PLAY 5)",
         "uri": "https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/tycplay.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/tycplayok.png"
       },
       {
         "name": "TYC SPORT (PLAY 6)",
         "uri": "https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/tycplay.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/tycplayok.png"
       },
       {
         "name": "TYC SPORT (PLAY 7)",
         "uri": "https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/tycplay.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/tycplayok.png"
       },
       {
         "name": "TYC SPORT (PLAY 8)",
         "uri": "https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/tycplay.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/tycplayok.png"
       },
       {
         "name": "TYC SPORT (PLAY 9)",
         "uri": "https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/tycplay.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/tycplayok.png"
       },
       {
         "name": "TYC SPORT (PLAY 10)",
         "uri": "https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index.m3u8",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/tycplay.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/tycplayok.png"
       }
     ]
   },
@@ -559,124 +544,124 @@
         "uri": "https://sam-py-edge05.tigo.com.py/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c",
-        "icono": "https://i.postimg.cc/mrD5C6S3/descarga.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/tigosports.jpg"
       },
       {
         "name": "BEIN SPORTS EXTRA Ñ",
         "uri": "https://dbrb49pjoymg4.cloudfront.net/10001/99991785/hls/playlist.m3u8?ads.xumo_channelId=99991785",
-        "icono": "https://i.ibb.co/gJ9z814/o-h-1-895-bein-sports-xtra-1.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/b3inxtr4.png"
       },
       {
         "name": "DAZN 1",
         "uri": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=44dd9cd370b08a868ead115fe84ecfde&key=bff19ab0a51cf14e848389b152913fd0",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/D4zn1.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/D4zn1.png"
       },
       {
         "name": "DAZN  2",
         "uri": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0eab5a3f3e3b4ba5d42d40ca30d17571&key=f3f061ded9b70e8160590d5802ecda6d",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/D4zn2.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/D4zn2.png"
       },
       {
         "name": "FOX SPORTS MX 1",
         "uri": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2fbdaa3bea0d0323ae011b318d1db716&key=8726ef7eaf5b9dce15fb6aa9f80bd53f",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/f0xmex1.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/f0xsp0rtsmx.png"
       },
       {
         "name": "FOX SPORTS MX 2",
         "uri": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8836fb04d62dc64c9f8a39ef8640d5eb&key=d4f05ce56c5231b7cdf53455bea58621",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/f0xmex1.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/f0xsp0rtsmx.png"
       },
       {
         "name": "FOX SPORTS MX 3",
         "uri": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=11c8c1c2ef0385cf1e64d44bb9c3a395&key=5769730ffbdc4b2fd8945929d9ace063",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/f0xmex1.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/f0xsp0rtsmx.png"
       },
       {
         "name": "FOX SPORTS PREMIUM MX",
         "uri": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9f327d24c66fbd84e15ab5c9ead7c7a4&key=83837185529c0c4048f81386c2d36426",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/f0xpr3m1um.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/f0xpr3m1um.png"
       },
       {
         "name": "ESPN",
         "uri": "http://cdn.cvattv.com.ar/live/c4eds/ESPN2_PY/SA_Live_dash_enc/ESPN2_PY.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0aab4bd18144c7316c35c74ccce96ddc&key=3e6db98d9df4747108bd896cba0be57d",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/3spn.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/3spn.png"
       },
       {
         "name": "ESPN 2",
         "uri": "https://cdn.cvattv.com.ar/live/c4eds/ESPN_PY/SA_Live_dash_enc/ESPN_PY.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4cbc5f5cbac72d38371bb63309e4a9d2&key=dbc8de27da9726cd2e7659abb08e86ef",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/3spn2.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/3spn2.png"
       },
       {
         "name": "ESPN 3",
         "uri": "https://cdn.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4c9f97e2a36feab0e5077f2b44cbc4e&key=1743cd03dfe3736b2c95da91a783af38",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/3spn3.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/3spn3.png"
       },
       {
         "name": "ESPN 4",
         "uri": "https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc8d44406ed6bf1898ad9f7a2d64f29e&key=fb85d059687ab0fc67805806204edbdf",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/3spn4.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/3spn4.png"
       },
       {
         "name": "ESPN 5",
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=24f2b3e741f0d9e9a8d516faff38bddc&key=bbd3fd02fb104e1463ac528a13f67e4a",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/3spn5.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/3spn5.png"
       },
       {
         "name": "ESPN 6",
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5fc7b662e69c0fbf8d39691166b1c919&key=89157cdd25df25d56f1ecccee3850888",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/3spn6.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/3spn6.png"
       },
       {
         "name": "ESPN 7",
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5fc7b662e69c0fbf8d39691166b1c919&key=89157cdd25df25d56f1ecccee3850888",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/3spn7.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/3spn7.png"
       },
       {
         "name": "ESPN EXTRA",
         "uri": "https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc8d44406ed6bf1898ad9f7a2d64f29e&key=fb85d059687ab0fc67805806204edbdf",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/3spnExtr4.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/3spnExtr4.png"
       },
       {
         "name": "VTV",
         "uri": "https://cdn.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc/VTV_HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b96960aa715a4e51b7e952e81c99ac8e&key=5bbffc680764dbd63d90b774b3aa0c0a",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/vtv.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/vtvok.png"
       },
       {
         "name": "VTV PLUS",
         "uri": "https://cdn.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc/VTV_Plus_HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=da8a49a594160cc0059f07b9f71cd39a&key=37ca91dd799b351a02445151c7f61070",
-        "icono": "https://github.com/portedev/algo/releases/download/ffutpr3m/vtvplus.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/vtvplusok.png"
       },
       {
         "name": "PREMIERE 1",
@@ -960,56 +945,56 @@
         "uri": "https://cdn.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=5317283f4110fac3fb3a0becd9f648bc&key%5B%5D=0754a03c926b1247216e01d9dbcfac28",
-        "icono": "https://github.com/portedev/algo/releases/download/Hb0Pr3m/Hb0.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/hbo.webp"
       },
       {
         "name": "HBO 2",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=c90cc57ad2c436e5a77db2f8d9db2d85&key%5B%5D=04f6c73984bdcffd013050608497935d",
-        "icono": "https://github.com/portedev/algo/releases/download/Hb0Pr3m/Hb02.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/hbo2.webp"
       },
       {
         "name": "HBO XTREME",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=d504011bbef467c0de3a7534e302a6d4&key%5B%5D=334103e2abe16faa7f9ab2e3097c5a58",
-        "icono": "https://github.com/portedev/algo/releases/download/Hb0Pr3m/Hb0.Xtr3m3.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/hboxtreme.webp"
       },
       {
         "name": "HBO FAMILY",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc/HBO_Family.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=535473132f68082160b489482ca35f8e&key%5B%5D=e90fd91fcd3fc809bed2b1c0d37f7297",
-        "icono": "https://github.com/portedev/algo/releases/download/Hb0Pr3m/Hb0.F4mily.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/hbofam.webp"
       },
       {
         "name": "HBO SIGNATURE",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc/HBO_Signature.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=e866499fbc1149f49989672075aa3a68&key%5B%5D=d2dd5c95623c6343240981c2202fc311",
-        "icono": "https://github.com/portedev/algo/releases/download/Hb0Pr3m/Hb0.S1gn4tur3.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/hbosig.webp"
       },
       {
         "name": "HBO MUNDI",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=7821b2662148fe333d5191acbb8a5c1f&key%5B%5D=ae43f3e2545237ebda58b13813b5d328",
-        "icono": "https://github.com/portedev/algo/releases/download/Hb0Pr3m/Hb0.Mundi.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/hbomundi.webp"
       },
       {
         "name": "HBO PLUS",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Plus.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=f0e7f7d458990edfab7b98b412564615&key%5B%5D=79205754b7f84a62661c2dbe9de5dd5d",
-        "icono": "https://github.com/portedev/algo/releases/download/Hb0Pr3m/Hb0.Plus.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/hboplus.webp"
       },
       {
         "name": "HBO POP",
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=f4e1ce5cef7e9a110fe968f8881b21fa&key%5B%5D=6bbe2062b150b11496cdd5fbdd9c89d6",
-        "icono": "https://github.com/portedev/algo/releases/download/Hb0Pr3m/Hb0.P0p.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/hbopop.webp"
       }
     ]
   },
@@ -1021,42 +1006,42 @@
         "uri" : "https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc/Universal_Channel_HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6cf9a13d6fd65a0f2e1cee3969aab9f5&key=ea61c3c1adee71b5c2e9744e41d4b75f",
-        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/Un1v.Tv.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/unitv.webp"
       },
       {
         "name": "UNIVERSAL COMEDY",
         "uri": "http://cdn.cvattv.com.ar/live/c6eds/Universal_Comedy/SA_Live_dash_enc/Universal_Comedy.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=062c5d25105a3a935b67e36923c73f28&key=88c2d4cec420f18d2477152c66c7870d",
-        "icono": "https://github.com/portedev/algo/releases/download/Un1v3rs4lP4ck/Un1v.C0m3dy.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/universalcomedy.webp"
       },
       {
         "name": "UNIVERSAL CINEMA",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_cenc/Universal_Cinema.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f6ae2e17173055e4ca69dc18963406ae&key=5a955c29eb88a0b4c9a2538cc4b3aea2",
-        "icono": "https://github.com/portedev/algo/releases/download/Un1v3rs4lP4ck/Un1v.C1nem4.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/universalcinema.webp"
       },
       {
         "name": "UNIVERSAL CRIME",
         "uri": "http://cdn.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_enc/universal_Crime.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1efd7edf60e1514f775dd13d046ae708&key=c2ef1abbd945c62c11b1375eaaa50f0d",
-        "icono": "https://github.com/portedev/algo/releases/download/Un1v3rs4lP4ck/Un1v.Cr1m3.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/universalcrime.webp"
       },
       {
         "name": "UNIVERSAL PREMIERE",
         "uri": "http://cdn.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc/Universal_Premiere.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0eb20b51ad13b58ad417f11318e588b3&key=ad5d29a33d73d21187157802de8e6097",
-        "icono": "https://github.com/portedev/algo/releases/download/Un1v3rs4lP4ck/Un1v.Pr3m13r3.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/universalpremiere.webp"
       },
       {
         "name": "UNIVERSAL REALITY",
         "uri": "http://cdn.cvattv.com.ar/live/c6eds/Universal_Reality/SA_Live_dash_enc/Universal_Reality.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cedd9c1a5c2ae43f80ee3197212016d6&key=bf47a3c39e164a97ea6adc4c8dd57435",
-        "icono": "https://github.com/portedev/algo/releases/download/Un1v3rs4lP4ck/Un1v.R3ality.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/universalreality.webp"
       }
     ]
   },
@@ -1068,7 +1053,7 @@
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/Golden/SA_Live_dash_enc/Golden.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b7d085dbd4539afcc6a55445efb2b04e&key=0a55fbe044fed379d1632b589265b571",
-        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/G0ld3n.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/golden.png"
       },
       {
         "name": "DHE",
@@ -1082,168 +1067,161 @@
         "uri" : "https://cdn.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc/TCM.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a5f44a5e30714cf3bcee7c7f15a08b4e&key=c3c141ae941ab9750339c3af45a65ce2",
-        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/tcm.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/tcm.webp"
       },
       {
         "name": "EUROPA EUROPA",
         "uri" : "https://cdn.cvattv.com.ar/live/c6eds/Europa_Europa/SA_Live_dash_enc/Europa_Europa.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b47f257df0314d09a7f8355c3abe1dc6&key=bdc9f1696a82ee7398dd3a7fa82300e2",
-        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/Eur0p4.3ur0p4.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/eueu.png"
       },
       {
         "name": "CINECANAL",
         "uri" : "https://cdn.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc/CinecanalHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6003e92dd0d9f548329015c9e15dd578&key=213cf85cb5f9fe569757004a77e05948",
-        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/C1n3C4n4l.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/cinecanal.webp"
       },
       {
         "name": "TNT",
         "uri" : "https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc/TNT_HD_Arg.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=faad1722a575f4d9ec7b774db63c879c&key=cf0184830344ba36ad2ffef9dd2dd9d0",
-        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/tnt.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/tnt.webp"
       },
       {
         "name": "TNT SERIES",
         "uri" : "https://cdn.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc/TNTSeries.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5c14d6aeb19bf113edf91a7b544253cb&key=8d776d6f9c5c840ebe88d767dd731692",
-        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/tnt.s3r1es.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/tntseries.webp"
       },
       {
         "name": "CINEMAX",
         "uri" : "https://cdn.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc/Cinemax.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=977928a92b82ba3781741a6470f8f45b&key=51f4e62827c128f7210b79a11587661a",
-        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/C1n3m4x.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/cinemax.webp"
       },
       {
         "name": "FX",
         "uri" : "https://cdn.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9ab9c42c713e0fb5517dc77cc19d6755&key=d8c271b82387e609b6c19e5e79240aff",
-        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/Fx.png"
-      },
-      {
-        "name": "VOLVER",
-        "uri" : "https://cdn.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc/Volver.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=194e53184a424ce6989ad82c5f28fbc5&key=65d60c5cc4de031172be0a6a51edbdfe",
-        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/V0lv3r.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/fx.webp"
       },
       {
         "name": "SPACE",
         "uri" : "https://cdn.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0942e4ecd1bd3567e8f9447f45c20a12&key=efca6264f04cf7373de0c30ec79fe909",
-        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/Sp4c3.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/space.webp"
       },
       {
         "name": "CINE AR",
         "uri" : "https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc/INCAA_Tv.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d44f40e49d2945c1a3701c0885ff0b00&key=6382b6279087402714b6824688c456df",
-        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/C1n3.4r.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/cinear.png"
       },
       {
         "name": "METRO",
         "uri" : "https://cdn.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_enc/Metro.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=719aa3a5e270c7f69eba374ed80d7986&key=97ac59118cf4cf242e2c31e87cd38e1e",
-        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/Metr0.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/metro.png"
       },
       {
         "name": "STAR CHANNEL",
         "uri" : "https://cdn.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8023e85ef9d17561ee1b424179b1b15e&key=477ad189f1fcd2baec026068107f862f",
-        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/St4r.Ch.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/star.webp"
       },
       {
         "name": "SONY CHANNEL",
         "uri" : "https://cdn.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc/SonyHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=fd9619f9d7c2d5115a339941279e0b4b&key=bf55635e6591f905659fa27ab3ca2812",
-        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/S0ny.Ch.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/sony.webp"
       },
       {
         "name": "SONY MOVIES",
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/Sony_Movies/SA_Live_dash_enc/Sony_Movies.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=88b9c41e72acd5b589bbfb4776969781&key=43b9403f7a9e28fc2d7cbf10373b85aa",
-        "icono": "https://i.ibb.co/t4nrcdk/Sony-Movies-Logo-svg.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/sonymovies.png"
       },
       {
         "name": "WARNER CHANNEL",
         "uri" : "https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc/WarnerHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=069bd3f0b6c279467e08549f17bf5bd0&key=5afa7e369a6de1093818a85af912a775",
-        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/Wb.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/warner.webp"
       },
       {
         "name": "AXN",
         "uri" : "https://cdn.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc/AXNHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=03e77b5bbf5135a85d587c5af2f2f730&key=1dd1ab1938a791d03f09eb88478b4880",
-        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/Axn.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/axn.webp"
       },
       {
         "name": "STUDIO UNIVERSAL",
         "uri" : "https://cdn.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc/Studio_Universal.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d9b541e3cd064d569843da42788d4263&key=bba5d26ad5051fb3f2cf7e3dd8a4a7d8",
-        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/Stud10.Univ.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/studio.webp"
       },
       {
         "name": "A&E",
         "uri" : "https://cdn.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc/AEHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=db12035627a4b3d7198b761f36b4a290&key=80ca761a875992ac0e50b0851d5563fe",
-        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/a.e.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/ae.webp"
       },
       {
         "name": "TBS",
         "uri" : "https://cdn.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=49a0179b034ae899cb67d8a5834181aa&key=486e2c6d69adea7e17f2960e8e366612",
-        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/tbs.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/tbs.png"
       },
       {
         "name": "AMC",
         "uri" : "https://cdn.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1fa6a86fd80b6d1425dde74482b5dc9c&key=744c3636d57a651ab444cf9fe5f95b33",
-        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/Amc.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/0Amc.png"
       },
       {
         "name": "A3SERIES",
         "uri" : "https://cdn.cvattv.com.ar/live/c7eds/A3_Series/SA_Live_dash_enc/A3_Series.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5e34e08ae5ae440f01a03e505dd24a57&key=ed30cc7f5040a75d73f619320249272b",
-        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/A3s3r13s.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/A3s3r13s.png"
       },
       {
         "name": "COMEDY CENTRAL",
         "uri" : "https://cdn.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc/ComedyCentral.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4013f784c5ef4318ad47024e61eb094e&key=bad433a547f97c7f65cda5e83b8dd416",
-        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/C0m3dy.C3ntr4l.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/C0m3dy.C3ntr4l.png"
       },
       {
         "name": "PARAMOUNT",
         "uri" : "https://cdn.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc/Paramount.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b85b710ecff3e38f31fc8e249b1c1cef&key=a1544c193dde6f8858c9358ee69a60a7",
-        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/P4r4m0unt.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/P4r4m0unt.png"
       },
       {
         "name": "A3CINE",
         "uri" : "https://cdn.cvattv.com.ar/live/c7eds/A3_Cine/SA_Live_dash_enc/A3_Cine.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d6ff881a6f07986a80d6ad6f041b57d4&key=b401c87c2ab11a1a488ee1c474b109ae",
-        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/A3C1n3.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/A3C1n3.png"
       }
     ]
   },
@@ -1255,109 +1233,109 @@
         "uri": "https://cdn.cvattv.com.ar/live/c3eds/Adult_Swim/SA_Live_dash_enc/Adult_Swim.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9be1432e1e594c8d0648a44d3d9f0c46&key=8e6c785b14d973c504074b1920f11b15",
-        "icono": "https://static.flow.com.ar/images/9537/CH_LOGO/60/40/0/0/21934865078382.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/Adult.Sw1m.png"
       },
       {
         "name": "BABY TV",
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/BabyTV/SA_Live_dash_enc/BabyTV.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9e09f0a3ecb932582e0f3bc6a6194c8d&key=6d2363b7ba7680ea3bf6dcbad1efa5bf",
-        "icono": "https://i.ibb.co/HPnbTg4/babytv.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/babytv.png"
       },
       {
         "name": "CARTOON NETWORK",
         "uri": "https://cdn.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_wl/CartoonNetwork.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d7df56efaa36a71141d238854cc46d1d&key=8abb2ee9150d8b2af8ebec0de0f833c8",
-        "icono": "https://github.com/portedev/algo/releases/download/An1m4d0ss/cn.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/cartoonNet.webp"
       },
       {
         "name": "CARTOONITO",
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc/Boomerang.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5792e613fceb699c79cbc0e75fe4cd37&key=a672793730476ed23e5c1bce2ff570c6",
-        "icono": "https://github.com/portedev/algo/releases/download/An1m4d0ss/C4rt00n1t0.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/cart.webp"
       },
       {
         "name": "TOONCAST",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc/Tooncast.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=10638a722eb54c64bfb0e7a77483686a&key=41a7d3d522e19215b7e8f611b6902d61",
-        "icono": "https://github.com/portedev/algo/releases/download/An1m4d0ss/T00nc4st.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/T00nc4st.png"
       },
       {
         "name": "DISNEY CHANNEL",
         "uri": "https://cdn.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc/DisneyChannelHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4a742e478d14023e1993e011d9415f94&key=0df77ede9bc744376836d21afa137dda",
-        "icono": "https://github.com/portedev/algo/releases/download/An1m4d0ss/D1sn3y.Ch.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/D1sn3y.Ch.png"
       },
       {
         "name": "Disney Junior",
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc/DisneyJr.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bd29c4a538f28845ce33581111749428&key=46d9589f41a11c3637c07c604956deac",
-        "icono": "http://78.47.174.211/logos/disneyjunior.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/D1sn3y.jr.png"
       },
       {
         "name": "DREAMWORKS",
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc/Dreamworks.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7f30c43e47544412221fd64201d92f4b&key=f83d09d75a0946b1d71aa48c201b4d8b",
-        "icono": "https://i.ibb.co/pzxBWZj/Dream-Works-Channel.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/dream.png"
       },
-       {
+      {
         "name": "DISCOVERY KIDS",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_Kids.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ffb2f0f63c23a3592d4653e938b9ca19&key=d3661ae881fc55fc7a15815cd439747b",
-        "icono": "https://github.com/portedev/algo/releases/download/An1m4d0ss/D1sc0very.K1ds.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/discoverykids.webp"
       },
       {
         "name": "NICKELODEON",
         "uri": "https://cdn.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc/Nickelodeon.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=61c18cefecc2d067beaa9ff181305345&key=38d6f650cbf9a38fd9f35c01f98e647a",
-        "icono": "https://github.com/portedev/algo/releases/download/An1m4d0ss/N1ck.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/N1ck.png"
       },
       {
         "name": "NICK JR",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e824b2277a86fd6adfc40aa948e5064a&key=28da2dbbe8e1a1463bbb23895b922083",
-        "icono": "https://github.com/portedev/algo/releases/download/An1m4d0ss/N1ckjr.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/N1ckjr.png"
       },
       {
         "name": "NICK CLASICO",
         "uri": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0/N1ck.Cl4s1c0.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/N1ck.png"
       },
       {
         "name": "NICK JR CLUB",
         "uri": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0/N1ck.club.Jr.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/N1ck.club.Jr.png"
       },
       {
         "name": "NICKTEEN",
         "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c16ba9e4-85a7-11eb-a861-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0/n1ck.T33n.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/n1ck.T33n.png"
       },
       {
         "name": "PAKA PAKA",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc/PAKA_PAKA.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=334001b2f2644df9bdf35e92d2b89f8f&key=475ec87d86ed0636dbb6d6d9d4a43bb7",
-        "icono": "https://github.com/portedev/algo/releases/download/An1m4d0ss/Pak4p4k4.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/Pak4p4k4.png"
       },
       {
         "name": "KIDS TV",
         "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master_es.m3u8",
-        "icono": "https://i.ibb.co/2SkMY7n/kids-tv.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/kidstv.png"
       },
       {
         "name": "TOONZ KIDS",
         "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8",
-        "icono": "https://i.ibb.co/zxjmbLC/toonz-kids.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/toonzkids.png"
       }
     ]
   },
@@ -1369,91 +1347,91 @@
         "uri": "https://cdn.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc/NatGeoHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4be0c61ceddc62294cc9e23b627af53d&key=852c1935d11c3c53d0a1ceff3bb3bf16",
-        "icono": "https://i.ibb.co/X3f0JTF/natgeologo.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/natgeo.webp"
       },
       {
         "name": "ANIMAL PLANET",
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc/AnimalPlanet.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4146a8ecbb0540dc807c6389ee87e0bc&key=0c3cdc1b3e4617c57361265e9fa4c5bd",
-        "icono": "https://github.com/portedev/algo/releases/download/Cultur4l3ss/An1m4l.Pl4net.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/aplanet.webp"
       },
       {
         "name": "HISTORY",
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc/HistoryHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e82318e518ba70cea3d7b37bef99e692&key=a05fcb634c071a514e3039e1c274b4db",
-        "icono": "https://github.com/portedev/algo/releases/download/Cultur4l3ss/H1st0ry.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/history.webp"
       },
       {
         "name": "DISCOVERY",
         "uri": "https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc/DiscoveryHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c283c84a7af0d7c8b9b612a8fb22a001&key=f45510c721eebd6eaa86a2e16ccbd77d",
-        "icono": "https://github.com/portedev/algo/releases/download/Cultur4l3ss/D1sc0very.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/discovery.webp"
       },
       {
         "name": "DISCOVERY H&H",
         "uri": "https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc/DiscoveryHomeHealthHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9b0a76dd7a0df1e1b4320aeb1254d1a9&key=d011267775c38d6d2ab09b428c03d63f",
-        "icono": "https://github.com/portedev/algo/releases/download/Cultur4l3ss/D1sc0very.hyh.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/hyh.webp"
       },
       {
         "name": "DISCOVERY ID",
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/ID/SA_Live_dash_enc/ID.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0956caf2e2bd41f49fdcead7cc94fe24&key=640c49578073a911938617eb4e652d6c",
-        "icono": "https://github.com/portedev/algo/releases/download/Cultur4l3ss/D1sc0very.ID.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/id.webp"
       },
       {
         "name": "DISCOVERY SCIENCE",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc/Discovery_Science.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=46ba409fb04e40fb86b466d97e3a9588&key=f129fb9b5d213e20e2abe529b8cf2597",
-        "icono": "https://github.com/portedev/algo/releases/download/Cultur4l3ss/D1sc0very.Sc13nc3.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/disscience.webp"
       },
       {
         "name": "DISCOVERY TURBO",
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc/DiscoveryTurbo.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a611ddbf8c15fa617a0c391cb7b3e128&key=0cd1300baf8890380fd41124962195c4",
-        "icono": "https://github.com/portedev/algo/releases/download/Cultur4l3ss/D1sc0very.Turb0.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/turbo.webp"
       },
       {
         "name": "DISCOVERY THEATER",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc/Theater_HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5279c05ea51c4dae8e7fa6be88448089&key=b28dfafba4b848dfd5d7c177ebf19108",
-        "icono": "https://github.com/portedev/algo/releases/download/Cultur4l3ss/D1sc0very.Th3ater.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/distheater.webp"
       },
       {
         "name": "DISCOVERY TLC",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/TLC/SA_Live_dash_enc/TLC.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=58761c7b2819491eb3a0d765842c341a&key=9dabc48f88bd7f266734e57501bd6f47",
-        "icono": "https://github.com/portedev/algo/releases/download/Cultur4l3ss/D1sc0very.TLC.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/tlc.webp"
       },
       {
         "name": "DISCOVERY WORLD",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc/Discovery_World_HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=34ee94c2263345f7a3a590661264e490&key=56757d656a697ab7a2e5e083b5d21bb5",
-        "icono": "https://github.com/portedev/algo/releases/download/Cultur4l3ss/D1sc0very.W0rld.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/disworld.webp"
       },
       {
         "name": "FILM & ARTS",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/Film_Arts/SA_Live_dash_enc/Film_Arts.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=91c540d350f34f5386f3f1c77f74001f&key=54ee72810551da0cba0c45a8df651962",
-        "icono": "https://github.com/portedev/algo/releases/download/Cultur4l3ss/F1lm4rts.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/film.png"
       },
       {
         "name": "HGTV",
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_Live_dash_enc/Home_and_Garden.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=43bc6a87ee4f21aa320ba00b980a6fd8&key=bd55130539a30faa1d90b3142eebe0b2",
-        "icono": "http://78.47.174.211/logos/hgtv.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/hgtv.png"
       },
       {
         "name": "CANAL A",
@@ -1467,14 +1445,7 @@
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc/Sun_Channel.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=158177692aa3463eae5f4e1f72403e9c&key=1c6c026fba9cf7ecb576c7bedce0ead4",
-        "icono": "AGREGAR LOGO"
-      },
-      {
-        "name": "WOBI",
-        "uri": "https://cdn.cvattv.com.ar/live/c6eds/WOBI/SA_Live_dash_enc/WOBI.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f2e44a719947ebfe37de527a9d6df71e&key=029bddeb08909dd66a80276fc338d692",
-        "icono": "https://git.io/JOTY3"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/sun.png"
       }
     ]
   },
@@ -1484,33 +1455,33 @@
       {
         "name": "TL NOVELAS",
         "uri" : "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
-        "icono": "https://github.com/portedev/algo/releases/download/N0v3l4ss/Tln0v3l4s.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/tlnovelas.png"
       },
       {
         "name": "CANAL DE LAS ESTRELLAS",
         "uri" : "https://cdn.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc/Canal_de_las_estrellas.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=b37d85be9d2b4b619f945beff713fda3&key%5B%5D=917309c98f072b0bd484dd6560c6d166",
-        "icono": "https://github.com/portedev/algo/releases/download/N0v3l4ss/C4n4l.d3.l4s.Estr3ll4s.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/estrellas.png"
       },
       {
         "name": "TNT NOVELAS",
         "uri" : "https://cdn.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=49a0179b034ae899cb67d8a5834181aa&key%5B%5D=486e2c6d69adea7e17f2960e8e366612",
-        "icono": "https://github.com/portedev/algo/releases/download/C1n3S3r13s/tnt.N0v3l4s.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/tntnovelas.png"
       },
       {
         "name": "PASIONES",
         "uri" : "https://cdn.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc/Pasiones.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=d41cf825e878f0d8e276218af7f5b7e1&key%5B%5D=13d1b73ab578ab8623be9347bcf8972a",
-        "icono": "https://github.com/portedev/algo/releases/download/N0v3l4ss/P4s10n3s.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/pasiones.webp"
       },
       {
         "name": "TELEMUNDO",
         "uri": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8",
-        "icono": "https://github.com/portedev/algo/releases/download/N0v3l4ss/T3l3mund0.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/telemundo.png"
       },
       {
         "name": "VIVE KANAL D DRAMA",
@@ -1559,28 +1530,28 @@
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc/Vorterix.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=eabe2c22350c26c7f0ad84b34932f08d&key=39fa06836ec0f81d8dd9b6e01a3070e3",
-        "icono": "https://github.com/portedev/algo/releases/download/Muus1c44ss/v0rt3r1x.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/v0rt3r1x.png"
       },
       {
         "name": "Q MUSICA",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a354b0c82a3a720c4a6f52ed5a1190f4&key=45a76dcc84f058cfabc8b958d7303b28",
-        "icono": "https://github.com/portedev/algo/releases/download/Muus1c44ss/qmus1c.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/qmus1c.png"
       },
       {
         "name": "CM MUSIC",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc/CM.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=682f36b5736f4560951ca14b80d29524&key=3accb729067a39b3b8143f1b447b9d25",
-        "icono": "https://github.com/portedev/algo/releases/download/Muus1c44ss/cm.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/0cm.png"
       },
       {
         "name": "HTV",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc/HTV.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=daecef5fe32f4ce083c6a0c692755d6a&key=d4227f24389a9ba77293214b93eb0d7d",
-        "icono": "https://github.com/portedev/algo/releases/download/Muus1c44ss/htv.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/htv.png"
       },
       {
         "name": "FLOW MUSIC 1",
@@ -1807,14 +1778,14 @@
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/CANAL_LUZ/SA_Live_dash_enc/CANAL_LUZ.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f7523ea5a2da78c465d928be1d81e2a5&key=870ad69e98abd52b443bd8f0204b3bc4",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/5/50/Canal_Luz_actual.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/luz.png"
       },
       {
         "name": "EWTN",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/EWTN/SA_Live_dash_enc/EWTN.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=07df3c48652a431ab779d133f085b799&key=ee2fbeec1ecdffa5617383f684dfda0e",
-        "icono": "http://78.47.174.211/logos/ewtn.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/ewtn.png"
       }
     ]
   },
@@ -1989,95 +1960,95 @@
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_enc/Telemundo_HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=53d752e4649dadd808d913985f86ee77&key=d1fd24db1b61d634cabfc44538ce9b0e",
-        "icono": "https://github.com/portedev/algo/releases/download/N0v3l4ss/T3l3mund0.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/telemundo.png"
       },
       {
         "name": "BBC WORLD NEWS",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/BBC_World_News/SA_Live_dash_enc/BBC_World_News.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=019f72f2091d4cbea59ff8c85b117f86&key=a4eac51195506752f9f63ad24def9c37",
-        "icono": "https://github.com/portedev/algo/releases/download/Int3rn4c10n4ll/BBC.wn.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/BBC.wn.png"
       },
       {
         "name": "BLOOMBERG",
         "uri": "https://cdn.cvattv.com.ar/live/c3eds/Bloomberg/SA_Live_dash_enc/Bloomberg.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1e50891cdc64452aae20d049727f2f3f&key=551871ba1dc6a95597ec0cb82eb3b2a4",
-        "icono": "https://github.com/portedev/algo/releases/download/Int3rn4c10n4ll/Bl00mb3rg.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/Bl00mb3rg.png"
       },
       {
         "name": "RAI",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/RAI/SA_Live_dash_enc/RAI.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d214547d7d9a4011a39a899ce6e70071&key=16c2ed0617cf1e123f3af6ea8875a82d",
-        "icono": "https://github.com/portedev/algo/releases/download/Int3rn4c10n4ll/r41.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/r41.png"
       },
       {
         "name": "TELESUR",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/Telesur/SA_Live_dash_enc/Telesur.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5235d8ee29f14ce6b26ea5d828aee77a&key=6bf6bd339e3098babc2ab0b984cd2376",
-        "icono": "https://github.com/portedev/algo/releases/download/Int3rn4c10n4ll/Tel3sur.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/Tel3sur.png"
       },
       {
         "name": "TV CHILE",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc/Tv_Chile.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c5d0d76e24844235988f9265619e5fec&key=446b71a6deb806c6f129e25de999d07c",
-        "icono": "https://github.com/portedev/algo/releases/download/Int3rn4c10n4ll/tvch1l3.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/tvch1l3.png"
       },
       {
         "name": "ANTENA 3",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc/Antena_3.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1e1ad422a6714482b66fa702c16e50c6&key=4fdf28a0ab91356ca55a75f4e9bf8c92",
-        "icono": "https://github.com/portedev/algo/releases/download/Int3rn4c10n4ll/ant3n43.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/ant3n43.png"
       },
       {
         "name": "TV5 MONDE",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/TV5_Monde/SA_Live_dash_enc/TV5_Monde.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=62034ff5988b4787b17cdf6f751a3142&key=b3938f0af28b4c0c082b0d4210e389a0",
-        "icono": "https://github.com/portedev/algo/releases/download/Int3rn4c10n4ll/tv5.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/tv5.png"
       },
       {
         "name": "DW",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/DW/SA_Live_dash_enc/DW.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e21fc12c6ee185fbc90a052b05026be9&key=0f96fd52903707aac0b42853a043ffd0",
-        "icono": "https://github.com/portedev/algo/releases/download/Int3rn4c10n4ll/dw.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/dw.png"
       },
       {
         "name": "EURONEWS",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/Euronews/SA_Live_dash_enc/Euronews.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d86b0f56d32f45adb0a6b4e488c8f0c2&key=e4f180b0e61be3e80ab602df5e56ff3f",
-        "icono": "https://github.com/portedev/algo/releases/download/Int3rn4c10n4ll/eur0n3ws.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/eur0n3ws.png"
       },
       {
         "name": "TELEMUNDO PR",
         "uri": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8",
-        "icono": "https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/telemundo.png"
       },
       {
         "name": "TELEMUNDO TX",
         "uri": "https://d1rqgw5gocwo9i.cloudfront.net/10009/88886036/hls/playlist.m3u8?ads.xumo_channelId=99951226",
-        "icono": "https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/telemundo.png"
       },
       {
         "name": "TELEMUNDO FL",
         "uri": "https://d1rqgw5gocwo9i.cloudfront.net/10009/88886036/hls/playlist.m3u8?ads.xumo_channelId=99951227",
-        "icono": "https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/telemundo.png"
       },
       {
         "name": "TELEMUNDO NE",
         "uri": "https://d1rqgw5gocwo9i.cloudfront.net/10009/88886036/hls/playlist.m3u8?ads.xumo_channelId=99951228",
-        "icono": "https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/telemundo.png"
       },
       {
         "name": "TELEMUNDO CA",
         "uri": "https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE",
-        "icono": "https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/telemundo.png"
       },
       {
         "name": "AZTECA INTERNACIONAL",
@@ -2156,7 +2127,7 @@
       {
         "name": "DW ESPAÑOL",
         "uri": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
-        "icono": "https://i.postimg.cc/rmvHqgHW/1280px-Deutsche-Welle-symbol-2012-svg.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/dw.png"
       },
       {
         "name": "CNNE",
@@ -2291,7 +2262,7 @@
       {
         "name": "REAL MADRID TV",
         "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:27_HD.smil/manifest.mpd",
-        "icono": "https://i.postimg.cc/cLHVRCXJ/Real-Madrid-TV-English.jpg"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/realmadrid.png"
       }
     ]
   },
@@ -2505,7 +2476,7 @@
       {
         "name": "RedADvenir Bolivia",
         "uri": "https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w1976177922.m3u8",
-        "icono": "https://redadvenir.org/redadvenir/images/logo.png"
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/redavenir.webp"
       },
       {
         "name": "Bolivia Tv",
@@ -2541,731 +2512,6 @@
         "name": "RCN MÁS",
         "uri": "https://rcntv-rcnmas-1-us.canelatv.wurl.tv/playlist.m3u8",
         "icono": "https://i.ibb.co/fpc8vgQ/rcn-m-s.png"
-      }
-    ]
-  },
-  {
-    "name": "\uD83D\uDCFA CANALES 24/7 ANIME",
-    "samples": [
-      {
-        "name": "DIGIMON",
-        "uri": "https://gtechtecnologia.com/telelatino/play/129.m3u8",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m3/Digimon.png"
-      },
-      {
-        "name": "DRAGON BALL SUPER",
-        "uri": "https://gtechtecnologia.com/telelatino/play/191.m3u8",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m3/Dragon.ball.Super.png"
-      }
-    ]
-  },
-  {
-    "name": "\uD83D\uDCFA CANALES 24/7 INFANTILES",
-    "samples": [
-      {
-        "name": "LOS SIMPSONS OPC1",
-        "uri": "https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/the.simpsons.png"
-      },
-      {
-        "name": "LOS SIMPSONS OPC2",
-        "uri": "http://newultra.xyz:8080/34tehu87se24ma97/m37me65wu93m/769",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/The.simpsons.dual.png"
-      },
-      {
-        "name": "LOS SIMPSONS OPC3",
-        "uri": "http://newultra.xyz:8080/34tehu87se24ma97/m37me65wu93m/790",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/L0s.Simps0n.burns.png"
-      },
-      {
-        "name": "LOS SIMPSONS OPC4",
-        "uri": "http://fastream.xyz:8080/993300790tv/95ghr5/62400",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/L0s.Simps0n.Flanders.png"
-      },
-      {
-        "name": "LOS SIMPSONS OPC5",
-        "uri": "http://fastream.xyz:8080/993300790tv/95ghr5/62412",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/L0s.Simps0n.Homero.png"
-      },
-      {
-        "name": "LOS SIMPSONS OPC6",
-        "uri": "http://newultra.xyz:8080/34tehu87se24ma97/m37me65wu93m/791",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/L0s.Simps0n.Lisa.png"
-      },
-      {
-        "name": "LOS SIMPSONS OPC7",
-        "uri": "http://newultra.xyz:8080/34tehu87se24ma97/m37me65wu93m/793",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/L0s.Simps0n.Maguie.png"
-      },
-      {
-        "name": "LOS SIMPSONS OPC8",
-        "uri": "http://fastream.xyz:8080/efuxxrmayh/mqdsjpdtsh/62415",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/L0s.Simps0n.mama.Skinner.png"
-      },
-      {
-        "name": "LOS SIMPSONS OPC9",
-        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/34308",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/L0s.Simps0n.marchyhomero.png"
-      },
-      {
-        "name": "LOS SIMPSONS OPC10",
-        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/136246",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/L0s.Simps0n.Nelson.png"
-      },
-      {
-        "name": "EL CHAVO DEL 8 OPC1",
-        "uri": "https://gtechtecnologia.com/telelatino/play/150.m3u8",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/El.chavo.del.8.png"
-      },
-      {
-        "name": "EL CHAVO DEL 8 OPC2",
-        "uri": "http://home-playtv.com:8080/SiaFlores21/BSMRA/216295",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/El.chavo.del.8.png"
-      },
-      {
-        "name": "EL CHAVO DEL 8 OPC3",
-        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/129315",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/el.chavo.del.8.hq.2.png"
-      },
-      {
-        "name": "EL CHAVO DEL 8 ANIMADO",
-        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/131452",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/ch4v0An1m4d0.png"
-      },
-      {
-        "name": "EL CHAPULIN COLORADO",
-        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/129323",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/chapulin.png"
-      },
-      {
-        "name": "EL CHAPULIN COLORADO ANIMADO",
-        "uri": "https://gtechtecnologia.com/telelatino/play/113.m3u8",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/chapulin.animado.png"
-      },
-      {
-        "name": "CHESPIRITO OPC1",
-        "uri": "https://gtechtecnologia.com/telelatino/play/355.m3u8",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/Ch3spirit0.png"
-      },
-      {
-        "name": "CHESPIRITO OPC2",
-        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/129322",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/Ch3spirit0.png"
-      },
-      {
-        "name": "BOB ESPONJA OPC1",
-        "uri": "https://gtechtecnologia.com/telelatino/play/404.m3u8",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/bob.esponja.png"
-      },
-      {
-        "name": "BOB ESPONJA OPC2",
-        "uri": "http://51.159.104.29:8080/bobesponja/index.m3u8",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/bob.esponja.png"
-      },
-      {
-        "name": "LOS PITUFOS OPC1",
-        "uri": "https://gtechtecnologia.com/telelatino/play/329.m3u8",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/Pitufos.png"
-      },
-      {
-        "name": "LOS PITUFOS OPC2",
-        "uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4368",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/Pitufos.png"
-      },
-      {
-        "name": "CORRECAMINOS OPC1",
-        "uri": "https://gtechtecnologia.com/telelatino/play/357.m3u8",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/C0y0t3C0rre.png"
-      },
-      {
-        "name": "CORRECAMINOS OPC2",
-        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/138472",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/C0y0t3C0rre.png"
-      },
-      {
-        "name": "FUTURAMA OPC1",
-        "uri": "https://gtechtecnologia.com/telelatino/play/166.m3u8",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/futurama.png"
-      },
-      {
-        "name": "FUTURAMA OPC2",
-        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/61833",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/futurama.png"
-      },
-      {
-        "name": "LONEY TOONS",
-        "uri": "https://gtechtecnologia.com/telelatino/play/255.m3u8",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/Looney.Toons.png"
-      },
-      {
-        "name": "ALF",
-        "uri": "https://gtechtecnologia.com/telelatino/play/128.m3u8",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/alf.png"
-      },
-      {
-        "name": "MALCOM",
-        "uri": "http://51.159.104.29:8080/malcom/index.m3u8",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/Malcolm-in-the-Middle.png"
-      },
-      {
-        "name": "BEN 10 OPC1",
-        "uri": "http://51.159.104.29:8080/ben10/index.m3u8",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/ben10.png"
-      },
-      {
-        "name": "BEN 10 OPC2",
-        "uri": "https://gtechtecnologia.com/telelatino/play/354.m3u8",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/ben10.png"
-      },
-      {
-        "name": "ANIMANIACS",
-        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/129354",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/animaniacs.png"
-      },
-      {
-        "name": "ARNOLD",
-        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/62380",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/arnold.png"
-      },
-      {
-        "name": "BARNEY",
-        "uri": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff29882-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=daaec956-b0c6-4701-a551-d3b7bab3a563&userId=&serverSideAds=true",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/B4n3y.png"
-      },
-      {
-        "name": "BRICKLEBERRY",
-        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/23134",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/Brickleberry.png"
-      },
-      {
-        "name": "CAILLOU",
-        "uri": "https://dhx-caillou-1-es.samsung.wurl.tv/playlist.m3u8",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/calli0u.png"
-      },
-      {
-        "name": "CHIQUITITAS",
-        "uri": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620e67a63b5e370007e06bb2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/chiquititas.png"
-      },
-      {
-        "name": "DINOSAURIOS",
-        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/129314",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/D1n0s4ur10.png"
-      },
-      {
-        "name": "DON GATO",
-        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/65854",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/dongato.png"
-      },
-      {
-        "name": "DRAGONES DE BERCK",
-        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/63372",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/Dragones.png"
-      },
-      {
-        "name": "EL ESPECTACULAR HOMBRE ARAÑA",
-        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/129362",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/sp1d3rEspectacular.png"
-      },
-      {
-        "name": "EL LABORATORIA DE DEXTER",
-        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/65925",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/dexter.png"
-      },
-      {
-        "name": "EL LAGARTO JUANCHO",
-        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/66820",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/lagarto.png"
-      },
-      {
-        "name": "PEQUEÑA LULU",
-        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/129343",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/P3qu3n4Lulu.png"
-      },
-      {
-        "name": "GASPARIN Y SUS AMIGOS",
-        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/138456",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/G4sp4r1n.png"
-      },
-      {
-        "name": "GUARDIANES DE LA GALAXIA ANIMADO",
-        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/70813",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/guardianes.png"
-      },
-      {
-        "name": "ICARLY",
-        "uri": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/icarly.png"
-      },
-      {
-        "name": "LA PANTERA ROSA",
-        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/129347",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/panterarosa.png"
-      },
-      {
-        "name": "LAS MEJORES ANIMACIONES",
-        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/129341",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/M3j0r3sAn1m4c10n3s.png"
-      },
-      {
-        "name": "LAS PISTAS DE BLUE",
-        "uri": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49450-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2dab1e46-b757-41f4-af9a-7a988974b383&userId=&serverSideAds=true",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/pistasdeblu.png"
-      },
-      {
-        "name": "LAS TORTUGAS NINJAS",
-        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/65934",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/tortugas.png"
-      },
-      {
-        "name": "LILO Y STICH",
-        "uri": "https://cloudvideo.servers10.com:8081/impactotv/index.m3u8",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/liloystitch.png"
-      },
-      {
-        "name": "LOS VENGADORES UNIDOS",
-        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/70815",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/vengadoresuni.png"
-      },
-      {
-        "name": "MAZINGER Z",
-        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/66397",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/mazinger.png"
-      },
-      {
-        "name": "METEORO",
-        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/66200",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/Meteoro.png"
-      },
-      {
-        "name": "MR BEAN",
-        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/3391",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/mrbean.png"
-      },
-      {
-        "name": "MR BEAN ANIMADO",
-        "uri": "http://51.159.104.29:8080/mrbean/index.m3u8",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/mr.b3an.Anim.png"
-      },
-      {
-        "name": "MI PEQUEÑO PONY",
-        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/61808",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/pony.png"
-      },
-      {
-        "name": "PADRE DE FAMILIA",
-        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/3406",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/family.guy.dual.png"
-      },
-      {
-        "name": "PARADISE PD",
-        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/46105",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/paradisepd.png"
-      },
-      {
-        "name": "PATO AVENTURAS",
-        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/53178",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/patoaventuras2.png"
-      },
-      {
-        "name": "PAW PATROL",
-        "uri": "http://abcnew.site:8880/movie/DAALM2523/ZASc5gv9pd/36391.mp4",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/paq.patrol.png"
-      },
-      {
-        "name": "PEPE LE PEW",
-        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/64878",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/pepe.png"
-      },
-      {
-        "name": "PEPPA PIG OPC1",
-        "uri": "http://51.159.104.29:8080/pepapig/index.m3u8",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/Peppa.Pig.png"
-      },
-      {
-        "name": "PEPPA PIG OPC2",
-        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/23293",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/Peppa.Pig.png"
-      },
-      {
-        "name": "PLAZA SESAMO",
-        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/62307",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/plazase.png"
-      },
-      {
-        "name": "PLIM PLIM OPC1",
-        "uri": "http://200.59.188.3:8000/play/a091",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/plimpl1m.png"
-      },
-      {
-        "name": "PLIM PLIM OPC2",
-        "uri": "http://38.41.8.1:8000/play/a0b2",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/plimpl1m.png"
-      },
-      {
-        "name": "POCOYO",
-        "uri": "http://fastream.xyz:8080/efuxxrmayh/mqdsjpdtsh/62437",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/pocoyo.png"
-      },
-      {
-        "name": "POPEYE EL MARINO",
-        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/66307",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/popeye.el.marino.png"
-      },
-      {
-        "name": "RICKY ZOOM",
-        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/61810",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/rickizzoom.png"
-      },
-      {
-        "name": "RINCON DE LUZ",
-        "uri": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63f6294449839300085c4bd2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/rincondeluz.png"
-      },
-      {
-        "name": "SCOOBY DOO OPC1",
-        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/23297",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/scooby.png"
-      },
-      {
-        "name": "SCOOBY DOO OPC2",
-        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/3385",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/scooby.png"
-      },
-      {
-        "name": "SONIC Y SU BANDA",
-        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/129385",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/sonic.png"
-      },
-      {
-        "name": "SOUTH PARK",
-        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/129318",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/South.Park.png"
-      },
-      {
-        "name": "SUPER MARIO BROSS 3",
-        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/23286",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/mario.png"
-      },
-      {
-        "name": "TIMON Y PUMBA",
-        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/70816",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/timon.y.pumba.png"
-      },
-      {
-        "name": "TOM Y JERRY",
-        "uri": "http://newultra.xyz:8080/34tehu87se24ma97/m37me65wu93m/774",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/Tom.y.Jerry.png"
-      },
-      {
-        "name": "X-MEN",
-        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/129386",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/x-men.1992.png"
-      },
-      {
-        "name": "ZIG Y SHARKO",
-        "uri": "http://tv.soccerplus.link:8000/joselynmora/4xHcmOhyHU/62332",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/zing.shark.png"
-      },
-      {
-        "name": "RETRO CARTOONS",
-        "uri": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/retro.cartoon.png"
-      },
-      {
-        "name": "RUGRATS",
-        "uri": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22355-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d4d35c3c-b9bc-4c57-92f3-6ec7da17e471&userId=&serverSideAds=true",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/rugrats.png"
-      },
-      {
-        "name": "LOS PADRINOS MAGICOS",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6322099c822bbc00074857db/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/padrinos.magicos.png"
-      }
-    ]
-  },
-  {
-    "name": "\uD83D\uDCFA CANALES 24/7",
-    "samples": [
-      {
-        "name": "MARVEL PELICULAS",
-        "uri": "http://00322.xyz:8000/pedrogilsanchez/ZPEU4AW/138462",
-        "icono": "https://github.com/portedev/algo/releases/download/247An1m4d0.Pl4t3ad0/M4rv3l.png"
-      },
-      {
-        "name": "Canela Horror",
-        "uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029",
-        "icono": "https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/square/366x206/bba9b402-channel-canela_horror-7x10.jpg"
-      },
-      {
-        "name": "HORRORFY ",
-        "uri": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/playlist.m3u8",
-        "icono": "https://i.ibb.co/YRw9FtR/freetv-horror-1080x1080-02092024.jpg"
-      },
-      {
-        "name": "RETRO CINEMA",
-        "uri": "http://srv5.zcast.com.br/retrocinema/retrocinema/playlist.m3u8",
-        "icono": "https://i.ibb.co/Qfcz0zX/cine-retro-genial.png"
-      },
-      {
-        "name": "AZ CINEMA",
-        "uri": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/640px-TV_Azteca_Cinema_logo.svg.png"
-      },
-      {
-        "name": "GRJNGO ",
-        "uri": "https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8",
-        "icono": "https://i.ibb.co/t2w7vtK/grjngo.png"
-      },
-      {
-        "name": "CINEMA+",
-        "uri": "https://byecableiptvnew3.ddns.net:443/ENVIVOCINEMA/index.m3u8",
-        "icono": "https://i.ibb.co/BzKsrjT/cinema.png"
-      },
-      {
-        "name": "FREETV ",
-        "uri": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/playlist.m3u8",
-        "icono": "https://i.ibb.co/wJrx9sp/freetv-live-1080x1080-02092024.jpg"
-      },
-      {
-        "name": "JUNTOS ",
-        "uri": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-distro/playlist.m3u8",
-        "icono": "https://i.ibb.co/RPvh6kh/freetv-familia-1080x1080-02092024.jpg"
-      },
-      {
-        "name": "CINE REAL ",
-        "uri": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereal-distro/playlist.m3u8",
-        "icono": "https://assets.cdn.olympusat.com/wp-content/uploads/2020/05/cinereal.png"
-      },
-      {
-        "name": "CINE SUREÑO ",
-        "uri": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-distro/playlist.m3u8",
-        "icono": "https://i.ibb.co/dk02QfH/Cine-Surreno.png"
-      },
-      {
-        "name": "ROMANCE CHANNEL ",
-        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/manifest.m3u8",
-        "icono": "https://i.ibb.co/r2QS9D3/romance-channel-latam.png"
-      },
-      {
-        "name": "RAKUTEN FAMILY",
-        "icono": "https://yt3.googleusercontent.com/ADq9aOWry6U7Jy3wKni0wCVs8X8PHoOPZeLl9-Z1iPivdpF6ZrCTpZTY--VZ6zxsyvcSOA22=s900-c-k-c0x00ffffff-no-rj",
-        "uri": "https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8"
-      },
-      {
-        "name": "RAKUTEN MYTIMES",
-        "icono": "https://yt3.googleusercontent.com/ADq9aOWry6U7Jy3wKni0wCVs8X8PHoOPZeLl9-Z1iPivdpF6ZrCTpZTY--VZ6zxsyvcSOA22=s900-c-k-c0x00ffffff-no-rj",
-        "uri": "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "name": "\uD83D\uDCFA PLUTO TV",
-    "samples": [
-      {
-        "name": "Pluto TV True Crime",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/64a3f200f238ce0008d47247/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2ff20d24-6a9e-11ee-a821-4ea4c460a3db1",
-        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
-      },
-      {
-        "name": "Pluto TV Star Trek",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/619b7db4872c650008eb8b6a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2ff20d24-6a9e-11ee-a821-4ea4c460a3db1",
-        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
-      },
-      {
-        "name": "Doctor Who",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60d3574e97f10800078455de/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2ff20d24-6a9e-11ee-a821-4ea4c460a3db1",
-        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
-      },
-      {
-        "name": "Sensación de Vivir (90210)",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6245c2a5eec07b0007249fc8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2ff20d24-6a9e-11ee-a821-4ea4c460a3db1",
-        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
-      },
-      {
-        "name": "Melrose Place",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6245c03922d9d4000760d205/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2ff20d24-6a9e-11ee-a821-4ea4c460a3db1",
-        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
-      },
-      {
-        "name": "Pluto TV Telenovelas",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60b4c06717da110007ee1af6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
-      },
-      {
-        "name": "Pluto TV K-Drama",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6475bfec536e0c0008858e9f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
-      },
-      {
-        "name": "BBC Drama",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
-      },
-      {
-        "name": "Andrómeda",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1acc3e061597000768d4ea/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
-      },
-      {
-        "name": "Pluto TV Series Comedia",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f9853138d19af0007104a8d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
-      },
-      {
-        "name": "Pluto TV Series",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1ac8f49205650007bc15f1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
-      },
-      {
-        "name": "Pluto TV Cine Estelar",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
-      },
-      {
-        "name": "Pluto TV Cine Acción",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
-      },
-      {
-        "name": "Pluto TV Horror",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6267d4d1fb694f0007a6af0e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
-      },
-      {
-        "name": "Pluto TV Sci-Fi",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
-      },
-      {
-        "name": "Pluto TV Cine Comedia",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1ac8099c49f600076579b2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
-      },
-      {
-        "name": "Pluto TV Western",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6385e82900ab2e000768a058/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
-      },
-      {
-        "name": "Pluto TV Cine Romántico",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1ac9a2d3611d0007a844bb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
-      },
-      {
-        "name": "Pluto TV Thrillers",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1ac8a87cd38d000745d7cf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
-      },
-      {
-        "name": "Pluto TV Cine Drama",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
-      },
-      {
-        "name": "Pluto TV Cine de autor",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60cc807324d60a0007708dc8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
-      },
-      {
-        "name": "Runtime",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6086d3f420fc8500075f8dbf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
-      },
-      {
-        "name": "Runtime Acción",
-        "uri": "https://d10po0m73eydog.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9veh3t1iih14b/ra_es.m3u8",
-        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
-      },
-      {
-        "name": "Runtime Comedia",
-        "uri": "https://d1w4lf3ohil0ad.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fgcph1khrr3ct/rc_es.m3u8",
-        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
-      },
-      {
-        "name": "Runtime Romance",
-        "uri": "https://d3c5d9v98rks92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c7xudvnfq7skl/rr_es.m3u8",
-        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
-      },
-      {
-        "name": "Pluto TV Catástrofes",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/645a309c5a0cd5000873f609/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
-      },
-      {
-        "name": "Archivos Forenses",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f984f4a09e92d0007d74647/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
-      },
-      {
-        "name": "Los nuevos detectives",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1acba0d1f6340007db8843/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
-      },
-      {
-        "name": "Los archivos del FBI",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1acbed25948a0007ffbe65/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
-      },
-      {
-        "name": "Pluto TV Paranormal",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/612ce5214bb5790007ad3016/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
-      },
-      {
-        "name": "Pluto TV True Crime",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/64a3f200f238ce0008d47247/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
-      },
-      {
-        "name": "Cazador de Homicidas",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/60ed5fb9c4716d0007d180c5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
-      },
-      {
-        "name": "El Detective Endeavour",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/619b9f16b8fee4000832d447/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
-      },
-      {
-        "name": "Asesinatos de Midsomer",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1aca8310a30e00074fab92/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
-      },
-      {
-        "name": "Poirot & Miss Marple",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/6304f530440dc90007f514d3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
-      },
-      {
-        "name": "Comedia made in Spain",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1abce155a03d0007718834/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
-      },
-      {
-        "name": "Ana y los 7",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1acce7f17797000718f9be/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
-      },
-      {
-        "name": "Curro Jiménez",
-        "uri": "https://stitcher.pluto.tv/stitch/hls/channel/5f1acd36779de70007a680d1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1",
-        "icono": "https://i.ibb.co/YZsSMDy/1702583160314673-0.jpg"
-      }
-    ]
-  },
-  {
-    "name": "\uD83C\uDFA5 PELICULAS",
-    "samples": [
-      {
-        "name": "SONIC 3 (2024) HDTS",
-        "uri": "https://1a-1791.com/video/fwe1/8f/s8/2/n/2/U/b/n2Ubw.aaa.mp4",
-        "icono": "https://image.tmdb.org/t/p/w300/vxMeUZ46wMYijcPSYxPCrD1ZHgx.jpg"
-      },
-      {
-        "name": "MOANA 2 (2024) HDTS",
-        "uri": "https://1a-1791.com/video/s8/2/_/2/Q/c/_2Qcv.aaa.mp4",
-        "icono": "https://image.tmdb.org/t/p/w300/khwDcPYD5xo6B8404mGGe6pYWtI.jpg"
       }
     ]
   }
