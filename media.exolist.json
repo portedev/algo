@@ -134,6 +134,27 @@
         "icono": "https://github.com/portedev/algo/releases/download/nadav1/v0lv3r.png"
       },
       {
+        "name": "CANAL A",
+        "uri": "https://cdn.cvattv.com.ar/live/c6eds/Canal_a/SA_Live_dash_enc/Canal_a.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=324ec73787744554ae1aef231a4f8f97&key=677a040674d1d0eccef327269b222bae",
+        "icono": "https://2.bp.blogspot.com/-Qt2mjUh2TJ0/W3HqV99lVtI/AAAAAAAAXZE/jbqehkicYhAtiKy6IotwRFuo9OT3InafgCLcBGAs/s1600/Logo_canal_a.png"
+      },
+      {
+        "name": "METRO",
+        "uri" : "https://cdn.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_enc/Metro.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=719aa3a5e270c7f69eba374ed80d7986&key=97ac59118cf4cf242e2c31e87cd38e1e",
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/metro.png"
+      },
+      {
+        "name": "KZO ENTERTAINMENT",
+        "uri": "https://cdn.cvattv.com.ar/live/c6eds/KZO/SA_Live_dash_enc/KZO.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=695d07988114f7fec31f8f27a6d67c32&key=8e4fbb96cff6a31c88f81565b199a13a",
+        "icono": "https://i.ibb.co/GWyrYZY/kzo.png"
+      },
+      {
         "name": "ENCUENTRO",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc/Encuentro.mpd",
         "drm_scheme": "clearkey",
@@ -1126,13 +1147,6 @@
         "icono": "https://github.com/portedev/algo/releases/download/nadav1/cinear.png"
       },
       {
-        "name": "METRO",
-        "uri" : "https://cdn.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_enc/Metro.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=719aa3a5e270c7f69eba374ed80d7986&key=97ac59118cf4cf242e2c31e87cd38e1e",
-        "icono": "https://github.com/portedev/algo/releases/download/nadav1/metro.png"
-      },
-      {
         "name": "STAR CHANNEL",
         "uri" : "https://cdn.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd",
         "drm_scheme": "clearkey",
@@ -1432,14 +1446,7 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=43bc6a87ee4f21aa320ba00b980a6fd8&key=bd55130539a30faa1d90b3142eebe0b2",
         "icono": "https://github.com/portedev/algo/releases/download/nadav1/hgtv.png"
-      },
-      {
-        "name": "CANAL A",
-        "uri": "https://cdn.cvattv.com.ar/live/c6eds/Canal_a/SA_Live_dash_enc/Canal_a.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=324ec73787744554ae1aef231a4f8f97&key=677a040674d1d0eccef327269b222bae",
-        "icono": "https://2.bp.blogspot.com/-Qt2mjUh2TJ0/W3HqV99lVtI/AAAAAAAAXZE/jbqehkicYhAtiKy6IotwRFuo9OT3InafgCLcBGAs/s1600/Logo_canal_a.png"
-      },
+      },      
       {
         "name": "SUN CHANNEL",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc/Sun_Channel.mpd",
@@ -1900,13 +1907,6 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5d759477f0ad1bdef2c6de09e7c275fd&key=82cc6eea185eecc934df95adfbbf9dbc",
         "icono": "https://i.ibb.co/HKpkn0x/holatv.png"
-      },
-      {
-        "name": "KZO ENTERTAINMENT",
-        "uri": "https://cdn.cvattv.com.ar/live/c6eds/KZO/SA_Live_dash_enc/KZO.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=695d07988114f7fec31f8f27a6d67c32&key=8e4fbb96cff6a31c88f81565b199a13a",
-        "icono": "https://i.ibb.co/GWyrYZY/kzo.png"
       },
       {
         "name": "MAS CHIC",
