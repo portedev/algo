@@ -302,13 +302,6 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/1/13/Telefe_Salta_%282018%29.png"
       },
       {
-        "name": "CANAL 12 CORDOBA",
-        "uri": "https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_12_CBA.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=90422640d3e846159fa450f83870ed4a&key=abb3cd94aece1a462df25a8f21085cca",
-        "icono": "https://i.ibb.co/60sFBfY/og-image.jpg"
-      },
-      {
         "name": "CANAL 10 CORDOBA",
         "uri": "https://cdn.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_Live_dash_enc/Canal10_CBA_HD.mpd",
         "drm_scheme": "clearkey",
