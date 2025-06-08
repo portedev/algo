@@ -1214,42 +1214,42 @@
         "uri" : "https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc/Universal_Channel_HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6cf9a13d6fd65a0f2e1cee3969aab9f5&key=ea61c3c1adee71b5c2e9744e41d4b75f",
-        "icono": "https://github.com/portedev/algo/releases/download/nadav1/unitv.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/un1v3rs4l.png"
       },
       {
         "name": "UNIVERSAL COMEDY",
         "uri": "http://cdn.cvattv.com.ar/live/c6eds/Universal_Comedy/SA_Live_dash_enc/Universal_Comedy.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=062c5d25105a3a935b67e36923c73f28&key=88c2d4cec420f18d2477152c66c7870d",
-        "icono": "https://github.com/portedev/algo/releases/download/nadav1/universalcomedy.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/un1v3rs4lC0m3dy.png"
       },
       {
         "name": "UNIVERSAL CINEMA",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_cenc/Universal_Cinema.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f6ae2e17173055e4ca69dc18963406ae&key=5a955c29eb88a0b4c9a2538cc4b3aea2",
-        "icono": "https://github.com/portedev/algo/releases/download/nadav1/universalcinema.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/un1v3rs4lC1n3m4.png"
       },
       {
         "name": "UNIVERSAL CRIME",
         "uri": "http://cdn.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_enc/universal_Crime.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1efd7edf60e1514f775dd13d046ae708&key=c2ef1abbd945c62c11b1375eaaa50f0d",
-        "icono": "https://github.com/portedev/algo/releases/download/nadav1/universalcrime.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/un1v3rs4lCrim3.png"
       },
       {
         "name": "UNIVERSAL PREMIERE",
         "uri": "http://cdn.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc/Universal_Premiere.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0eb20b51ad13b58ad417f11318e588b3&key=ad5d29a33d73d21187157802de8e6097",
-        "icono": "https://github.com/portedev/algo/releases/download/nadav1/universalpremiere.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/un1v3rs4lPr3mi3r3.png"
       },
       {
         "name": "UNIVERSAL REALITY",
         "uri": "http://cdn.cvattv.com.ar/live/c6eds/Universal_Reality/SA_Live_dash_enc/Universal_Reality.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cedd9c1a5c2ae43f80ee3197212016d6&key=bf47a3c39e164a97ea6adc4c8dd57435",
-        "icono": "https://github.com/portedev/algo/releases/download/nadav1/universalreality.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/un1v3rs4lRe4lity.png"
       }
     ]
   },
