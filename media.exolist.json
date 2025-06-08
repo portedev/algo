@@ -17,11 +17,25 @@
         "icono": "https://github.com/portedev/algo/releases/download/nadav1/Telefe.ar.png"
       },
       {
+        "name": "TELEFE INTERNACIONAL",
+        "uri" : "https://cdn.cvattv.com.ar/live/c4eds/Telefe_Internacional/SA_Live_dash_enc/Telefe_Internacional.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc0abcc84ec380cfc192b96d32abad23&key=9b7825385b89ff82d01909a4ae404877",
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/telefeInter.png"
+      },
+      {
         "name": "EL TRECE",
         "uri": "https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5179017f49326d14af0a9ceec831aee6&key=09b4a463b029ebc28a288bed2da70a76",
         "icono": "https://github.com/portedev/algo/releases/download/nadav1/eltrece.webp"
+      },
+      {
+        "name": "EL TRECE INTERNACIONAL",
+        "uri" : "https://cdn.cvattv.com.ar/live/c6eds/Artear_Internacional/SA_Live_dash_enc/Artear_Internacional.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5bd469f8bf268d5d148c3971c7c23fca&key=9af98080d22846fdf2988b8ba9ec4add",
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/treceIntern.png"
       },
       {
         "name": "EL NUEVE",
@@ -101,6 +115,13 @@
         "icono": "https://github.com/portedev/algo/releases/download/nadav1/nettv.webp"
       },
       {
+        "name": "CANAL DE LA CIUDAD",
+        "uri" : "https://cdn.cvattv.com.ar/live/c6eds/Canal_de_la_ciudad/SA_Live_dash_enc/Canal_de_la_ciudad.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5ee7842b3cf24d1dba088365fa5d0543&key=69cec006409823c06fbf2866a231b4f7",
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/ciudad.png"
+      },
+      {
         "name": "ARGENTINISIMA",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd",
         "drm_scheme": "clearkey",
@@ -155,6 +176,13 @@
         "icono": "https://i.ibb.co/GWyrYZY/kzo.png"
       },
       {
+        "name": "DIPUTADOS TV",
+        "uri" : "https://cdn.cvattv.com.ar/live/c6eds/Diputados_TV/SA_Live_dash_enc_2A/Diputados_TV.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9666b195171442afd4551a8de01291a6&key=1c0061df9b4b098e40355167e97cfbf0",
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/diputad0s.png"
+      },
+      {
         "name": "ENCUENTRO",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc/Encuentro.mpd",
         "drm_scheme": "clearkey",
@@ -175,6 +203,125 @@
         "name": "CANAL 7 SALTA",
         "uri": "https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8",
         "icono": "https://canal7salta.com/wp-content/uploads/2017/08/cropped-cropped-LOGO-1.png"
+      },
+      {
+        "name": "SOMOS EL VALLE",
+        "uri" : "https://cdn.cvattv.com.ar/live/c4eds/Somos_El_Valle/SA_Live_dash_enc_C/Somos_El_Valle.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=513f2056bf40d9123918fd7939fbf065&key=075ee6dd9b67d88be5642eaa510e91cb",
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/somos.png"
+      },
+      {
+        "name": "SOMOS CORRIENTES",
+        "uri" : "https://cdn.cvattv.com.ar/live/c4eds/Somos_Corrientes/SA_Live_dash_enc/Somos_Corrientes.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f0179a4ba9f407dfdee057a33f8f220c&key=e0c3f11cb1d7f8d17b7a1532f29edb0b",
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/somos.png"
+      },
+      {
+        "name": "SOMOS LA PLATA",
+        "uri" : "https://cdn.cvattv.com.ar/live/c6eds/Somos_La_Plata/SA_Live_dash_enc/Somos_La_Plata.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bffd3b447aa44a429a703245836e46fa&key=13be31c0bcb76b28b1248bf64ab3926e",
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/somos.png"
+      },
+      {
+        "name": "SOMOS MAR DEL PLATA",
+        "uri" : "https://cdn.cvattv.com.ar/live/c4eds/Canal_Ciudad_MDQ/SA_Live_dash_enc/Canal_Ciudad_MDQ.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b57763b8d9c205d609ea509432201fac&key=a476cf79190fe4810efdd81e32317ff3",
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/somos.png"
+      },
+      {
+        "name": "SOMOS NORTE",
+        "uri" : "https://cdn.cvattv.com.ar/live/c6eds/Somos_Norte/SA_Live_dash_enc/Somos_Norte.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ee8a6cc35fdb4ab7adeed9d16593459f&key=5ca774838d5c887f7a8d7dee64b9a6b0",
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/somos.png"
+      },
+      {
+        "name": "SOMOS RAFAELA",
+        "uri" : "https://cdn.cvattv.com.ar/live/c4eds/Somos_Rafaela/SA_Live_dash_enc/Somos_Rafaela.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7071b5b3283cebd376d1ba9c6e53ba6e&key=87a6c4c8baaefb073270e92f092b4c25",
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/somos.png"
+      },
+      {
+        "name": "SOMOS ROSARIO",
+        "uri" : "https://cdn.cvattv.com.ar/live/c5eds/Somos_Rosario/SA_Live_dash_enc/Somos_Rosario.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=863ed7f26cf51850b9ed735545c788ce&key=789edf190d78baefb569e8ca09ac86c2",
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/somos.png"
+      },
+      {
+        "name": "SOMOS SALTA JUJUY",
+        "uri" : "https://cdn.cvattv.com.ar/live/c4eds/Somos_Salta/SA_Live_dash_enc/Somos_Salta.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9879546bcfd8a4231ce7502062f424fb&key=e071693afea3e58f8b28bf5b2311e3fc",
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/somos.png"
+      },
+      {
+        "name": "SOMOS SANTA FE",
+        "uri" : "https://cdn.cvattv.com.ar/live/c5eds/Somos_STF/SA_Live_dash_enc/Somos_STF.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1344e18e45e6e6e5ec0a302d769c8e52&key=913cfe90bb3af2d402eada6ad50ce22d",
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/somos.png"
+      },
+      {
+        "name": "CANAL C CORDOBA",
+        "uri" : "https://cdn.cvattv.com.ar/live/c5eds/Canal_C/SA_Live_dash_enc_C/Canal_C.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9a866ca98bef2351a68e4843139f8073&key=b0893077653d1ef842a1b65d8b34455a",
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/canalC.png"
+      },
+      {
+        "name": "CBA24N CORDOBA",
+        "uri" : "https://cdn.cvattv.com.ar/live/c4eds/CBA24/SA_Live_dash_enc_C/CBA24.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b93e6ce6b4fb51b890ac57d8c0b6a402&key=53eb2499d8c57cf6f9ea887c8683c591",
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/cba24n.png"
+      },
+      {
+        "name": "CANAL CARLOS PAZ",
+        "uri" : "https://cdn.cvattv.com.ar/live/c4eds/Local_Carlos_Paz/SA_Live_dash_enc_C/Local_Carlos_Paz.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7804609194dc7145bf297153276096d2&key=03d3f4e3d0b35362dadfddce10dee00c",
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/carlosPaz.png"
+      },
+      {
+        "name": "CANAL UNIVERSIDAD DE LA PLATA",
+        "uri" : "https://cdn.cvattv.com.ar/live/c3eds/Canal_Universidad/SA_Live_dash_enc_C/Canal_Universidad.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=93c40cee58a5f415828cc32d0c80d311&key=d00906d71ee69515cd4dca1162d5ae7f",
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/UNLP.png"
+      },
+      {
+        "name": "UCL",
+        "uri" : "https://cdn.cvattv.com.ar/live/c3eds/Canal_U/SA_Live_dash_enc_C/Canal_U.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=202a19e4871c4739a8010aa7b25af37d&key=07015b4cfa048a3351b83d60aeca5ead",
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/ucl.png"
+      },
+      {
+        "name": "CANAL 9 CHACO",
+        "uri" : "https://cdn.cvattv.com.ar/live/c4eds/CH_9_Resistencia/SA_Live_dash_enc/CH_9_Resistencia.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dde29700ee0423e1afe3828c6f251295&key=1928b62bc191bd26c357137d7d909868",
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/canal9resistencia.png"
+      },
+      {
+        "name": "CANAL 12 MISIONES",
+        "uri" : "https://cdn.cvattv.com.ar/live/c4eds/CH_12_Posadas/SA_Live_dash_enc/CH_12_Posadas.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9c996a1465acddc9c3f7a2dd9b86aa88&key=a2b63e48c99bebb52bfcdb1830efdd3e",
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/doceMisiones.png"
+      },
+      {
+        "name": "AMERICA TUCUMAN",
+        "uri" : "https://cdn.cvattv.com.ar/live/c7eds/America_Tucuman/SA_Live_dash_enc/America_Tucuman.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ed542fdaa4598671e26aca3e160afed7&key=cdb880c60523b9ebc61b9003c41f8048",
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/americaTucuman.png"
       },
       {
         "name": "CANAL 10 NORTE VISION SATELITAL",
@@ -365,6 +512,53 @@
     ]
   },
   {
+    "name": "🏟️ FLOW EVENTOS",
+    "samples": [
+      {
+        "name": "EVENTOS 1 AR",
+        "uri": "https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5c86e237317c2231ac1bc130e995fad6&key=dcacf7b239ee03df3c69ca11dbcde4eb",
+        "icono": "https://github.com/portedev/algo/releases/download/nadav1/Fl0w.png"
+      },
+      {
+        "name": "EVENTOS 2 AR",
+        "uri" : "https://cdn.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_Live_dash_enc/Eventos_2_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e54e9ea87a634658fbba0e380aa701a7&key=4e486d25d7d0e7d131743b285963c643",
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/Fl0wEv3nt0s.png"
+      },
+      {
+        "name": "EVENTOS 3 AR",
+        "uri" : "https://cdn.cvattv.com.ar/live/c6eds/Canal_90/SA_Live_dash_enc/Canal_90.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ca50103f3285421e8be7da8c0c0e7a54&key=3608e92a6feddf228c1f035ebb764426",
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/Fl0wEv3nt0s.png"
+      },
+      {
+        "name": "EVENTOS 1 UY",
+        "uri" : "https://cdn.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_Live_dash_enc/Eventos_HD_Uy.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=48d0e34c8797c5c2a742d2630a8fb975&key=fb5d12b9d8febe836e5670abd003ddca",
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/Fl0wEv3nt0s.png"
+      },
+      {
+        "name": "EVENTOS 2 UY",
+        "uri" : "https://cdn.cvattv.com.ar/live/c4eds/Eventos_2_UY/SA_Live_dash_enc_C/Eventos_2_UY.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=87bfded2bdfbd3ad9dce4d30b2739fd1&key=e80b0d66d60fa0a2d24d8b36055a6fef",
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/Fl0wEv3nt0s.png"
+      },
+      {
+        "name": "EVENTOS 3 UY",
+        "uri" : "https://cdn.cvattv.com.ar/live/c4eds/Eventos3_UY/SA_Live_dash_enc_C/Eventos3_UY.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f774b06a300783596f27b552226de9c0&key=4d6256b28b487bcf906bcf0328635747",
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/Fl0wEv3nt0s.png"
+      }
+    ]
+  },
+  {
     "name": "⚽ PACK FUTBOL ARG",
     "samples": [
       {
@@ -386,13 +580,6 @@
   {
     "name": "\uD83C\uDFC6 DEPORTES",
     "samples": [
-      {
-        "name": "FLOW EVENTOS",
-        "uri": "https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5c86e237317c2231ac1bc130e995fad6&key=dcacf7b239ee03df3c69ca11dbcde4eb",
-        "icono": "https://github.com/portedev/algo/releases/download/nadav1/Fl0w.png"
-      },
       {
         "name": "TYC SPORTS",
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
@@ -476,6 +663,13 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a0aa01337a2148bda1e21862295ae037&key=fee0f87a0527497351fc54ce36ad1de2",
         "icono": "https://github.com/portedev/algo/releases/download/nadav1/am3r1c4sp0rts.png"
+      },
+      {
+        "name": "SHOW SPORTS CORDOBA",
+        "uri" : "https://cdn.cvattv.com.ar/live/c4eds/Show_Sports/SA_Live_dash_enc_2A/Show_Sports.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=df3ed6245bb9af1a0346379e8e475dff&key=f86f8457438d4e449d53b956cc1be664",
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/showsports.png"
       },
       {
         "name": "GARAGE TV",
@@ -1217,6 +1411,13 @@
         "icono": "https://github.com/portedev/algo/releases/download/nadav1/C0m3dy.C3ntr4l.png"
       },
       {
+        "name": "USA NETWORK",
+        "uri" : "https://cdn.cvattv.com.ar/live/c7eds/USA_Network/SA_Live_dash_enc/USA_Network.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c754b522b3b87dc2ba2da3e35154ec14&key=141a51e9e83861ae99b4b217431710b3",
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/usa.png"
+      },
+      {
         "name": "PARAMOUNT",
         "uri" : "https://cdn.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc/Paramount.mpd",
         "drm_scheme": "clearkey",
@@ -1338,6 +1539,13 @@
         "name": "KIDS TV",
         "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master_es.m3u8",
         "icono": "https://github.com/portedev/algo/releases/download/nadav1/kidstv.png"
+      },
+      {
+        "name": "KIDOO",
+        "uri" : "https://cdn.cvattv.com.ar/live/c6eds/Kidoo/SA_Live_dash_enc/Kidoo.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dcd89337a501ab929c01a039774089dc&key=e96cc7be9139a8d581b3f5eebebfc10d",
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/kidoo.png"
       },
       {
         "name": "TOONZ KIDS",
@@ -1954,6 +2162,13 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=53d752e4649dadd808d913985f86ee77&key=d1fd24db1b61d634cabfc44538ce9b0e",
         "icono": "https://github.com/portedev/algo/releases/download/nadav1/telemundo.png"
+      },
+      {
+        "name": "D NEWS",
+        "uri" : "https://cdn.cvattv.com.ar/live/c7eds/DNews/SA_Live_dash_enc/DNews.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=21563d82cfb7fdd18b213f0bd92a274f&key=5940d8d0b57b9e6533e99cc0e7bf2f8e",
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/dn3ws.png"
       },
       {
         "name": "BBC WORLD NEWS",
