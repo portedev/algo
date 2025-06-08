@@ -1455,14 +1455,14 @@
         "uri": "https://cdn.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_wl/CartoonNetwork.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d7df56efaa36a71141d238854cc46d1d&key=8abb2ee9150d8b2af8ebec0de0f833c8",
-        "icono": "https://github.com/portedev/algo/releases/download/nadav1/cartoonNet.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/cart00nN3t.png"
       },
       {
         "name": "CARTOONITO",
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc/Boomerang.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5792e613fceb699c79cbc0e75fe4cd37&key=a672793730476ed23e5c1bce2ff570c6",
-        "icono": "https://github.com/portedev/algo/releases/download/nadav1/cart.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/cartoon1t0.png"
       },
       {
         "name": "TOONCAST",
@@ -1490,14 +1490,14 @@
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc/Dreamworks.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7f30c43e47544412221fd64201d92f4b&key=f83d09d75a0946b1d71aa48c201b4d8b",
-        "icono": "https://github.com/portedev/algo/releases/download/nadav1/dream.png"
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/dreamsw0rks.png"
       },
       {
         "name": "DISCOVERY KIDS",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_Kids.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ffb2f0f63c23a3592d4653e938b9ca19&key=d3661ae881fc55fc7a15815cd439747b",
-        "icono": "https://github.com/portedev/algo/releases/download/nadav1/discoverykids.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/discov3ryKids.png"
       },
       {
         "name": "NICKELODEON",
