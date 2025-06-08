@@ -1268,7 +1268,7 @@
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/DHE/SA_Live_dash_enc/DHE.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ff800156f81f70c687eccaadedc2ca15&key=937ba1301e27008b34d02b9d8a31a0db",
-        "icono": "https://i.ibb.co/wCQcFwJ/dhe.png"
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/dhe.png"
       },
       {
         "name": "TCM",
@@ -1289,14 +1289,14 @@
         "uri" : "https://cdn.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc/CinecanalHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6003e92dd0d9f548329015c9e15dd578&key=213cf85cb5f9fe569757004a77e05948",
-        "icono": "https://github.com/portedev/algo/releases/download/nadav1/cinecanal.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/C1n3C4n4l.png"
       },
       {
         "name": "TNT",
         "uri" : "https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc/TNT_HD_Arg.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=faad1722a575f4d9ec7b774db63c879c&key=cf0184830344ba36ad2ffef9dd2dd9d0",
-        "icono": "https://github.com/portedev/algo/releases/download/nadav1/tnt.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/tnt.png"
       },
       {
         "name": "TNT SERIES",
@@ -1324,21 +1324,21 @@
         "uri" : "https://cdn.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0942e4ecd1bd3567e8f9447f45c20a12&key=efca6264f04cf7373de0c30ec79fe909",
-        "icono": "https://github.com/portedev/algo/releases/download/nadav1/space.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/sp4c3.png"
       },
       {
         "name": "CINE AR",
         "uri" : "https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc/INCAA_Tv.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d44f40e49d2945c1a3701c0885ff0b00&key=6382b6279087402714b6824688c456df",
-        "icono": "https://github.com/portedev/algo/releases/download/nadav1/cinear.png"
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/C1n3Ar.png"
       },
       {
         "name": "STAR CHANNEL",
         "uri" : "https://cdn.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8023e85ef9d17561ee1b424179b1b15e&key=477ad189f1fcd2baec026068107f862f",
-        "icono": "https://github.com/portedev/algo/releases/download/nadav1/star.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/St4rCh4nn3l.png"
       },
       {
         "name": "SONY CHANNEL",
@@ -1366,14 +1366,14 @@
         "uri" : "https://cdn.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc/AXNHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=03e77b5bbf5135a85d587c5af2f2f730&key=1dd1ab1938a791d03f09eb88478b4880",
-        "icono": "https://github.com/portedev/algo/releases/download/nadav1/axn.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/axn.png"
       },
       {
         "name": "STUDIO UNIVERSAL",
         "uri" : "https://cdn.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc/Studio_Universal.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d9b541e3cd064d569843da42788d4263&key=bba5d26ad5051fb3f2cf7e3dd8a4a7d8",
-        "icono": "https://github.com/portedev/algo/releases/download/nadav1/studio.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/Stud1oUn1v3r.png"
       },
       {
         "name": "A&E",
