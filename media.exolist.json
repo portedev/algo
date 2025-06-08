@@ -173,7 +173,7 @@
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/KZO/SA_Live_dash_enc/KZO.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=695d07988114f7fec31f8f27a6d67c32&key=8e4fbb96cff6a31c88f81565b199a13a",
-        "icono": "https://i.ibb.co/GWyrYZY/kzo.png"
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/kzo.png"
       },
       {
         "name": "DIPUTADOS TV",
@@ -1153,56 +1153,56 @@
         "uri": "https://cdn.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=5317283f4110fac3fb3a0becd9f648bc&key%5B%5D=0754a03c926b1247216e01d9dbcfac28",
-        "icono": "https://github.com/portedev/algo/releases/download/nadav1/hbo.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/hb0.png"
       },
       {
         "name": "HBO 2",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=c90cc57ad2c436e5a77db2f8d9db2d85&key%5B%5D=04f6c73984bdcffd013050608497935d",
-        "icono": "https://github.com/portedev/algo/releases/download/nadav1/hbo2.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/hb0_2.png"
       },
       {
         "name": "HBO XTREME",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=d504011bbef467c0de3a7534e302a6d4&key%5B%5D=334103e2abe16faa7f9ab2e3097c5a58",
-        "icono": "https://github.com/portedev/algo/releases/download/nadav1/hboxtreme.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/hb0xtreme.png"
       },
       {
         "name": "HBO FAMILY",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc/HBO_Family.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=535473132f68082160b489482ca35f8e&key%5B%5D=e90fd91fcd3fc809bed2b1c0d37f7297",
-        "icono": "https://github.com/portedev/algo/releases/download/nadav1/hbofam.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/hb0Family.png"
       },
       {
         "name": "HBO SIGNATURE",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc/HBO_Signature.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=e866499fbc1149f49989672075aa3a68&key%5B%5D=d2dd5c95623c6343240981c2202fc311",
-        "icono": "https://github.com/portedev/algo/releases/download/nadav1/hbosig.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/hb0Signature.png"
       },
       {
         "name": "HBO MUNDI",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=7821b2662148fe333d5191acbb8a5c1f&key%5B%5D=ae43f3e2545237ebda58b13813b5d328",
-        "icono": "https://github.com/portedev/algo/releases/download/nadav1/hbomundi.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/hb0Mund1.png"
       },
       {
         "name": "HBO PLUS",
         "uri": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Plus.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=f0e7f7d458990edfab7b98b412564615&key%5B%5D=79205754b7f84a62661c2dbe9de5dd5d",
-        "icono": "https://github.com/portedev/algo/releases/download/nadav1/hboplus.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/hb0Plus.png"
       },
       {
         "name": "HBO POP",
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=f4e1ce5cef7e9a110fe968f8881b21fa&key%5B%5D=6bbe2062b150b11496cdd5fbdd9c89d6",
-        "icono": "https://github.com/portedev/algo/releases/download/nadav1/hbopop.webp"
+        "icono": "https://github.com/portedev/algo/releases/download/4gr3g4r_Nuev/hb0pop.png"
       }
     ]
   },
